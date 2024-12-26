@@ -1,0 +1,1248 @@
+occupation_name,country,state,count,hispanic_or_latino_n,white_n,black_n,asian_n,pacific_islander_n,american_or_alaskan_native_n,other_or_multiple_n,less_than_30yrs_n,30_to_39_yrs_n,40_to_49_yrs_n,50_to_59_yrs_n,60_or_older_n,male_n,female_n,hispanic_or_latino_percentage,white_percentage,black_percentage,asian_percentage,pacific Islander_percentage,american_or_alaskan_native_percentage,other_or_multiple_percentage,less_than_30yrs_percentage,30_to_39_yrs_percentage,40_to_49_yrs_percentage,50_to_59_yrs_percentage,60_or_older_percentage,male_percentage,female_percentage
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Alabama,5364,0,4739,455,0,0,0,0,0,1847,1809,846,459,898,4466,0,88.348,8.482,0,0,0,0,0,34.433,33.725,15.772,8.557,16.741,83.259
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Alaska,756,0,0,0,0,0,0,0,0,0,0,0,0,0,750,0,0,0,0,0,0,0,0,0,0,0,0,0,99.206
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Arizona,4960,580,3549,314,219,0,0,0,0,1239,1592,1026,1027,903,4057,11.694,71.552,6.331,4.415,,,,,24.98,32.097,20.685,20.706,18.206,81.794
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Arkansas,2571,0,2202,0,,0,0,0,0,843,844,549,,357,2214,0,85.648,,,,,,,32.789,32.828,21.354,,13.886,86.114
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,California,17615,2022,8923,1047,4635,0,0,926,863,5623,4667,3450,3012,2894,14721,11.479,50.656,5.944,26.313,,,5.257,4.899,31.922,26.494,19.586,17.099,16.429,83.571
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Colorado,4703,0,4130,0,,0,0,0,0,1605,1155,1158,662,626,4077,0,87.816,0,,,,,,34.127,24.559,24.623,14.076,13.311,86.689
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Connecticut,2661,0,2276,,,0,0,0,0,812,491,516,711,283,2378,0,85.532,0,,,,,,30.515,18.452,19.391,26.719,10.635,89.365
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Delaware,1191,0,847,,,0,0,0,0,,,,,,1033,0,71.117,0,,,,,,,,,,,86.734
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,District of Columbia,918,0,616,,,0,0,0,0,493,,,,,823,0,67.102,0,,,,,,53.704,,,,,89.651
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Florida,16986,3602,10481,1386,1096,0,0,421,1118,5224,4516,3587,2541,3427,13559,21.206,61.704,8.16,6.452,,,2.479,6.582,30.755,26.587,21.117,14.959,20.175,79.825
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Georgia,8672,0,6304,1543,,0,0,0,582,2877,3029,1600,584,1632,7040,0,72.694,17.793,,,,,6.711,33.176,34.929,18.45,6.734,18.819,81.181
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Hawaii,838,0,228,,,0,0,0,0,,,,,,713,0,27.208,0,,,,,,,,,,,85.084
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Idaho,1565,0,1452,,,0,0,0,0,,512,,252,,1098,0,92.78,0,,,,,,,32.716,,16.102,,70.16
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Illinois,9525,0,7387,,623,0,0,0,673,3149,2651,2014,1038,887,8638,0,77.554,0,6.541,,,,7.066,33.06,27.832,21.144,10.898,9.312,90.688
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Indiana,5687,0,5331,,,0,0,0,521,1775,1304,1184,903,430,5257,0,93.74,0,,,,,9.161,31.212,22.929,20.819,15.878,7.561,92.439
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Iowa,2377,0,2071,,,0,0,0,0,959,491,459,417,,2019,0,87.127,0,,,,,,40.345,20.656,19.31,17.543,,84.939
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Kansas,3207,0,2591,,,0,0,0,0,1131,1179,640,245,708,2499,0,80.792,0,,,,,,35.267,36.763,19.956,7.64,22.077,77.923
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Kentucky,5510,0,5253,,,0,0,0,357,2172,1967,735,279,805,4705,0,95.336,0,,,,,6.479,39.419,35.699,13.339,5.064,14.61,85.39
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Louisiana,4103,0,3401,572,,0,0,0,0,1738,1251,648,310,1046,3057,0,82.891,13.941,,,,,,42.359,30.49,15.793,7.555,25.494,74.506
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Maine,1582,0,1579,,,0,0,0,0,,478,,279,,1318,0,99.81,,,,,,,,30.215,,17.636,,83.312
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Maryland,4709,0,3313,886,,0,0,0,0,1713,1372,738,704,,4465,0,70.355,18.815,,,,,,36.377,29.136,15.672,14.95,,94.818
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Massachusetts,8726,463,7118,546,349,0,0,0,935,3135,1973,1437,1246,738,7988,5.306,81.572,6.257,4,,,,10.715,35.927,22.611,16.468,14.279,8.457,91.543
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Michigan,8261,0,7301,,,0,0,0,321,2639,2325,1590,1386,1512,6749,0,88.379,,,,,,3.886,31.945,28.144,19.247,16.778,18.303,81.697
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Minnesota,5407,0,5108,,,0,0,0,0,2122,1612,914,412,583,4824,0,94.47,,,,,,,39.245,29.813,16.904,7.62,10.782,89.218
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Mississippi,3454,0,2908,440,,0,0,0,0,998,1007,,396,675,2779,0,84.192,12.739,,,,,,28.894,29.155,,11.465,19.543,80.457
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Missouri,8025,0,7097,,,0,0,0,404,2715,2253,1532,1121,966,7059,0,88.436,,,,,,5.034,33.832,28.075,19.09,13.969,12.037,87.963
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Montana,961,0,961,,,0,0,0,0,,381,,118,,840,0,100,,,,,,,,39.646,,12.279,,87.409
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Nebraska,1803,0,1693,,,0,0,0,0,785,,,,,1550,0,93.899,,,,,,,43.539,,,,,85.968
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Nevada,1244,0,666,,403,0,0,0,0,615,,,,,1024,,53.537,,32.395,,,,,49.437,,,,,82.315
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,New Hampshire,1375,0,1232,,,0,0,0,0,378,421,304,241,,1174,,89.6,,,,,,,27.491,30.618,22.109,17.527,,85.382
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,New Jersey,4727,0,3097,519,545,0,0,0,0,1500,1059,1016,869,707,4020,,65.517,10.979,11.53,,,,,31.733,22.403,21.494,18.384,14.957,85.043
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,New Mexico,1540,0,1054,,,0,0,0,0,219,385,532,291,,1336,,68.442,,,,,,,14.221,25,34.545,18.896,,86.753
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,New York,16307,1081,11404,1343,1982,0,0,491,1060,4822,3825,3586,3014,2182,14125,6.629,69.933,8.236,12.154,,,3.011,6.5,29.57,23.456,21.991,18.483,13.381,86.619
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,North Carolina,9554,0,7750,984,631,0,0,0,0,3501,2604,1856,942,1381,8173,,81.118,10.299,6.605,,,,,36.644,27.256,19.426,9.86,14.455,85.545
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,North Dakota,1192,0,1192,,,0,0,0,0,,,,,,,,100,,,,,,,,,,,,
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Ohio,13755,0,11856,1045,,0,0,0,788,5711,4048,1941,1267,1927,11828,,86.194,7.597,,,,,5.729,41.519,29.429,14.111,9.211,14.009,85.991
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Oklahoma,2107,0,1521,,,0,0,0,0,1091,501,419,,,1663,,72.188,,,,,,,51.78,23.778,19.886,,,78.927
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Oregon,3531,0,3044,,,0,0,0,0,887,843,563,1143,512,3019,,86.208,,,,,,,25.12,23.874,15.944,32.37,14.5,85.5
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Pennsylvania,12980,0,11271,576,660,0,0,0,822,4343,3263,2335,2217,2085,10895,,86.834,4.438,5.085,,,,6.333,33.459,25.139,17.989,17.08,16.063,83.937
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Rhode Island,696,0,596,,,0,0,0,0,363,,,,,661,,85.632,,,,,,,52.155,,,,,94.971
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,South Carolina,4513,0,3987,,,0,0,0,0,1560,1233,,485,,3789,,88.345,,,,,,,34.567,27.321,,10.747,,83.957
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,South Dakota,511,0,511,,,0,0,0,0,,,,,,397,,100,,,,,,,,,,,,77.691
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Tennessee,9999,0,8807,715,,0,0,,708,4210,2124,1990,967,1561,8438,,88.079,7.151,,,,,7.081,42.104,21.242,19.902,9.671,15.612,84.388
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Texas,20917,3522,12170,2878,1787,0,0,,1207,7771,6539,3403,1997,4769,16148,16.838,58.182,13.759,8.543,,,,5.77,37.152,31.262,16.269,9.547,22.8,77.2
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Utah,1943,0,1838,,,0,0,,,549,601,547,,772,1171,,94.596,,,,,,,28.255,30.932,28.152,,39.732,60.268
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Vermont,702,0,644,,,0,0,,,,,,,,556,,91.738,,,,,,,,,,,,79.202
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Virginia,7765,0,6151,790,401,0,0,,,2401,2454,1601,1027,832,6933,,79.214,10.174,5.164,,,,,30.921,31.603,20.618,13.226,10.715,89.285
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Washington,5750,0,4718,,480,0,0,,,2084,1469,954,989,935,4815,,82.052,,8.348,,,,,36.243,25.548,16.591,17.2,16.261,83.739
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,West Virginia,1819,0,1670,,,0,0,,,511,645,,,369,1450,,91.809,,,,,,,28.092,35.459,,,20.286,79.714
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Wisconsin,4819,0,4493,,,0,0,,,1548,1367,1071,650,609,4210,,93.235,,,,,,,32.123,28.367,22.225,13.488,12.637,87.363
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,Wyoming,772,0,722,,,0,0,,,,,,,,746,,93.523,,,,,,,,,,,,96.632
+Advanced Practice Registered Nurses (excl. Clinical Nurse Specialists),United States,All States,270655,16500,209856,19406,17083,0,586,7079,15213,93492,74561,50947,36442,42429,228226,6.096,77.536,7.17,6.312,,0.217,2.616,5.621,34.543,27.548,18.824,13.464,15.676,84.324
+Counselors,United States,Alaska,1572,0,820,,,0,0,,,,,,,,874,,52.163,,,,,,,,,,,,55.598
+Counselors,United States,Arizona,7404,1593,4710,,,0,0,,962,1844,1590,1518,1490,2289,5115,21.515,63.614,,,,,,12.993,24.905,21.475,20.502,20.124,30.916,69.084
+Counselors,United States,Arkansas,2797,0,1715,893,,0,0,,520,853,687,293,444,766,2031,,61.316,31.927,,,,,18.591,30.497,24.562,10.476,15.874,27.386,72.614
+Counselors,United States,California,54311,17705,24292,4801,4895,0,0,2109,13736,14194,9690,8057,8634,15701,38610,32.599,44.728,8.84,9.013,,,3.883,25.291,26.135,17.842,14.835,15.897,28.909,71.091
+Counselors,United States,Colorado,7776,776,6161,198,,0,0,414,1597,2131,1559,1174,1315,1528,6248,9.979,79.231,2.546,,,,5.324,20.538,27.405,20.049,15.098,16.911,19.65,80.35
+Counselors,United States,Connecticut,4784,342,3328,761,,0,0,,1006,1244,901,967,666,1140,3644,7.149,69.565,15.907,,,,,21.028,26.003,18.834,20.213,13.921,23.829,76.171
+Counselors,United States,Delaware,1899,0,1009,,,0,0,,,,547,,,,1548,,53.133,,,,,,,,28.805,,,,81.517
+Counselors,United States,District of Columbia,1169,0,305,681,,0,0,,,,,,345,572,597,,26.091,58.255,,,,,,,,,29.512,48.931,51.069
+Counselors,United States,Florida,23400,6348,11308,4891,388,0,0,453,4694,5975,5254,3693,3784,6306,17094,27.128,48.325,20.902,1.658,,,1.936,20.06,25.534,22.453,15.782,16.171,26.949,73.051
+Counselors,United States,Georgia,10391,0,4640,4880,,0,0,368,1525,3398,2512,1788,1168,2078,8313,,44.654,46.964,,,,3.542,14.676,32.701,24.175,17.207,11.24,19.998,80.002
+Counselors,United States,Hawaii,1716,0,656,,470,0,0,,,664,706,183,,503,1213,,38.228,,27.389,,,,,38.695,41.142,10.664,,29.312,70.688
+Counselors,United States,Idaho,3023,0,2573,,,0,0,,519,594,704,338,868,846,2177,,85.114,,,,,,17.168,19.649,23.288,11.181,28.713,27.985,72.015
+Counselors,United States,Illinois,15654,1995,9359,3493,433,0,0,,3966,3629,3090,2527,2442,4537,11117,12.744,59.787,22.314,2.766,,,,25.335,23.183,19.739,16.143,15.6,28.983,71.017
+Counselors,United States,Indiana,7163,0,5528,1268,,0,0,,2002,1588,1465,871,1237,1579,5584,,77.174,17.702,,,,,27.949,22.169,20.452,12.16,17.269,22.044,77.956
+Counselors,United States,Iowa,4400,0,3631,,,0,0,,1433,1090,867,673,337,1161,3239,,82.523,,,,,,32.568,24.773,19.705,15.295,7.659,26.386,73.614
+Counselors,United States,Kansas,3117,0,2370,,,0,0,,308,1083,937,300,489,776,2341,,76.035,,,,,,9.881,34.745,30.061,9.625,15.688,24.896,75.104
+Counselors,United States,Kentucky,5054,0,4300,478,,0,0,,936,1315,1483,883,437,1452,3602,,85.081,9.458,,,,,18.52,26.019,29.343,17.471,8.647,28.73,71.27
+Counselors,United States,Louisiana,7323,0,2924,3967,,0,0,,2018,1802,1438,1040,1025,1495,5828,,39.929,54.172,,,,,27.557,24.607,19.637,14.202,13.997,20.415,79.585
+Counselors,United States,Maine,2909,0,2682,,,0,0,,,513,598,739,684,877,2032,,92.197,,,,,,,17.635,20.557,25.404,23.513,30.148,69.852
+Counselors,United States,Maryland,8246,567,4137,3147,,0,0,,2408,2123,1260,1469,986,1847,6399,6.876,50.17,38.164,,,,,29.202,25.746,15.28,17.815,11.957,22.399,77.601
+Counselors,United States,Massachusetts,16541,1583,10481,3474,595,0,0,408,4526,4095,2738,2608,2574,5131,11410,9.57,63.364,21.002,3.597,,,2.467,27.362,24.757,16.553,15.767,15.561,31.02,68.98
+Counselors,United States,Michigan,8836,0,6164,1678,,0,0,,1645,2228,2019,1400,1544,2183,6653,,69.76,18.99,,,,,18.617,25.215,22.85,15.844,17.474,24.706,75.294
+Counselors,United States,Minnesota,10622,327,9170,536,,0,0,,2524,3215,2174,1492,1217,2974,7648,3.079,86.33,5.046,,,,,23.762,30.267,20.467,14.046,11.457,27.998,72.002
+Counselors,United States,Mississippi,2073,0,909,1111,,0,0,,,618,535,,,246,1827,,43.849,53.594,,,,,,29.812,25.808,,,11.867,88.133
+Counselors,United States,Missouri,7006,0,5195,1163,,0,0,,1250,1563,1564,1250,1379,2453,4553,,74.151,16.6,,,,,17.842,22.309,22.324,17.842,19.683,35.013,64.987
+Counselors,United States,Montana,2186,0,1931,,,0,0,,,748,,,387,703,1483,,88.335,,,,,,,34.218,,,17.704,32.159,67.841
+Counselors,United States,Nebraska,2585,0,2060,,,0,0,,607,741,375,,545,647,1938,,79.691,,,,,,23.482,28.665,14.507,,21.083,25.029,74.971
+Counselors,United States,Nevada,1738,389,1002,,,0,0,,298,608,325,,,550,1188,22.382,57.652,,,,,,17.146,34.983,18.7,,,31.646,68.354
+Counselors,United States,New Hampshire,2424,0,2027,,,0,0,,804,381,,597,334,621,1803,,83.622,,,,,,33.168,15.718,,24.629,13.779,25.619,74.381
+Counselors,United States,New Jersey,10666,1242,6016,2855,415,0,0,,2563,3375,1310,1637,1781,2617,8049,11.644,56.404,26.767,3.891,,,,24.03,31.643,12.282,15.348,16.698,24.536,75.464
+Counselors,United States,New Mexico,2986,1310,1331,,,0,0,,371,942,,442,580,751,2235,43.871,44.575,,,,,,12.425,31.547,,14.802,19.424,25.151,74.849
+Counselors,United States,New York,30092,5146,16118,6877,1007,0,0,906,8210,7133,4719,4803,5227,9247,20845,17.101,53.562,22.853,3.346,,,3.011,27.283,23.704,15.682,15.961,17.37,30.729,69.271
+Counselors,United States,North Carolina,10987,0,6836,3265,,0,0,278,1834,3105,2136,2328,1584,2175,8812,,62.219,29.717,,,,2.53,16.692,28.261,19.441,21.189,14.417,19.796,80.204
+Counselors,United States,North Dakota,834,0,698,,,0,0,,,,,,209,,591,,83.693,,,,,,,,,,25.06,,70.863
+Counselors,United States,Ohio,15448,316,11704,2871,,0,0,,3613,3616,2842,2655,2722,3879,11569,2.046,75.764,18.585,,,,,23.388,23.408,18.397,17.187,17.62,25.11,74.89
+Counselors,United States,Oklahoma,5278,0,3466,,,0,286,326,,1024,905,1025,925,1769,3509,,65.669,,,,5.419,6.177,,19.401,17.147,19.42,17.526,33.516,66.484
+Counselors,United States,Oregon,8093,629,6477,,,0,0,625,1042,2068,1512,2128,1343,2186,5907,7.772,80.032,,,,,7.723,12.875,25.553,18.683,26.294,16.595,27.011,72.989
+Counselors,United States,Pennsylvania,25027,1423,16703,5664,521,0,0,701,5717,7342,5192,3452,3324,7090,17937,5.686,66.74,22.632,2.082,,,2.801,22.843,29.336,20.746,13.793,13.282,28.329,71.671
+Counselors,United States,Rhode Island,2316,0,1863,,,0,0,,491,715,496,305,309,482,1834,,80.44,,,,,,21.2,30.872,21.416,13.169,13.342,20.812,79.188
+Counselors,United States,South Carolina,5569,0,2995,2175,,0,0,,1283,1174,894,1366,852,2143,3426,,53.78,39.055,,,,,23.038,21.081,16.053,24.529,15.299,38.481,61.519
+Counselors,United States,South Dakota,1645,0,1387,,,0,0,,,,,,,,1465,,84.316,,,,,,,,,,,,89.058
+Counselors,United States,Tennessee,7028,0,4963,1481,,0,0,,1393,2076,1345,1313,901,1524,5504,,70.618,21.073,,,,,19.821,29.539,19.138,18.682,12.82,21.685,78.315
+Counselors,United States,Texas,23059,6018,12367,3628,461,0,0,502,4479,6847,4620,4000,3113,5600,17459,26.098,53.632,15.734,1.999,,,2.177,19.424,29.693,20.036,17.347,13.5,24.286,75.714
+Counselors,United States,Utah,3754,0,3157,,,0,0,,1069,1097,762,447,379,1195,2559,,84.097,,,,,,28.476,29.222,20.298,11.907,10.096,31.833,68.167
+Counselors,United States,Vermont,2613,0,2327,,,0,0,,558,598,637,,,640,1973,,89.055,,,,,,21.355,22.886,24.378,,,24.493,75.507
+Counselors,United States,Virginia,14834,558,7295,6037,,0,0,,3752,4251,2504,2584,1743,3389,11445,3.762,49.178,40.697,,,,,25.293,28.657,16.88,17.419,11.75,22.846,77.154
+Counselors,United States,Washington,13610,731,10822,706,593,0,0,673,2386,3281,2632,2811,2500,3486,10124,5.371,79.515,5.187,4.357,,,4.945,17.531,24.107,19.339,20.654,18.369,25.614,74.386
+Counselors,United States,West Virginia,1836,0,1816,,,0,0,,328,,,342,,419,1417,,98.911,,,,,,17.865,,,18.627,,22.821,77.179
+Counselors,United States,Wisconsin,5483,0,4864,,,0,0,,1389,1121,1196,996,781,1160,4323,,88.711,,,,,,25.333,20.445,21.813,18.165,14.244,21.156,78.844
+Counselors,United States,Wyoming,672,0,585,,,0,0,,,,,,,,495,,87.054,,,,,,,,,,,,73.661
+Counselors,United States,All States,424923,53972,262252,79078,13187,498,2030,13906,94808,111679,82732,69963,65741,113517,311406,12.702,61.718,18.61,3.103,0.117,0.478,3.273,22.312,26.282,19.47,16.465,15.471,26.715,73.285
+Diagnostic Related Technologists & Technicians,United States,Alabama,7508,0,6159,705,,0,0,,1735,1598,1962,1534,679,2279,5229,,82.032,9.39,,,,,23.109,21.284,26.132,20.432,9.044,30.354,69.646
+Diagnostic Related Technologists & Technicians,United States,Alaska,1336,0,793,,,0,0,,,,,,,,,,59.356,,,,,,,,,,,,
+Diagnostic Related Technologists & Technicians,United States,Arizona,8120,1811,5179,,396,0,0,283,1220,2587,1829,1652,832,3329,4791,22.303,63.781,,4.877,,,3.485,15.025,31.86,22.525,20.345,10.246,40.998,59.002
+Diagnostic Related Technologists & Technicians,United States,Arkansas,3952,0,3278,,,0,0,,674,1055,1054,721,448,1376,2576,,82.945,,,,,,17.055,26.695,26.67,18.244,11.336,34.818,65.182
+Diagnostic Related Technologists & Technicians,United States,California,41946,11595,17846,2390,8237,0,0,1664,4603,12236,9581,9190,6336,19619,22327,27.643,42.545,5.698,19.637,,,3.967,10.974,29.171,22.841,21.909,15.105,46.772,53.228
+Diagnostic Related Technologists & Technicians,United States,Colorado,5810,653,4851,,,0,0,,629,1650,1745,1104,682,2081,3729,11.239,83.494,,,,,,10.826,28.399,30.034,19.002,11.738,35.818,64.182
+Diagnostic Related Technologists & Technicians,United States,Connecticut,5211,0,3642,,556,0,0,,945,1163,1342,998,763,1414,3797,,69.891,,10.67,,,,18.135,22.318,25.753,19.152,14.642,27.135,72.865
+Diagnostic Related Technologists & Technicians,United States,Delaware,1452,0,1289,,,0,0,,,,,321,,,1171,,88.774,,,,,,,,,22.107,,,80.647
+Diagnostic Related Technologists & Technicians,United States,District of Columbia,1217,0,376,552,,0,0,,,,,,,429,788,,30.896,45.357,,,,,,,,,,35.251,64.749
+Diagnostic Related Technologists & Technicians,United States,Florida,28839,6265,16986,3050,1534,0,0,930,4367,7085,6771,6671,3945,12024,16815,21.724,58.899,10.576,5.319,,,3.225,15.143,24.567,23.479,23.132,13.679,41.694,58.306
+Diagnostic Related Technologists & Technicians,United States,Georgia,13792,348,9094,3771,396,0,0,,2597,3520,3675,3133,867,4128,9664,2.523,65.937,27.342,2.871,,,,18.83,25.522,26.646,22.716,6.286,29.93,70.07
+Diagnostic Related Technologists & Technicians,United States,Hawaii,1542,0,318,,544,0,0,311,,485,,,,736,806,,20.623,,35.279,,,20.169,,31.453,,,,47.73,52.27
+Diagnostic Related Technologists & Technicians,United States,Idaho,2142,0,1913,,,0,0,,,823,475,,,789,1353,,89.309,,,,,,,38.422,22.176,,,36.835,63.165
+Diagnostic Related Technologists & Technicians,United States,Illinois,17918,1683,12340,1654,1747,0,0,,2755,4995,4434,3756,1978,5429,12489,9.393,68.869,9.231,9.75,,,,15.376,27.877,24.746,20.962,11.039,30.299,69.701
+Diagnostic Related Technologists & Technicians,United States,Indiana,10109,621,8307,635,,0,0,,1776,2669,2868,1797,999,1961,8148,6.143,82.174,6.282,,,,,17.569,26.402,28.371,17.776,9.882,19.399,80.601
+Diagnostic Related Technologists & Technicians,United States,Iowa,4397,0,4078,,,0,0,,1323,1385,807,466,416,767,3630,,92.745,,,,,,30.089,31.499,18.353,10.598,9.461,17.444,82.556
+Diagnostic Related Technologists & Technicians,United States,Kansas,3507,0,2939,,,0,0,,790,1190,,543,330,815,2692,,83.804,,,,,,22.526,33.932,,15.483,9.41,23.239,76.761
+Diagnostic Related Technologists & Technicians,United States,Kentucky,6611,0,5972,,,0,0,,1108,2176,1732,884,711,1618,4993,,90.334,,,,,,16.76,32.915,26.199,13.372,10.755,24.474,75.526
+Diagnostic Related Technologists & Technicians,United States,Louisiana,6456,0,4808,573,348,0,0,,1570,2013,1261,931,681,2499,3957,,74.473,8.875,5.39,,,,24.318,31.18,19.532,14.421,10.548,38.708,61.292
+Diagnostic Related Technologists & Technicians,United States,Maine,2195,0,2015,,,0,0,,,655,533,302,,611,1584,,91.8,,,,,,,29.841,24.282,13.759,,27.836,72.164
+Diagnostic Related Technologists & Technicians,United States,Maryland,8419,0,5045,1935,750,0,0,,1091,2288,2442,1650,948,2531,5888,,59.924,22.984,8.908,,,,12.959,27.177,29.006,19.599,11.26,30.063,69.937
+Diagnostic Related Technologists & Technicians,United States,Massachusetts,9991,500,8323,453,519,0,0,,1333,2580,2178,2387,1513,2638,7353,5.005,83.305,4.534,5.195,,,,13.342,25.823,21.8,23.892,15.144,26.404,73.596
+Diagnostic Related Technologists & Technicians,United States,Michigan,14457,507,12059,707,563,0,0,576,2713,3848,2681,3294,1921,3995,10462,3.507,83.413,4.89,3.894,,,3.984,18.766,26.617,18.545,22.785,13.288,27.634,72.366
+Diagnostic Related Technologists & Technicians,United States,Minnesota,8330,0,7331,,,0,0,,1756,2569,1665,1387,953,2337,5993,,88.007,,,,,,21.08,30.84,19.988,16.651,11.441,28.055,71.945
+Diagnostic Related Technologists & Technicians,United States,Mississippi,3906,0,3295,423,,0,0,,973,1177,888,617,251,1478,2428,,84.357,10.829,,,,,24.91,30.133,22.734,15.796,6.426,37.839,62.161
+Diagnostic Related Technologists & Technicians,United States,Missouri,7835,0,6926,,,0,0,,1391,1897,1986,1543,1018,2467,5368,,88.398,,,,,,17.754,24.212,25.348,19.694,12.993,31.487,68.513
+Diagnostic Related Technologists & Technicians,United States,Montana,1592,0,1559,,,0,0,,,,,,,614,978,,97.927,,,,,,,,,,,38.568,61.432
+Diagnostic Related Technologists & Technicians,United States,Nebraska,2791,0,2625,,,0,0,,533,1180,443,,,767,2024,,94.052,,,,,,19.097,42.279,15.872,,,27.481,72.519
+Diagnostic Related Technologists & Technicians,United States,Nevada,3692,527,1979,,729,0,0,,442,852,784,1329,285,1362,2330,14.274,53.602,,19.745,,,,11.972,23.077,21.235,35.997,7.719,36.891,63.109
+Diagnostic Related Technologists & Technicians,United States,New Hampshire,1614,0,1477,,,0,0,,,,559,359,,502,1112,,91.512,,,,,,,,34.634,22.243,,31.103,68.897
+Diagnostic Related Technologists & Technicians,United States,New Jersey,13160,1273,8829,1332,1517,0,0,,2277,3127,3246,2769,1741,4270,8890,9.673,67.09,10.122,11.527,,,,17.302,23.761,24.666,21.041,13.229,32.447,67.553
+Diagnostic Related Technologists & Technicians,United States,New Mexico,2111,1043,896,,,0,0,,683,,506,381,,667,1444,49.408,42.444,,,,,,32.354,,23.97,18.048,,31.596,68.404
+Diagnostic Related Technologists & Technicians,United States,New York,29760,3940,17839,3824,3493,0,0,656,4469,8180,6675,6638,3798,11311,18449,13.239,59.943,12.849,11.737,,,2.204,15.017,27.487,22.429,22.305,12.762,38.007,61.993
+Diagnostic Related Technologists & Technicians,United States,North Carolina,13923,1044,10184,1873,570,0,0,,2673,3134,3697,3277,1142,3491,10432,7.498,73.145,13.453,4.094,,,,19.198,22.51,26.553,23.537,8.202,25.074,74.926
+Diagnostic Related Technologists & Technicians,United States,North Dakota,1134,0,1021,,,0,0,,,,,,,,817,,90.035,,,,,,,,,,,,72.046
+Diagnostic Related Technologists & Technicians,United States,Ohio,16325,616,13823,849,366,0,0,,3317,4329,3178,3453,2048,3895,12430,3.773,84.674,5.201,2.242,,,,20.319,26.518,19.467,21.152,12.545,23.859,76.141
+Diagnostic Related Technologists & Technicians,United States,Oklahoma,5254,0,3955,,,0,0,,987,1817,1104,808,538,1589,3665,,75.276,,,,,,18.786,34.583,21.013,15.379,10.24,30.244,69.756
+Diagnostic Related Technologists & Technicians,United States,Oregon,6094,0,5314,,,0,0,,1048,1636,1335,1482,593,2121,3973,,87.201,,,,,,17.197,26.846,21.907,24.319,9.731,34.805,65.195
+Diagnostic Related Technologists & Technicians,United States,Pennsylvania,20611,656,17692,603,1262,0,0,,3605,5553,4685,4284,2484,5116,15495,3.183,85.838,2.926,6.123,,,,17.491,26.942,22.731,20.785,12.052,24.822,75.178
+Diagnostic Related Technologists & Technicians,United States,Rhode Island,1626,0,1370,,,0,0,,,463,267,297,285,417,1209,,84.256,,,,,,,28.475,16.421,18.266,17.528,25.646,74.354
+Diagnostic Related Technologists & Technicians,United States,South Carolina,6174,0,5057,639,,0,0,,897,2023,1530,1236,488,1759,4415,,81.908,10.35,,,,,14.529,32.766,24.781,20.019,7.904,28.49,71.51
+Diagnostic Related Technologists & Technicians,United States,South Dakota,1568,0,1500,,,0,0,,545,471,,,,,1288,,95.663,,,,,,34.758,30.038,,,,,82.143
+Diagnostic Related Technologists & Technicians,United States,Tennessee,10553,0,9050,902,,0,0,,1698,2844,2454,2692,865,3335,7218,,85.758,8.547,,,,,16.09,26.95,23.254,25.509,8.197,31.602,68.398
+Diagnostic Related Technologists & Technicians,United States,Texas,35772,10152,17844,4092,2685,0,0,889,5920,10625,9050,6493,3684,13660,22112,28.38,49.883,11.439,7.506,,,2.485,16.549,29.702,25.299,18.151,10.299,38.186,61.814
+Diagnostic Related Technologists & Technicians,United States,Utah,3730,0,3160,,,0,0,,678,1310,791,687,,1404,2326,,84.718,,,,,,18.177,35.121,21.206,18.418,,37.641,62.359
+Diagnostic Related Technologists & Technicians,United States,Vermont,641,0,623,,,0,0,,,,,,,,552,,97.192,,,,,,,,,,,,86.115
+Diagnostic Related Technologists & Technicians,United States,Virginia,10517,622,7774,1141,588,0,0,371,1837,2803,2594,2380,903,3397,7120,5.914,73.918,10.849,5.591,,,3.528,17.467,26.652,24.665,22.63,8.586,32.3,67.7
+Diagnostic Related Technologists & Technicians,United States,Washington,9153,0,6891,,916,0,0,393,1116,2906,2397,1713,1021,3235,5918,,75.287,,10.008,,,4.294,12.193,31.749,26.188,18.715,11.155,35.344,64.656
+Diagnostic Related Technologists & Technicians,United States,West Virginia,2940,0,2760,,,0,0,,805,709,728,411,287,742,2198,,93.878,,,,,,27.381,24.116,24.762,13.98,9.762,25.238,74.762
+Diagnostic Related Technologists & Technicians,United States,Wisconsin,9376,0,8790,,,0,0,,1390,3140,2531,1594,721,2000,7376,,93.75,,,,,,14.825,33.49,26.994,17.001,7.69,21.331,78.669
+Diagnostic Related Technologists & Technicians,United States,Wyoming,869,0,857,,,0,0,,,,,,,,738,,98.619,,,,,,,,,,,,84.925
+Diagnostic Related Technologists & Technicians,United States,All States,437978,49651,308031,35787,30897,802,1725,11085,73395,121562,103208,89713,50100,144954,293024,11.336,70.33,8.171,7.054,0.183,0.394,2.531,16.758,27.755,23.565,20.483,11.439,33.096,66.904
+Dietitians and Nutritionists,United States,Alabama,1209,0,944,,,0,,,,,280,,,,1112,,78.081,,,,,,,,23.16,,,,91.977
+Dietitians and Nutritionists,United States,Alaska,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,Arizona,2119,0,1389,,,0,,,453,701,,,,,1892,,65.55,,,,,,21.378,33.082,,,,,89.287
+Dietitians and Nutritionists,United States,Arkansas,872,0,717,,,0,,,,275,,,,,814,,82.225,,,,,,,31.537,,,,,93.349
+Dietitians and Nutritionists,United States,California,10676,2220,5442,617,1868,0,,,1722,2903,2392,1773,1886,1186,9490,20.794,50.974,5.779,17.497,,,,16.13,27.192,22.405,16.607,17.666,11.109,88.891
+Dietitians and Nutritionists,United States,Colorado,2842,0,2395,,,0,,,,1072,,370,,,2535,,84.272,,,,,,,37.72,,13.019,,,89.198
+Dietitians and Nutritionists,United States,Connecticut,1278,0,1001,,,0,,,352,,,327,,,1207,,78.326,,,,,,27.543,,,25.587,,,94.444
+Dietitians and Nutritionists,United States,Delaware,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,District of Columbia,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,Florida,7073,1816,3356,1492,,0,,,2278,1337,1521,951,986,,5407,25.675,47.448,21.094,,,,,32.207,18.903,21.504,13.445,13.94,,76.446
+Dietitians and Nutritionists,United States,Georgia,3815,0,1869,1393,,0,,,587,937,983,715,593,,3588,,48.991,36.514,,,,,15.387,24.561,25.767,18.742,15.544,,94.05
+Dietitians and Nutritionists,United States,Hawaii,283,0,,,,0,,,,,,,,,268,,,,,,,,,,,,,,94.7
+Dietitians and Nutritionists,United States,Idaho,481,0,451,,,0,,,,,,,,,445,,93.763,,,,,,,,,,,,92.516
+Dietitians and Nutritionists,United States,Illinois,3261,0,2760,,,0,,,736,1033,518,537,437,,2986,,84.637,,,,,,22.57,31.677,15.885,16.467,13.401,,91.567
+Dietitians and Nutritionists,United States,Indiana,2292,0,2043,,,0,,,800,684,,217,223,,2022,,89.136,,,,,,34.904,29.843,,9.468,9.729,,88.22
+Dietitians and Nutritionists,United States,Iowa,1188,0,1106,,,0,,,,,,,,,1100,,93.098,,,,,,,,,,,,92.593
+Dietitians and Nutritionists,United States,Kansas,1326,0,1188,,,0,,,,,,,,,1258,,89.593,,,,,,,,,,,,94.872
+Dietitians and Nutritionists,United States,Kentucky,1712,0,1448,,,0,,,,,,,,,1520,,84.579,,,,,,,,,,,,88.785
+Dietitians and Nutritionists,United States,Louisiana,1189,0,917,,,0,,,,,,,,,1090,,77.124,,,,,,,,,,,,91.674
+Dietitians and Nutritionists,United States,Maine,459,0,459,,,0,,,,,,,,,426,,100,,,,,,,,,,,,92.81
+Dietitians and Nutritionists,United States,Maryland,2112,0,1127,713,,0,,,442,381,504,447,,,1890,,53.362,33.759,,,,,20.928,18.04,23.864,21.165,,,89.489
+Dietitians and Nutritionists,United States,Massachusetts,3176,0,2491,,,0,,,754,832,563,598,429,,3056,,78.432,,,,,,23.741,26.196,17.727,18.829,13.508,,96.222
+Dietitians and Nutritionists,United States,Michigan,3299,0,2297,,,0,,,575,906,,802,467,,2792,,69.627,,,,,,17.43,27.463,,24.31,14.156,,84.632
+Dietitians and Nutritionists,United States,Minnesota,2755,0,2630,,,0,,,1061,541,416,384,,276,2479,,95.463,,,,,,38.512,19.637,15.1,13.938,,10.018,89.982
+Dietitians and Nutritionists,United States,Mississippi,973,0,482,490,,0,,,,,,,,,936,,49.538,50.36,,,,,,,,,,,96.197
+Dietitians and Nutritionists,United States,Missouri,2415,0,2004,,,0,,,545,555,,,,,2224,,82.981,,,,,,22.567,22.981,,,,,92.091
+Dietitians and Nutritionists,United States,Montana,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,Nebraska,1006,0,852,,,0,,,,,,,,,786,,84.692,,,,,,,,,,,,78.131
+Dietitians and Nutritionists,United States,Nevada,760,0,544,,,0,,,,,,,,,587,,71.579,,,,,,,,,,,,77.237
+Dietitians and Nutritionists,United States,New Hampshire,598,0,562,,,0,,,,,,,,,589,,93.98,,,,,,,,,,,,98.495
+Dietitians and Nutritionists,United States,New Jersey,3350,0,2141,328,,0,,,690,644,526,709,781,,3282,,63.91,9.791,,,,,20.597,19.224,15.701,21.164,23.313,,97.97
+Dietitians and Nutritionists,United States,New Mexico,482,0,238,,,0,,,,,,,,,414,,49.378,,,,,,,,,,,,85.892
+Dietitians and Nutritionists,United States,New York,7457,751,4788,1148,657,0,,,1386,1817,1704,1420,1130,870,6587,10.071,64.208,15.395,8.811,,,,18.587,24.366,22.851,19.043,15.154,11.667,88.333
+Dietitians and Nutritionists,United States,North Carolina,4520,0,2952,1038,,0,,,800,942,1333,904,541,,4252,,65.31,22.965,,,,,17.699,20.841,29.491,20,11.969,,94.071
+Dietitians and Nutritionists,United States,North Dakota,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,Ohio,5131,0,4362,,,0,,,1027,1519,828,951,806,,4864,,85.013,,,,,,20.016,29.604,16.137,18.534,15.708,,94.796
+Dietitians and Nutritionists,United States,Oklahoma,1380,0,733,,,0,,,,,,,,,1228,,53.116,,,,,,,,,,,,88.986
+Dietitians and Nutritionists,United States,Oregon,1024,0,883,,,0,,,,,,,,,900,,86.23,,,,,,,,,,,,87.891
+Dietitians and Nutritionists,United States,Pennsylvania,4122,0,3429,,,0,,,1245,1095,598,672,512,371,3751,,83.188,,,,,,30.204,26.565,14.508,16.303,12.421,9,91
+Dietitians and Nutritionists,United States,Rhode Island,557,0,530,,,0,,,,,,,,,512,,95.153,,,,,,,,,,,,91.921
+Dietitians and Nutritionists,United States,South Carolina,1516,0,764,711,,0,,,,407,317,,,240,1276,,50.396,46.9,,,,,,26.847,20.91,,,15.831,84.169
+Dietitians and Nutritionists,United States,South Dakota,356,0,270,,,0,,,,,,,,,349,,75.843,,,,,,,,,,,,98.034
+Dietitians and Nutritionists,United States,Tennessee,2503,0,1946,399,,0,,,,370,556,492,276,,2473,,77.747,15.941,,,,,,14.782,22.213,19.656,11.027,,98.801
+Dietitians and Nutritionists,United States,Texas,9163,2338,4216,1340,,0,,,2326,2487,1489,1489,1372,781,8382,25.516,46.011,14.624,,,,,25.385,27.142,16.25,16.25,14.973,8.523,91.477
+Dietitians and Nutritionists,United States,Utah,757,0,703,,,0,,,,,,,,,740,,92.867,,,,,,,,,,,,97.754
+Dietitians and Nutritionists,United States,Vermont,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,Virginia,2798,0,1965,583,,0,,,707,787,427,569,308,,2483,,70.229,20.836,,,,,25.268,28.127,15.261,20.336,11.008,,88.742
+Dietitians and Nutritionists,United States,Washington,2237,0,1805,,,0,,,487,692,506,358,,,2096,,80.688,,,,,,21.77,30.934,22.62,16.004,,,93.697
+Dietitians and Nutritionists,United States,West Virginia,508,0,508,,,0,,,,,,,,,495,,100,,,,,,,,,,,,97.441
+Dietitians and Nutritionists,United States,Wisconsin,2776,0,2483,,,0,,,552,,417,677,,,2516,,89.445,,,,,,19.885,,15.022,24.388,,,90.634
+Dietitians and Nutritionists,United States,Wyoming,,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Dietitians and Nutritionists,United States,All States,111772,10566,76903,13529,7039,0,508,3177,25536,28425,21995,19563,16253,10858,100914,9.453,68.803,12.104,6.298,,0.454,2.842,22.847,25.431,19.678,17.503,14.541,9.714,90.286
+Emergency Medical Technicians and Paramedics,United States,Alabama,3153,0,2747,,,0,,,957,951,804,328,,1660,1493,,87.123,,,,,,30.352,30.162,25.5,10.403,,52.648,47.352
+Emergency Medical Technicians and Paramedics,United States,Alaska,1202,0,803,,,0,,,578,,,,,1004,,,66.805,,,,,,48.087,,,,,83.527,
+Emergency Medical Technicians and Paramedics,United States,Arizona,4654,1086,2724,,,0,,,2040,1299,860,327,,3168,1486,23.335,58.53,,,,,,43.833,27.911,18.479,7.026,,68.07,31.93
+Emergency Medical Technicians and Paramedics,United States,Arkansas,1767,0,1435,,,0,,,611,683,250,,,1015,752,,81.211,,,,,,34.578,38.653,14.148,,,57.442,42.558
+Emergency Medical Technicians and Paramedics,United States,California,23716,6918,12185,1138,2386,0,,968,11788,6980,2941,1309,698,17127,6589,29.17,51.379,4.798,10.061,,,4.082,49.705,29.432,12.401,5.519,2.943,72.217,27.783
+Emergency Medical Technicians and Paramedics,United States,Colorado,4913,838,3380,,,0,,,1833,1372,1027,471,,2923,1990,17.057,68.797,,,,,,37.309,27.926,20.904,9.587,,59.495,40.505
+Emergency Medical Technicians and Paramedics,United States,Connecticut,2782,0,2379,,,0,,,1261,553,457,,,1588,1194,,85.514,,,,,,45.327,19.878,16.427,,,57.081,42.919
+Emergency Medical Technicians and Paramedics,United States,Delaware,1617,0,1377,,,0,,,557,404,,,,1153,464,,85.158,,,,,,34.447,24.985,,,,71.305,28.695
+Emergency Medical Technicians and Paramedics,United States,District of Columbia,429,0,,,,0,,,,,,,,,,,,,,,,,,,,,,,
+Emergency Medical Technicians and Paramedics,United States,Florida,13920,3108,9208,1044,,0,,,4726,4212,2702,1801,479,10050,3870,22.328,66.149,7.5,,,,,33.951,30.259,19.411,12.938,3.441,72.198,27.802
+Emergency Medical Technicians and Paramedics,United States,Georgia,9115,530,6611,1266,,0,,,3060,2575,1832,1437,,6031,3084,5.815,72.529,13.889,,,,,33.571,28.25,20.099,15.765,,66.166,33.834
+Emergency Medical Technicians and Paramedics,United States,Hawaii,2155,610,591,,,0,,,891,554,,,,1583,572,28.306,27.425,,,,,,41.346,25.708,,,,73.457,26.543
+Emergency Medical Technicians and Paramedics,United States,Idaho,1151,0,1150,,,0,,,,,,,,828,323,,99.913,,,,,,,,,,,71.937,28.063
+Emergency Medical Technicians and Paramedics,United States,Illinois,8673,1264,6303,593,,0,,,3421,2604,1126,997,525,5539,3134,14.574,72.674,6.837,,,,,39.444,30.024,12.983,11.495,6.053,63.865,36.135
+Emergency Medical Technicians and Paramedics,United States,Indiana,5284,0,4634,,,0,,,2159,1355,1285,343,,3151,2133,,87.699,,,,,,40.859,25.643,24.319,6.491,,59.633,40.367
+Emergency Medical Technicians and Paramedics,United States,Iowa,1542,0,1481,,,0,,,554,407,315,,,941,601,,96.044,,,,,,35.927,26.394,20.428,,,61.025,38.975
+Emergency Medical Technicians and Paramedics,United States,Kansas,2304,0,1926,,,0,,,820,723,380,339,,1615,689,,83.594,,,,,,35.59,31.38,16.493,14.714,,70.095,29.905
+Emergency Medical Technicians and Paramedics,United States,Kentucky,4588,0,3886,,,0,,,1588,1297,936,489,,3368,1220,,84.699,,,,,,34.612,28.269,20.401,10.658,,73.409,26.591
+Emergency Medical Technicians and Paramedics,United States,Louisiana,2657,0,2295,,,0,,,1004,664,,483,,1519,1138,,86.376,,,,,,37.787,24.991,,18.178,,57.17,42.83
+Emergency Medical Technicians and Paramedics,United States,Maine,1034,0,948,,,0,,,,,,,,807,,,91.683,,,,,,,,,,,78.046,
+Emergency Medical Technicians and Paramedics,United States,Maryland,3144,0,2247,471,,0,,,1016,1093,416,372,,1880,1264,,71.469,14.981,,,,,32.316,34.765,13.232,11.832,,59.796,40.204
+Emergency Medical Technicians and Paramedics,United States,Massachusetts,6227,714,4951,,,0,,,3043,1544,712,701,227,3892,2335,11.466,79.509,,,,,,48.868,24.795,11.434,11.257,3.645,62.502,37.498
+Emergency Medical Technicians and Paramedics,United States,Michigan,7432,0,6302,,,0,,,3002,1784,1442,636,568,4269,3163,,84.795,,,,,,40.393,24.004,19.403,8.558,7.643,57.441,42.559
+Emergency Medical Technicians and Paramedics,United States,Minnesota,3544,0,2890,,,0,,,1213,1220,664,395,,2406,1138,,81.546,,,,,,34.227,34.424,18.736,11.146,,67.889,32.111
+Emergency Medical Technicians and Paramedics,United States,Mississippi,2190,0,1876,,,0,,,730,,568,369,,1505,685,,85.662,,,,,,33.333,,25.936,16.849,,68.721,31.279
+Emergency Medical Technicians and Paramedics,United States,Missouri,5622,0,5064,,,0,,,1681,1607,1353,809,,3907,1715,,90.075,,,,,,29.9,28.584,24.066,14.39,,69.495,30.505
+Emergency Medical Technicians and Paramedics,United States,Montana,1131,0,818,,,0,,,,,,,,,,,72.325,,,,,,,,,,,,
+Emergency Medical Technicians and Paramedics,United States,Nebraska,669,0,627,,,0,,,,,,,,341,328,,93.722,,,,,,,,,,,50.972,49.028
+Emergency Medical Technicians and Paramedics,United States,Nevada,2195,0,1632,,,0,,,1024,829,,,,1645,550,,74.351,,,,,,46.651,37.768,,,,74.943,25.057
+Emergency Medical Technicians and Paramedics,United States,New Hampshire,961,0,926,,,0,,,394,,,,,585,376,,96.358,,,,,,40.999,,,,,60.874,39.126
+Emergency Medical Technicians and Paramedics,United States,New Jersey,5576,965,3821,516,,0,,,2033,1644,797,844,,3551,2025,17.306,68.526,9.254,,,,,36.46,29.484,14.293,15.136,,63.684,36.316
+Emergency Medical Technicians and Paramedics,United States,New Mexico,2015,830,914,,,0,,,946,,,,,1143,872,41.191,45.36,,,,,,46.948,,,,,56.725,43.275
+Emergency Medical Technicians and Paramedics,United States,New York,16674,3995,9451,2096,755,0,,374,7249,3921,2918,1799,787,10563,6111,23.959,56.681,12.57,4.528,,,2.243,43.475,23.516,17.5,10.789,4.72,63.35,36.65
+Emergency Medical Technicians and Paramedics,United States,North Carolina,11375,530,9505,688,,0,,,4612,2790,2149,1426,,6952,4423,4.659,83.56,6.048,,,,,40.545,24.527,18.892,12.536,,61.116,38.884
+Emergency Medical Technicians and Paramedics,United States,North Dakota,678,0,610,,,0,,,,,,,,,330,,89.971,,,,,,,,,,,,48.673
+Emergency Medical Technicians and Paramedics,United States,Ohio,8619,0,7552,,,0,,,3168,2564,1464,998,425,5736,2883,,87.62,,,,,,36.756,29.748,16.986,11.579,4.931,66.551,33.449
+Emergency Medical Technicians and Paramedics,United States,Oklahoma,3568,0,2690,,,0,,,1626,601,,,,2238,1330,,75.392,,,,,,45.572,16.844,,,,62.724,37.276
+Emergency Medical Technicians and Paramedics,United States,Oregon,2476,0,2030,,,0,,,747,845,361,,,1804,672,,81.987,,,,,,30.17,34.128,14.58,,,72.859,27.141
+Emergency Medical Technicians and Paramedics,United States,Pennsylvania,10617,0,8718,1169,,0,,,3954,2561,1648,1635,819,7184,3433,,82.114,11.011,,,,,37.242,24.122,15.522,15.4,7.714,67.665,32.335
+Emergency Medical Technicians and Paramedics,United States,Rhode Island,809,0,650,,,0,,,,,,,,536,,,80.346,,,,,,,,,,,66.255,
+Emergency Medical Technicians and Paramedics,United States,South Carolina,4911,0,3560,900,,0,,,1511,1185,1306,583,,3450,1461,,72.49,18.326,,,,,30.768,24.13,26.593,11.871,,70.25,29.75
+Emergency Medical Technicians and Paramedics,United States,South Dakota,669,0,641,,,0,,,,,,,,,,,95.815,,,,,,,,,,,,
+Emergency Medical Technicians and Paramedics,United States,Tennessee,5156,0,4703,,,0,,,1632,1501,1165,725,,3287,1869,,91.214,,,,,,31.652,29.112,22.595,14.061,,63.751,36.249
+Emergency Medical Technicians and Paramedics,United States,Texas,17323,4758,10378,1176,,0,,468,6426,5643,3083,1652,519,11983,5340,27.466,59.909,6.789,,,,2.702,37.095,32.575,17.797,9.536,2.996,69.174,30.826
+Emergency Medical Technicians and Paramedics,United States,Utah,1526,0,1315,,,0,,,561,394,,,,914,612,,86.173,,,,,,36.763,25.819,,,,59.895,40.105
+Emergency Medical Technicians and Paramedics,United States,Vermont,680,0,593,,,0,,,,,,,,613,,,87.206,,,,,,,,,,,90.147,
+Emergency Medical Technicians and Paramedics,United States,Virginia,5225,503,3877,604,,0,,,2213,1412,842,559,199,3467,1758,9.627,74.201,11.56,,,,,42.354,27.024,16.115,10.699,3.809,66.354,33.646
+Emergency Medical Technicians and Paramedics,United States,Washington,4368,0,3578,,,0,,,1675,1276,655,538,224,2558,1810,,81.914,,,,,,38.347,29.212,14.995,12.317,5.128,58.562,41.438
+Emergency Medical Technicians and Paramedics,United States,West Virginia,2258,0,2063,,,0,,,957,313,,,,1442,816,,91.364,,,,,,42.383,13.862,,,,63.862,36.138
+Emergency Medical Technicians and Paramedics,United States,Wisconsin,3821,0,3153,,,0,,,1762,1112,,355,,2442,1379,,82.518,,,,,,46.114,29.102,,9.291,,63.91,36.09
+Emergency Medical Technicians and Paramedics,United States,Wyoming,627,0,516,,,0,,,,,,,,,,,82.297,,,,,,,,,,,,
+Emergency Medical Technicians and Paramedics,United States,All States,238742,31093,173867,16454,7413,0,2232,7433,93576,66413,42153,26907,9693,157499,81243,13.024,72.826,6.892,3.105,,0.935,3.113,39.195,27.818,17.656,11.27,4.06,65.97,34.03
+Health Practitioner Support Technologists and Technicians,United States,Alabama,12917,0,8828,3581,,0,,,5181,3088,2091,1669,888,2141,10776,,68.344,27.723,,,,,40.11,23.906,16.188,12.921,6.875,16.575,83.425
+Health Practitioner Support Technologists and Technicians,United States,Alaska,1737,0,1037,,,0,,,,,,,,,1395,,59.701,,,,,,,,,,,,80.311
+Health Practitioner Support Technologists and Technicians,United States,Arizona,20579,6564,9378,1938,765,0,1091,843,7050,6436,3485,2265,1343,5998,14581,31.897,45.571,9.417,3.717,,5.302,4.096,34.258,31.275,16.935,11.006,6.526,29.146,70.854
+Health Practitioner Support Technologists and Technicians,United States,Arkansas,6394,0,4901,914,,0,,,2855,1418,920,878,,1036,5358,,76.65,14.295,,,,,44.651,22.177,14.388,13.732,,16.203,83.797
+Health Practitioner Support Technologists and Technicians,United States,California,79833,30175,25579,5205,14557,0,333,3557,26791,22961,15044,10640,4397,22954,56879,37.798,32.041,6.52,18.234,,0.417,4.456,33.559,28.761,18.844,13.328,5.508,28.753,71.247
+Health Practitioner Support Technologists and Technicians,United States,Colorado,14482,3277,9455,608,380,0,,587,6153,4119,2389,1183,638,2826,11656,22.628,65.288,4.198,2.624,,,4.053,42.487,28.442,16.496,8.169,4.405,19.514,80.486
+Health Practitioner Support Technologists and Technicians,United States,Connecticut,8273,1352,4998,1256,472,0,,,2818,2573,1394,935,553,1736,6537,16.342,60.413,15.182,5.705,,,,34.063,31.101,16.85,11.302,6.684,20.984,79.016
+Health Practitioner Support Technologists and Technicians,United States,Delaware,2106,0,1269,,,0,,,679,700,,,,,1746,,60.256,,,,,,32.241,33.238,,,,,82.906
+Health Practitioner Support Technologists and Technicians,United States,District of Columbia,1781,0,,1285,,0,,,430,404,,,,556,1225,,,72.15,,,,,24.144,22.684,,,,31.218,68.782
+Health Practitioner Support Technologists and Technicians,United States,Florida,54802,15466,24706,10693,1840,0,,1854,21863,13724,9492,6801,2922,12040,42762,28.222,45.082,19.512,3.358,,,3.383,39.895,25.043,17.321,12.41,5.332,21.97,78.03
+Health Practitioner Support Technologists and Technicians,United States,Georgia,21664,1167,11671,7149,1075,0,,,9051,5540,3979,1935,1159,4508,17156,5.387,53.873,32.999,4.962,,,,41.779,25.572,18.367,8.932,5.35,20.809,79.191
+Health Practitioner Support Technologists and Technicians,United States,Hawaii,2748,0,568,,967,0,,728,1084,900,403,,,640,2108,,20.67,,35.189,,,26.492,39.447,32.751,14.665,,,23.29,76.71
+Health Practitioner Support Technologists and Technicians,United States,Idaho,3665,0,3003,,,0,,,1042,1110,915,439,,810,2855,,81.937,,,,,,28.431,30.286,24.966,11.978,,22.101,77.899
+Health Practitioner Support Technologists and Technicians,United States,Illinois,29974,3838,17449,5383,2331,0,,878,11556,7930,4946,3507,2035,6942,23032,12.804,58.214,17.959,7.777,,,2.929,38.553,26.456,16.501,11.7,6.789,23.16,76.84
+Health Practitioner Support Technologists and Technicians,United States,Indiana,19112,444,15673,1682,,0,,,6878,5012,3000,2787,1435,2877,16235,2.323,82.006,8.801,,,,,35.988,26.224,15.697,14.582,7.508,15.053,84.947
+Health Practitioner Support Technologists and Technicians,United States,Iowa,7620,0,6543,,,0,,,3624,1515,1168,661,652,657,6963,,85.866,,,,,,47.559,19.882,15.328,8.675,8.556,8.622,91.378
+Health Practitioner Support Technologists and Technicians,United States,Kansas,7589,655,5912,431,,0,,304,3530,1597,952,842,668,1502,6087,8.631,77.902,5.679,,,,4.006,46.515,21.044,12.544,11.095,8.802,19.792,80.208
+Health Practitioner Support Technologists and Technicians,United States,Kentucky,12810,0,10998,1001,,0,,,5502,2561,2130,1936,681,2647,10163,,85.855,7.814,,,,,42.951,19.992,16.628,15.113,5.316,20.664,79.336
+Health Practitioner Support Technologists and Technicians,United States,Louisiana,11906,341,6319,4554,,0,,,4569,2921,2035,1846,535,1206,10700,2.864,53.074,38.25,,,,,38.376,24.534,17.092,15.505,4.494,10.129,89.871
+Health Practitioner Support Technologists and Technicians,United States,Maine,3764,0,3429,,,0,,,1228,817,790,543,386,567,3197,,91.1,,,,,,32.625,21.706,20.988,14.426,10.255,15.064,84.936
+Health Practitioner Support Technologists and Technicians,United States,Maryland,13829,1172,6483,4748,975,0,,451,5661,3294,2145,1518,1211,2284,11545,8.475,46.88,34.334,7.05,,,3.261,40.936,23.82,15.511,10.977,8.757,16.516,83.484
+Health Practitioner Support Technologists and Technicians,United States,Massachusetts,16471,1764,11173,1540,1139,0,,851,6300,4135,2450,2055,1531,3983,12488,10.71,67.834,9.35,6.915,,,5.167,38.249,25.105,14.875,12.476,9.295,24.182,75.818
+Health Practitioner Support Technologists and Technicians,United States,Michigan,26012,1690,19591,2932,726,0,,993,11681,5379,4158,3505,1289,3637,22375,6.497,75.315,11.272,2.791,,,3.817,44.906,20.679,15.985,13.475,4.955,13.982,86.018
+Health Practitioner Support Technologists and Technicians,United States,Minnesota,15544,0,12124,716,1471,0,,716,5726,3844,2516,2375,1083,2857,12687,,77.998,4.606,9.463,,,4.606,36.837,24.73,16.186,15.279,6.967,18.38,81.62
+Health Practitioner Support Technologists and Technicians,United States,Mississippi,6848,0,4153,2069,,0,,,2816,1961,1014,693,364,1000,5848,,60.645,30.213,,,,,41.121,28.636,14.807,10.12,5.315,14.603,85.397
+Health Practitioner Support Technologists and Technicians,United States,Missouri,19922,0,14799,3487,435,0,,689,9115,4605,2789,2235,1178,4145,15777,,74.285,17.503,2.184,,,3.458,45.753,23.115,14,11.219,5.913,20.806,79.194
+Health Practitioner Support Technologists and Technicians,United States,Montana,3029,0,2564,,,0,,,1263,743,409,,,520,2509,,84.648,,,,,,41.697,24.53,13.503,,,17.167,82.833
+Health Practitioner Support Technologists and Technicians,United States,Nebraska,4309,0,3765,,,0,,,1635,1034,777,520,343,694,3615,,87.375,,,,,,37.944,23.996,18.032,12.068,7.96,16.106,83.894
+Health Practitioner Support Technologists and Technicians,United States,Nevada,6215,1636,2939,608,609,0,,,2256,1848,1283,525,303,1507,4708,26.323,47.289,9.783,9.799,,,,36.299,29.735,20.644,8.447,4.875,24.248,75.752
+Health Practitioner Support Technologists and Technicians,United States,New Hampshire,4137,0,3768,,,0,,,1768,935,694,572,,1046,3091,,91.08,,,,,,42.736,22.601,16.775,13.826,,25.284,74.716
+Health Practitioner Support Technologists and Technicians,United States,New Jersey,17812,3486,9562,1907,2587,0,,,7024,4257,3006,2326,1199,4080,13732,19.571,53.683,10.706,14.524,,,,39.434,23.9,16.876,13.059,6.731,22.906,77.094
+Health Practitioner Support Technologists and Technicians,United States,New Mexico,4288,2179,1403,,,0,,,1291,1235,1197,295,,1208,3080,50.816,32.719,,,,,,30.107,28.801,27.915,6.88,,28.172,71.828
+Health Practitioner Support Technologists and Technicians,United States,New York,37108,5226,19302,6256,4603,0,,1640,13860,10381,4835,5543,2489,10251,26857,14.083,52.016,16.859,12.404,,,4.42,37.35,27.975,13.03,14.937,6.707,27.625,72.375
+Health Practitioner Support Technologists and Technicians,United States,North Carolina,28512,1002,18054,6724,545,0,419,1735,10817,7776,4719,3093,2107,5699,22813,3.514,63.321,23.583,1.911,,1.47,6.085,37.938,27.273,16.551,10.848,7.39,19.988,80.012
+Health Practitioner Support Technologists and Technicians,United States,North Dakota,2005,0,1588,,,0,,,723,,261,303,,,1968,,79.202,,,,,,36.06,,13.017,15.112,,,98.155
+Health Practitioner Support Technologists and Technicians,United States,Ohio,33302,847,25725,4630,522,0,,1465,13186,8348,5021,4396,2351,5879,27423,2.543,77.248,13.903,1.567,,,4.399,39.595,25.068,15.077,13.2,7.06,17.654,82.346
+Health Practitioner Support Technologists and Technicians,United States,Oklahoma,10166,761,6741,981,,0,449,1016,3563,2948,1713,1148,794,2080,8086,7.486,66.309,9.65,,,4.417,9.994,35.048,28.999,16.85,11.293,7.81,20.46,79.54
+Health Practitioner Support Technologists and Technicians,United States,Oregon,10309,1669,7018,,626,0,,771,3688,2941,1672,1341,667,2426,7883,16.19,68.076,,6.072,,,7.479,35.775,28.528,16.219,13.008,6.47,23.533,76.467
+Health Practitioner Support Technologists and Technicians,United States,Pennsylvania,34871,1713,26799,3816,1188,0,,1328,13504,8059,5303,5310,2695,6950,27921,4.912,76.852,10.943,3.407,,,3.808,38.726,23.111,15.207,15.228,7.728,19.931,80.069
+Health Practitioner Support Technologists and Technicians,United States,Rhode Island,2710,0,2155,,,0,,,1321,557,394,247,,622,2088,,79.52,,,,,,48.745,20.554,14.539,9.114,,22.952,77.048
+Health Practitioner Support Technologists and Technicians,United States,South Carolina,13754,423,8636,4243,,0,,,5407,3303,1873,2444,727,2366,11388,3.075,62.789,30.849,,,,,39.312,24.015,13.618,17.769,5.286,17.202,82.798
+Health Practitioner Support Technologists and Technicians,United States,South Dakota,2621,0,2382,,,0,,,698,658,,,,,2449,,90.881,,,,,,26.631,25.105,,,,,93.438
+Health Practitioner Support Technologists and Technicians,United States,Tennessee,17973,655,13488,2980,,0,,,7186,4155,3259,2322,1051,3448,14525,3.644,75.046,16.58,,,,,39.982,23.118,18.133,12.919,5.848,19.184,80.816
+Health Practitioner Support Technologists and Technicians,United States,Texas,62651,22637,25888,7998,4166,0,,1775,24777,16985,10495,7398,2996,13976,48675,36.132,41.321,12.766,6.65,,,2.833,39.548,27.111,16.752,11.808,4.782,22.308,77.692
+Health Practitioner Support Technologists and Technicians,United States,Utah,8644,1106,6727,,,0,,,4417,2093,1303,594,237,2404,6240,12.795,77.823,,,,,,51.099,24.213,15.074,6.872,2.742,27.811,72.189
+Health Practitioner Support Technologists and Technicians,United States,Vermont,1561,0,1355,,,0,,,715,203,,199,,,1307,,86.803,,,,,,45.804,13.004,,12.748,,,83.728
+Health Practitioner Support Technologists and Technicians,United States,Virginia,17886,1113,10801,3733,1168,0,,1042,7552,4364,2619,2092,1259,3019,14867,6.223,60.388,20.871,6.53,,,5.826,42.223,24.399,14.643,11.696,7.039,16.879,83.121
+Health Practitioner Support Technologists and Technicians,United States,Washington,15704,1696,10343,590,1807,0,,1085,4583,4993,2991,2233,904,3189,12515,10.8,65.862,3.757,11.507,,,6.909,29.184,31.794,19.046,14.219,5.756,20.307,79.693
+Health Practitioner Support Technologists and Technicians,United States,West Virginia,5522,0,5211,,,0,,,2379,1485,760,660,238,889,4633,,94.368,,,,,,43.082,26.892,13.763,11.952,4.31,16.099,83.901
+Health Practitioner Support Technologists and Technicians,United States,Wisconsin,14489,759,12292,901,,0,,,5367,3297,2766,2113,946,1953,12536,5.238,84.837,6.219,,,,,37.042,22.755,19.09,14.583,6.529,13.479,86.521
+Health Practitioner Support Technologists and Technicians,United States,Wyoming,1677,0,1260,,,0,,,419,503,390,,,,1281,,75.134,,,,,,24.985,29.994,23.256,,,,76.386
+Health Practitioner Support Technologists and Technicians,United States,All States,783637,119238,470020,108601,48557,1248,4546,31427,303130,202775,129157,98904,49671,165316,618321,15.216,59.979,13.859,6.196,0.159,0.58,4.01,38.682,25.876,16.482,12.621,6.339,21.096,78.904
+Licensed Practical/Vocational Nurses,United States,Alabama,11542,0,6115,5000,,,,,2099,2040,2625,2733,2045,992,10550,,52.98,43.32,,,,,18.186,17.675,22.743,23.679,17.718,8.595,91.405
+Licensed Practical/Vocational Nurses,United States,Alaska,285,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Licensed Practical/Vocational Nurses,United States,Arizona,7908,1937,4481,855,,,348,,1387,1825,1879,1503,1314,1217,6691,24.494,56.664,10.812,,,4.401,,17.539,23.078,23.761,19.006,16.616,15.389,84.611
+Licensed Practical/Vocational Nurses,United States,Arkansas,11026,0,8058,1852,,,,,2724,2484,2495,2311,1012,1071,9955,,73.082,16.797,,,,,24.705,22.529,22.628,20.96,9.178,9.713,90.287
+Licensed Practical/Vocational Nurses,United States,California,81842,29608,18000,11084,20167,517,310,2156,18532,23588,17463,13899,8360,15500,66342,36.177,21.994,13.543,24.641,0.632,0.379,2.634,22.644,28.821,21.337,16.983,10.215,18.939,81.061
+Licensed Practical/Vocational Nurses,United States,Colorado,7090,1614,4304,468,304,,,,2092,1502,1313,1277,906,1438,5652,22.764,60.705,6.601,4.288,,,,29.506,21.185,18.519,18.011,12.779,20.282,79.718
+Licensed Practical/Vocational Nurses,United States,Connecticut,9921,1373,5007,2978,,,,,1541,2247,2596,1652,1885,1340,8581,13.839,50.469,30.017,,,,,15.533,22.649,26.167,16.652,19,13.507,86.493
+Licensed Practical/Vocational Nurses,United States,Delaware,2448,0,1060,1225,,,,,,638,567,488,,,2171,,43.301,50.041,,,,,,26.062,23.162,19.935,,,88.685
+Licensed Practical/Vocational Nurses,United States,District of Columbia,1673,0,,1526,,,,,,650,,,396,,1512,,,91.213,,,,,,38.852,,,23.67,,90.377
+Licensed Practical/Vocational Nurses,United States,Florida,50110,7978,20250,19520,877,,,1394,8194,10324,12755,10916,7921,5359,44751,15.921,40.411,38.954,1.75,,,2.782,16.352,20.603,25.454,21.784,15.807,10.694,89.306
+Licensed Practical/Vocational Nurses,United States,Georgia,22167,713,9501,11295,,,,,3030,5490,4988,5326,3333,2189,19978,3.216,42.861,50.954,,,,,13.669,24.767,22.502,24.027,15.036,9.875,90.125
+Licensed Practical/Vocational Nurses,United States,Hawaii,993,0,,,366,,,,,,,,,,886,,,,36.858,,,,,,,,,,89.225
+Licensed Practical/Vocational Nurses,United States,Idaho,2278,0,1834,,,,,,825,,,397,,,1874,,80.509,,,,,,36.216,,,17.428,,,82.265
+Licensed Practical/Vocational Nurses,United States,Illinois,24624,3013,12338,7192,1544,,,502,4810,5147,5439,5548,3680,2882,21742,12.236,50.106,29.207,6.27,,,2.039,19.534,20.902,22.088,22.531,14.945,11.704,88.296
+Licensed Practical/Vocational Nurses,United States,Indiana,14945,0,11663,2288,,,,,3303,3729,2803,2933,2177,1829,13116,,78.039,15.309,,,,,22.101,24.951,18.755,19.625,14.567,12.238,87.762
+Licensed Practical/Vocational Nurses,United States,Iowa,7608,0,6565,,,,,,1678,1101,1828,1507,1494,682,6926,,86.291,,,,,,22.056,14.472,24.027,19.808,19.637,8.964,91.036
+Licensed Practical/Vocational Nurses,United States,Kansas,8317,602,6396,686,,,,,2017,2065,2072,1021,1142,1252,7065,7.238,76.903,8.248,,,,,24.252,24.829,24.913,12.276,13.731,15.054,84.946
+Licensed Practical/Vocational Nurses,United States,Kentucky,9909,0,8324,962,,,,,1801,2184,2374,2171,1379,1307,8602,,84.004,9.708,,,,,18.175,22.041,23.958,21.909,13.917,13.19,86.81
+Licensed Practical/Vocational Nurses,United States,Louisiana,18030,0,8645,8679,,,,,3699,4336,4800,3286,1909,1179,16851,,47.948,48.136,,,,,20.516,24.049,26.622,18.225,10.588,6.539,93.461
+Licensed Practical/Vocational Nurses,United States,Maine,2053,0,1669,,,,,,,,,548,457,,1745,,81.296,,,,,,,,,26.693,22.26,,84.998
+Licensed Practical/Vocational Nurses,United States,Maryland,11613,0,3367,7295,,,,,1873,2361,2658,2908,1813,1542,10071,,28.993,62.818,,,,,16.128,20.331,22.888,25.041,15.612,13.278,86.722
+Licensed Practical/Vocational Nurses,United States,Massachusetts,15993,1283,10258,3200,,,,672,2262,3495,3211,4013,3012,2384,13609,8.022,64.141,20.009,,,,4.202,14.144,21.853,20.078,25.092,18.833,14.907,85.093
+Licensed Practical/Vocational Nurses,United States,Michigan,17256,655,10419,5405,461,,,,4651,4079,3094,3232,2200,1580,15676,3.796,60.379,31.322,2.672,,,,26.953,23.638,17.93,18.73,12.749,9.156,90.844
+Licensed Practical/Vocational Nurses,United States,Minnesota,16431,408,12682,2673,,,322,,3986,3063,3431,3435,2516,1400,15031,2.483,77.183,16.268,,,1.96,,24.259,18.642,20.881,20.906,15.313,8.52,91.48
+Licensed Practical/Vocational Nurses,United States,Mississippi,10098,0,4760,5227,,,,,1611,3533,1791,2193,970,737,9361,,47.138,51.763,,,,,15.954,34.987,17.736,21.717,9.606,7.298,92.702
+Licensed Practical/Vocational Nurses,United States,Missouri,18001,565,12602,4074,,,,641,4153,4950,3222,3477,2199,2085,15916,3.139,70.007,22.632,,,,3.561,23.071,27.498,17.899,19.316,12.216,11.583,88.417
+Licensed Practical/Vocational Nurses,United States,Montana,1646,0,1467,,,,,,,,,,460,,1544,,89.125,,,,,,,,,,27.947,,93.803
+Licensed Practical/Vocational Nurses,United States,Nebraska,4846,821,3470,,,,,,1078,1124,773,1004,867,,4564,16.942,71.605,,,,,,22.245,23.194,15.951,20.718,17.891,,94.181
+Licensed Practical/Vocational Nurses,United States,Nevada,3497,605,1386,891,450,,,,570,611,965,852,,637,2860,17.301,39.634,25.479,12.868,,,,16.3,17.472,27.595,24.364,,18.216,81.784
+Licensed Practical/Vocational Nurses,United States,New Hampshire,2985,0,2571,,,,,,928,,864,463,386,,2783,,86.131,,,,,,31.089,,28.945,15.511,12.931,,93.233
+Licensed Practical/Vocational Nurses,United States,New Jersey,20014,2351,7582,8382,1117,,,530,3747,4015,4819,4708,2725,2425,17589,11.747,37.883,41.881,5.581,,,2.648,18.722,20.061,24.078,23.524,13.615,12.117,87.883
+Licensed Practical/Vocational Nurses,United States,New Mexico,2519,1375,688,,,,,,559,,529,229,669,468,2051,54.585,27.312,,,,,,22.191,,21,9.091,26.558,18.579,81.421
+Licensed Practical/Vocational Nurses,United States,New York,53687,5984,23977,17809,3519,,,2142,9203,10778,12516,13340,7850,6710,46977,11.146,44.661,33.172,6.555,,,3.99,17.142,20.076,23.313,24.848,14.622,12.498,87.502
+Licensed Practical/Vocational Nurses,United States,North Carolina,20739,804,10839,8205,,,444,,2996,5159,4875,4427,3282,1974,18765,3.877,52.264,39.563,,,2.141,,14.446,24.876,23.506,21.346,15.825,9.518,90.482
+Licensed Practical/Vocational Nurses,United States,North Dakota,2241,0,2084,,,,,,1055,,,381,,,2118,,92.994,,,,,,47.077,,,17.001,,,94.511
+Licensed Practical/Vocational Nurses,United States,Ohio,39022,1051,27838,8654,,,,1307,8431,9081,9606,6962,4942,3300,35722,2.693,71.339,22.177,,,,3.349,21.606,23.271,24.617,17.841,12.665,8.457,91.543
+Licensed Practical/Vocational Nurses,United States,Oklahoma,11853,597,7251,1634,,437,1065,815,2671,2778,2661,2554,1189,1665,10188,5.037,61.174,13.786,,3.687,8.985,6.876,22.534,23.437,22.45,21.547,10.031,14.047,85.953
+Licensed Practical/Vocational Nurses,United States,Oregon,5009,491,3667,,,,,,1399,1030,991,1012,577,1076,3933,9.802,73.208,,,,,,27.93,20.563,19.784,20.204,11.519,21.481,78.519
+Licensed Practical/Vocational Nurses,United States,Pennsylvania,43977,2140,31440,8337,659,,,1401,8215,9029,9626,9941,7166,4607,39370,4.866,71.492,18.958,1.499,,,3.186,18.68,20.531,21.889,22.605,16.295,10.476,89.524
+Licensed Practical/Vocational Nurses,United States,Rhode Island,1633,0,1210,,,,,,,,,,,,1450,,74.097,,,,,,,,,,,,88.794
+Licensed Practical/Vocational Nurses,United States,South Carolina,11114,427,5453,4894,,,,,2247,1906,2676,2506,1779,560,10554,3.842,49.064,44.035,,,,,20.218,17.15,24.078,22.548,16.007,5.039,94.961
+Licensed Practical/Vocational Nurses,United States,South Dakota,1948,0,1795,,,,,,850,396,,,253,,1770,,92.146,,,,,,43.634,20.329,,,12.988,,90.862
+Licensed Practical/Vocational Nurses,United States,Tennessee,24499,373,18776,4769,,,,414,4787,6010,5795,4406,3501,2481,22018,1.523,76.64,19.466,,,,1.69,19.54,24.532,23.654,17.984,14.29,10.127,89.873
+Licensed Practical/Vocational Nurses,United States,Texas,69057,22641,24171,18457,2120,,,1382,14340,17035,15978,12816,8888,9279,59778,32.786,35.002,26.727,3.07,,,2.001,20.765,24.668,23.137,18.559,12.871,13.437,86.563
+Licensed Practical/Vocational Nurses,United States,Utah,2447,0,2022,,,,,,952,553,508,,,482,1965,,82.632,,,,,,38.905,22.599,20.76,,,19.698,80.302
+Licensed Practical/Vocational Nurses,United States,Vermont,1451,0,1443,,,,,,,,,368,220,,1371,,99.449,,,,,,,,,25.362,15.162,,94.487
+Licensed Practical/Vocational Nurses,United States,Virginia,21507,1340,10151,8648,416,,,907,4296,4869,3690,4867,3785,1842,19665,6.231,47.199,40.21,1.934,,,4.217,19.975,22.639,17.157,22.63,17.599,8.565,91.435
+Licensed Practical/Vocational Nurses,United States,Washington,8696,768,5226,1227,1076,,,,1609,1675,1523,2177,1712,1716,6980,8.832,60.097,14.11,12.374,,,,18.503,19.262,17.514,25.034,19.687,19.733,80.267
+Licensed Practical/Vocational Nurses,United States,West Virginia,7383,0,6874,,,,,,1429,1793,1838,1177,1146,930,6453,,93.106,,,,,,19.355,24.286,24.895,15.942,15.522,12.597,87.403
+Licensed Practical/Vocational Nurses,United States,Wisconsin,10979,0,8532,1376,,,,,2183,2202,1857,2643,2094,1437,9542,,77.712,12.533,,,,,19.883,20.056,16.914,24.073,19.073,13.089,86.911
+Licensed Practical/Vocational Nurses,United States,Wyoming,1073,0,979,,,,,,,,,,,,933,,91.24,,,,,,,,,,,,86.952
+Licensed Practical/Vocational Nurses,United States,All States,757983,95881,399577,198930,37432,1658,4348,20157,152486,173948,168303,155352,107894,92136,665847,12.649,52.716,26.245,4.938,0.219,0.574,2.659,20.117,22.949,22.204,20.495,14.234,12.155,87.845
+Medical and Clinical Laboratory Technologists & Technicians,United States,Alabama,4896,0,2650,1911,,,,,1133,1542,820,865,536,770,4126,,54.126,39.032,,,,,23.141,31.495,16.748,17.667,10.948,15.727,84.273
+Medical and Clinical Laboratory Technologists & Technicians,United States,Alaska,633,0,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical and Clinical Laboratory Technologists & Technicians,United States,Arizona,6792,1320,3849,815,474,,,,1559,1747,1083,1387,1016,2378,4414,19.435,56.67,11.999,6.979,,,,22.953,25.721,15.945,20.421,14.959,35.012,64.988
+Medical and Clinical Laboratory Technologists & Technicians,United States,Arkansas,2825,0,2148,,,,,,725,614,799,529,,988,1837,,76.035,,,,,,25.664,21.735,28.283,18.726,,34.973,65.027
+Medical and Clinical Laboratory Technologists & Technicians,United States,California,31349,9022,7683,2473,10642,,,1263,7833,7680,6170,5981,3685,12116,19233,28.779,24.508,7.889,33.947,,,4.029,24.986,24.498,19.682,19.079,11.755,38.649,61.351
+Medical and Clinical Laboratory Technologists & Technicians,United States,Colorado,5025,888,3248,,,,,,1869,1000,936,584,636,1500,3525,17.672,64.637,,,,,,37.194,19.9,18.627,11.622,12.657,29.851,70.149
+Medical and Clinical Laboratory Technologists & Technicians,United States,Connecticut,3604,699,2134,,301,,,,801,478,1013,748,564,908,2696,19.395,59.212,,8.352,,,,22.225,13.263,28.108,20.755,15.649,25.194,74.806
+Medical and Clinical Laboratory Technologists & Technicians,United States,Delaware,886,0,453,,,,,,,,,,,,742,,51.129,,,,,,,,,,,,83.747
+Medical and Clinical Laboratory Technologists & Technicians,United States,District of Columbia,878,0,,548,,,,,,,,,,336,542,,,62.415,,,,,,,,,,38.269,61.731
+Medical and Clinical Laboratory Technologists & Technicians,United States,Florida,21989,5275,9933,4088,1691,,,834,4270,4707,4065,5089,3858,6691,15298,23.989,45.173,18.591,7.69,,,3.793,19.419,21.406,18.487,23.143,17.545,30.429,69.571
+Medical and Clinical Laboratory Technologists & Technicians,United States,Georgia,11826,424,4770,5702,763,,,,2305,2788,2584,2630,1519,2681,9145,3.585,40.335,48.216,6.452,,,,19.491,23.575,21.85,22.239,12.845,22.67,77.33
+Medical and Clinical Laboratory Technologists & Technicians,United States,Hawaii,1310,0,,,820,,,,230,498,,,,525,785,,,,62.595,,,,17.557,38.015,,,,40.076,59.924
+Medical and Clinical Laboratory Technologists & Technicians,United States,Idaho,1508,0,1310,,,,,,,,,,,,1141,,86.87,,,,,,,,,,,,75.663
+Medical and Clinical Laboratory Technologists & Technicians,United States,Illinois,11584,1256,7021,1398,1664,,,,3280,2102,1730,2423,2049,3186,8398,10.843,60.609,12.068,14.365,,,,28.315,18.146,14.934,20.917,17.688,27.503,72.497
+Medical and Clinical Laboratory Technologists & Technicians,United States,Indiana,5751,0,4288,545,,,,,1268,1333,1096,1104,950,1215,4536,,74.561,9.477,,,,,22.048,23.179,19.058,19.197,16.519,21.127,78.873
+Medical and Clinical Laboratory Technologists & Technicians,United States,Iowa,3948,0,2973,,,,,,1259,1287,393,690,319,981,2967,,75.304,,,,,,31.89,32.599,9.954,17.477,8.08,24.848,75.152
+Medical and Clinical Laboratory Technologists & Technicians,United States,Kansas,3209,0,2327,,343,,,,764,819,615,505,506,594,2615,,72.515,,10.689,,,,23.808,25.522,19.165,15.737,15.768,18.51,81.49
+Medical and Clinical Laboratory Technologists & Technicians,United States,Kentucky,4748,0,4006,,,,,,1576,764,916,859,633,1048,3700,,84.372,,,,,,33.193,16.091,19.292,18.092,13.332,22.072,77.928
+Medical and Clinical Laboratory Technologists & Technicians,United States,Louisiana,4562,0,2826,1305,,,,,1209,943,1043,639,728,991,3571,,61.947,28.606,,,,,26.502,20.671,22.863,14.007,15.958,21.723,78.277
+Medical and Clinical Laboratory Technologists & Technicians,United States,Maine,1862,0,1402,,,,,,,,,319,,,1329,,75.295,,,,,,,,,17.132,,,71.375
+Medical and Clinical Laboratory Technologists & Technicians,United States,Maryland,6488,0,2295,2448,1070,,,,1765,1006,1340,1599,778,1837,4651,,35.373,37.731,16.492,,,,27.204,15.506,20.654,24.645,11.991,28.314,71.686
+Medical and Clinical Laboratory Technologists & Technicians,United States,Massachusetts,9699,897,6447,876,1091,,,,2802,1627,1295,2104,1871,2643,7056,9.248,66.471,9.032,11.249,,,,28.89,16.775,13.352,21.693,19.291,27.25,72.75
+Medical and Clinical Laboratory Technologists & Technicians,United States,Michigan,10451,497,7695,1196,478,,,480,2937,2289,1894,1643,1688,2296,8155,4.756,73.629,11.444,4.574,,,4.593,28.103,21.902,18.123,15.721,16.152,21.969,78.031
+Medical and Clinical Laboratory Technologists & Technicians,United States,Minnesota,9494,,6899,1245,,,,,2558,2148,2479,1456,853,3104,6390,,72.667,13.114,,,,,26.943,22.625,26.111,15.336,8.985,32.694,67.306
+Medical and Clinical Laboratory Technologists & Technicians,United States,Mississippi,3948,,2245,1488,,,,,570,942,1220,802,,962,2986,,56.864,37.69,,,,,14.438,23.86,30.902,20.314,,24.367,75.633
+Medical and Clinical Laboratory Technologists & Technicians,United States,Missouri,6757,,5041,1204,,,,,1914,1360,1035,1210,1238,1500,5257,,74.604,17.819,,,,,28.326,20.127,15.317,17.907,18.322,22.199,77.801
+Medical and Clinical Laboratory Technologists & Technicians,United States,Montana,1741,,1495,,,,,,,,,,,,1264,,85.87,,,,,,,,,,,,72.602
+Medical and Clinical Laboratory Technologists & Technicians,United States,Nebraska,1929,,1620,,,,,,721,,,298,241,470,1459,,83.981,,,,,,37.377,,,15.448,12.494,24.365,75.635
+Medical and Clinical Laboratory Technologists & Technicians,United States,Nevada,2417,565,841,,616,,,,666,280,646,570,255,802,1615,23.376,34.795,,25.486,,,,27.555,11.585,26.727,23.583,10.55,33.182,66.818
+Medical and Clinical Laboratory Technologists & Technicians,United States,New Hampshire,1182,,969,,,,,,,,,,322,,922,,81.98,,,,,,,,,,27.242,,78.003
+Medical and Clinical Laboratory Technologists & Technicians,United States,New Jersey,11440,1813,4512,2038,2802,,,,2223,2688,2201,1930,2398,3424,8016,15.848,39.441,17.815,24.493,,,,19.432,23.497,19.24,16.871,20.962,29.93,70.07
+Medical and Clinical Laboratory Technologists & Technicians,United States,New Mexico,1721,696,692,,,,,,,485,413,353,,557,1164,40.442,40.209,,,,,,,28.181,23.998,20.511,,32.365,67.635
+Medical and Clinical Laboratory Technologists & Technicians,United States,New York,21209,3323,9280,3145,4528,,,879,4262,4910,4079,4670,3288,8085,13124,15.668,43.755,14.829,21.349,,,4.144,20.095,23.151,19.232,22.019,15.503,38.121,61.879
+Medical and Clinical Laboratory Technologists & Technicians,United States,North Carolina,13573,658,7363,3914,773,,,561,3045,3483,2529,2872,1644,3165,10408,4.848,54.247,28.837,5.695,,,4.133,22.434,25.661,18.633,21.16,12.112,23.318,76.682
+Medical and Clinical Laboratory Technologists & Technicians,United States,North Dakota,1612,,1338,,,,,,,,,,,,1139,,83.002,,,,,,,,,,,,70.658
+Medical and Clinical Laboratory Technologists & Technicians,United States,Ohio,13203,660,9730,1496,734,,,,3443,2863,2517,2194,2186,2717,10486,4.999,73.695,11.331,5.559,,,,26.077,21.684,19.064,16.617,16.557,20.579,79.421
+Medical and Clinical Laboratory Technologists & Technicians,United States,Oklahoma,3677,,2424,317,284,,,,789,1010,517,859,502,1447,2230,,65.923,8.621,7.724,,,,21.458,27.468,14.06,23.361,13.652,39.353,60.647
+Medical and Clinical Laboratory Technologists & Technicians,United States,Oregon,4836,,3600,,322,,,,1820,943,883,760,,1242,3594,,74.442,,6.658,,,,37.634,19.5,18.259,15.715,,25.682,74.318
+Medical and Clinical Laboratory Technologists & Technicians,United States,Pennsylvania,14187,578,10890,1931,540,,,243,2750,2527,2521,3508,2881,2889,11298,4.074,76.76,13.611,3.806,,,1.713,19.384,17.812,17.77,24.727,20.307,20.364,79.636
+Medical and Clinical Laboratory Technologists & Technicians,United States,Rhode Island,1800,,1183,,,,,,,287,,,501,443,1357,,65.722,,,,,,,15.944,,,27.833,24.611,75.389
+Medical and Clinical Laboratory Technologists & Technicians,United States,South Carolina,4547,,2514,1499,,,,,1131,1058,956,851,551,718,3829,,55.289,32.967,,,,,24.874,23.268,21.025,18.716,12.118,15.791,84.209
+Medical and Clinical Laboratory Technologists & Technicians,United States,South Dakota,1092,,829,,,,,,,,,,,,1013,,75.916,,,,,,,,,,,,92.766
+Medical and Clinical Laboratory Technologists & Technicians,United States,Tennessee,7606,,4859,2091,,,,,1258,1598,1661,1888,1201,1804,5802,,63.884,27.491,,,,,16.54,21.01,21.838,24.823,15.79,23.718,76.282
+Medical and Clinical Laboratory Technologists & Technicians,United States,Texas,25844,8383,9013,4870,3031,,,,6922,6716,4551,4638,3017,6797,19047,32.437,34.875,18.844,11.728,,,,26.784,25.987,17.61,17.946,11.674,26.3,73.7
+Medical and Clinical Laboratory Technologists & Technicians,United States,Utah,3120,,2335,,,,,,1282,779,,337,367,1221,1899,,74.84,,,,,,41.09,24.968,,10.801,11.763,39.135,60.865
+Medical and Clinical Laboratory Technologists & Technicians,United States,Vermont,999,,918,,,,,,,,,,,,849,,91.892,,,,,,,,,,,,84.985
+Medical and Clinical Laboratory Technologists & Technicians,United States,Virginia,8539,907,4538,2023,995,,,,2432,2517,1114,1475,1001,2195,6344,10.622,53.144,23.691,11.652,,,,28.481,29.477,13.046,17.274,11.723,25.706,74.294
+Medical and Clinical Laboratory Technologists & Technicians,United States,Washington,7157,480,4395,,1646,,,337,1898,1815,1361,1041,1042,2261,4896,6.707,61.408,,22.998,,,4.709,26.519,25.36,19.016,14.545,14.559,31.591,68.409
+Medical and Clinical Laboratory Technologists & Technicians,United States,West Virginia,1822,,1646,,,,,,,,349,293,414,781,1041,,90.34,,,,,,,,19.155,16.081,22.722,42.865,57.135
+Medical and Clinical Laboratory Technologists & Technicians,United States,Wisconsin,6771,,5412,,,,,,1749,1457,1245,1466,854,1722,5049,,79.929,,,,,,25.831,21.518,18.387,21.651,12.613,25.432,74.568
+Medical and Clinical Laboratory Technologists & Technicians,United States,Wyoming,373,,342,,,,,,,,,,,,,,91.689,,,,,,,,,,,,
+Medical and Clinical Laboratory Technologists & Technicians,United States,All States,338429,44058,187184,54391,40156,722,1486,10432,82862,76776,64233,65194,49364,94830,243599,13.018,55.31,16.072,11.865,0.213,0.439,3.082,24.484,22.686,18.98,19.264,14.586,28.021,71.979
+Medical Assistants,United States,Alabama,6992,,4588,1950,,,,,2322,1742,1626,984,318,,6355,,65.618,27.889,,,,,33.209,24.914,23.255,14.073,4.548,,90.89
+Medical Assistants,United States,Alaska,1439,,775,,,,,,452,,,,,,1373,,53.857,,,,,,31.411,,,,,,95.413
+Medical Assistants,United States,Arizona,15652,8290,5150,619,,,729,,6640,4242,2808,1100,862,1558,14094,52.964,32.903,3.955,,,4.658,,42.423,27.102,17.94,7.028,5.507,9.954,90.046
+Medical Assistants,United States,Arkansas,3323,,2399,489,,,,,1477,1051,,,,,3198,,72.194,14.716,,,,,44.448,31.628,,,,,96.238
+Medical Assistants,United States,California,86808,51899,16431,4995,10759,490,,2120,36285,23992,14217,8170,4144,9995,76813,59.786,18.928,5.754,12.394,0.564,,2.442,41.799,27.638,16.378,9.412,4.774,11.514,88.486
+Medical Assistants,United States,Colorado,10228,3132,6196,,,,,,3576,3191,1876,962,623,1031,9197,30.622,60.579,,,,,,34.963,31.199,18.342,9.406,6.091,10.08,89.92
+Medical Assistants,United States,Connecticut,6759,1660,3896,,,,,,1821,1889,1442,988,619,,6573,24.56,57.642,,,,,,26.942,27.948,21.335,14.618,9.158,,97.248
+Medical Assistants,United States,Delaware,2147,,988,,,,,,,519,,309,,,2111,,46.018,,,,,,,24.173,,14.392,,,98.323
+Medical Assistants,United States,District of Columbia,1308,,,741,,,,,297,563,,,,,1131,,,56.651,,,,,22.706,43.043,,,,,86.468
+Medical Assistants,United States,Florida,45156,17857,17314,8270,716,,,981,13898,11937,10383,6198,2740,5769,39387,39.545,38.343,18.314,1.586,,,2.172,30.778,26.435,22.994,13.726,6.068,12.776,87.224
+Medical Assistants,United States,Georgia,17290,1927,7894,6351,777,,,,4881,4767,4358,2437,847,1379,15911,11.145,45.656,36.732,4.494,,,,28.23,27.571,25.205,14.095,4.899,7.976,92.024
+Medical Assistants,United States,Hawaii,3729,,660,,1561,,,852,1612,966,613,407,,302,3427,,17.699,,41.861,,,22.848,43.229,25.905,16.439,10.914,,8.099,91.901
+Medical Assistants,United States,Idaho,3352,351,2710,,,,,,1059,879,702,586,,,3134,10.471,80.847,,,,,,31.593,26.223,20.943,17.482,,,93.496
+Medical Assistants,United States,Illinois,19776,5509,9435,3675,541,,,603,6789,6278,3351,2491,867,1484,18292,27.857,47.709,18.583,2.736,,,3.049,34.329,31.746,16.945,12.596,4.384,7.504,92.496
+Medical Assistants,United States,Indiana,11934,948,8775,1686,,,,,3840,3557,2309,1779,449,384,11550,7.944,73.529,14.128,,,,,32.177,29.806,19.348,14.907,3.762,3.218,96.782
+Medical Assistants,United States,Iowa,3529,,2901,,,,,,839,1067,529,729,365,,3185,,82.205,,,,,,23.774,30.235,14.99,20.657,10.343,,90.252
+Medical Assistants,United States,Kansas,3539,517,2467,,,,,,1305,970,546,,,,3371,14.609,69.709,,,,,,36.875,27.409,15.428,,,,95.253
+Medical Assistants,United States,Kentucky,7856,,6679,685,,,,,2254,1972,1883,1137,610,363,7493,,85.018,8.719,,,,,28.691,25.102,23.969,14.473,7.765,4.621,95.379
+Medical Assistants,United States,Louisiana,7806,369,4605,2525,,,,,2985,2236,1567,743,,815,6991,4.727,58.993,32.347,,,,,38.24,28.645,20.074,9.518,,10.441,89.559
+Medical Assistants,United States,Maine,2987,,2785,,,,,,595,973,736,459,,,2776,,93.237,,,,,,19.92,32.574,24.64,15.367,,,92.936
+Medical Assistants,United States,Maryland,10841,1293,4526,4126,516,,,367,3563,3364,2077,1059,778,1408,9433,11.927,41.749,38.059,4.76,,,3.385,32.866,31.03,19.159,9.768,7.176,12.988,87.012
+Medical Assistants,United States,Massachusetts,13805,2931,7826,1413,663,,,911,4462,3829,2183,2365,966,1502,12303,21.231,56.69,10.235,4.803,,,6.599,32.322,27.736,15.813,17.131,6.997,10.88,89.12
+Medical Assistants,United States,Michigan,24539,2031,17504,3547,589,,,766,7667,7410,4553,3742,1167,1409,23130,8.277,71.331,14.455,2.4,,,3.122,31.244,30.197,18.554,15.249,4.756,5.742,94.258
+Medical Assistants,United States,Minnesota,4682,,3609,,,,,,1353,1375,934,,,573,4109,,77.082,,,,,,28.898,29.368,19.949,,,12.238,87.762
+Medical Assistants,United States,Mississippi,3384,,1564,1612,,,,,1009,1094,493,609,,,3102,,46.217,47.636,,,,,29.817,32.329,14.569,17.996,,,91.667
+Medical Assistants,United States,Missouri,8336,,6346,1240,,,,,3470,1483,1490,1444,449,,8105,,76.128,14.875,,,,,41.627,17.79,17.874,17.322,5.386,,97.229
+Medical Assistants,United States,Montana,1185,,1027,,,,,,620,,,,,,1091,,86.667,,,,,,52.321,,,,,,92.068
+Medical Assistants,United States,Nebraska,2725,,1728,,,,,,,493,700,,,,2582,,63.413,,,,,,,18.092,25.688,,,,94.752
+Medical Assistants,United States,Nevada,6167,3247,1991,,,,,,3446,1150,929,455,,874,5293,52.651,32.285,,,,,,55.878,18.648,15.064,7.378,,14.172,85.828
+Medical Assistants,United States,New Hampshire,2405,,2213,,,,,,879,606,377,,,,2189,,92.017,,,,,,36.549,25.198,15.676,,,,91.019
+Medical Assistants,United States,New Jersey,17249,5949,7401,2439,1296,,,,6526,4771,2969,1894,1089,1235,16014,34.489,42.907,14.14,7.513,,,,37.834,27.66,17.213,10.98,6.313,7.16,92.84
+Medical Assistants,United States,New Mexico,3796,2401,720,,,,405,,1327,1400,726,264,,,3468,63.251,18.967,,,,10.669,,34.958,36.881,19.125,6.955,,,91.359
+Medical Assistants,United States,New York,33552,12175,12226,5272,2799,,,1048,11254,9533,5996,4738,2031,4039,29513,36.287,36.439,15.713,8.342,,,3.124,33.542,28.413,17.871,14.121,6.053,12.038,87.962
+Medical Assistants,United States,North Carolina,17618,1952,9956,4856,,,,530,5617,4904,3995,2345,757,2465,15153,11.08,56.51,27.563,,,,3.008,31.882,27.835,22.676,13.31,4.297,13.991,86.009
+Medical Assistants,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Assistants,United States,Ohio,21385,1011,16767,2498,,,,598,5531,6506,4502,3340,1506,1271,20114,4.728,78.405,11.681,,,,2.796,25.864,30.423,21.052,15.618,7.042,5.943,94.057
+Medical Assistants,United States,Oklahoma,6128,775,3473,928,,,,,1819,2131,1051,769,358,,5737,12.647,56.674,15.144,,,,,29.683,34.775,17.151,12.549,5.842,,93.619
+Medical Assistants,United States,Oregon,9309,2247,6477,,,,,,3266,2166,2261,1136,480,790,8519,24.138,69.578,,,,,,35.084,23.268,24.288,12.203,5.156,8.486,91.514
+Medical Assistants,United States,Pennsylvania,20865,2651,14261,3199,,,,587,6591,5498,4154,2790,1832,1195,19670,12.705,68.349,15.332,,,,2.813,31.589,26.35,19.909,13.372,8.78,5.727,94.273
+Medical Assistants,United States,Rhode Island,1917,500,1203,,,,,,747,,,270,,,1860,26.082,62.754,,,,,,38.967,,,14.085,,,97.027
+Medical Assistants,United States,South Carolina,7693,,4534,2701,,,,,2770,2218,1180,675,,1011,6682,,58.937,35.11,,,,,36.007,28.831,15.339,8.774,,13.142,86.858
+Medical Assistants,United States,South Dakota,903,,636,,,,,,,,,,,,840,,70.432,,,,,,,,,,,,93.023
+Medical Assistants,United States,Tennessee,9921,,6915,2498,,,,,3698,2513,2126,1137,447,666,9255,,69.701,25.179,,,,,37.274,25.33,21.429,11.461,4.506,6.713,93.287
+Medical Assistants,United States,Texas,50635,30287,11671,6011,1371,,,1147,19943,16638,8510,3844,1700,5086,45549,59.814,23.049,11.871,2.708,,,2.265,39.386,32.859,16.807,7.592,3.357,10.044,89.956
+Medical Assistants,United States,Utah,7453,1377,5570,,,,,,3546,1750,1011,1008,,756,6697,18.476,74.735,,,,,,47.578,23.48,13.565,13.525,,10.144,89.856
+Medical Assistants,United States,Vermont,935,,770,,,,,,,,,,,,816,,82.353,,,,,,,,,,,,87.273
+Medical Assistants,United States,Virginia,13629,1849,6574,4032,805,,,359,6276,3313,2134,1546,360,2122,11507,13.567,48.235,29.584,5.907,,,2.634,46.049,24.308,15.658,11.343,2.641,15.57,84.43
+Medical Assistants,United States,Washington,15244,2349,9034,738,1657,,,1265,4979,4513,3161,1799,792,1679,13565,15.409,59.263,4.841,10.87,,,8.298,32.662,29.605,20.736,11.801,5.195,11.014,88.986
+Medical Assistants,United States,West Virginia,3821,,3491,,,,,,1272,997,981,343,,,3546,,91.364,,,,,,33.29,26.093,25.674,8.977,,,92.803
+Medical Assistants,United States,Wisconsin,10631,,8492,,,,,,2655,2906,2162,2216,692,753,9878,,79.88,,,,,,24.974,27.335,20.337,20.845,6.509,7.083,92.917
+Medical Assistants,United States,Wyoming,782,,669,,,,,,,,,,,,766,,85.55,,,,,,,,,,,,97.954
+Medical Assistants,United States,All States,593646,172791,286495,83290,29107,1015,3057,17891,209774,167347,112102,71928,32495,56302,537344,29.107,48.26,14.03,4.903,0.171,0.515,3.014,35.337,28.19,18.884,12.116,5.474,9.484,90.516
+Medical Records & Health Information Technicians,United States,Alabama,2843,,1976,809,,,,,,749,,629,408,,2618,,69.504,28.456,,,,,,26.345,,22.125,14.351,,92.086
+Medical Records & Health Information Technicians,United States,Alaska,420,,,,,,,,,,,,,,323,,,,,,,,,,,,,,76.905
+Medical Records & Health Information Technicians,United States,Arizona,4832,929,3011,,,,362,,1241,766,1176,837,812,1143,3689,19.226,62.314,,,,7.492,,25.683,15.853,24.338,17.322,16.805,23.655,76.345
+Medical Records & Health Information Technicians,United States,Arkansas,2063,,1632,,,,,,,,493,460,,,1919,,79.108,,,,,,,,23.897,22.298,,,93.02
+Medical Records & Health Information Technicians,United States,California,17320,5590,5285,1333,4154,,,776,2857,4125,4204,4108,2026,3470,13850,32.275,30.514,7.696,23.984,,,4.48,16.495,23.816,24.273,23.718,11.697,20.035,79.965
+Medical Records & Health Information Technicians,United States,Colorado,3718,1069,2358,,,,,,,596,1016,787,679,,3287,28.752,63.421,,,,,,,16.03,27.327,21.167,18.263,,88.408
+Medical Records & Health Information Technicians,United States,Connecticut,1670,,884,,,,,,,,,650,273,,1622,,52.934,,,,,,,,,38.922,16.347,,97.126
+Medical Records & Health Information Technicians,United States,Delaware,457,,366,,,,,,,,,,,,457,,80.088,,,,,,,,,,,,100
+Medical Records & Health Information Technicians,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Records & Health Information Technicians,United States,Florida,14060,3666,7387,2432,,,,,1973,2666,3755,3042,2624,1732,12328,26.074,52.539,17.297,,,,,14.033,18.962,26.707,21.636,18.663,12.319,87.681
+Medical Records & Health Information Technicians,United States,Georgia,5300,,2633,2255,,,,,,1402,1350,1349,757,,5087,,49.679,42.547,,,,,,26.453,25.472,25.453,14.283,,95.981
+Medical Records & Health Information Technicians,United States,Hawaii,593,,,,,,,,,,,,,,560,,,,,,,,,,,,,,94.435
+Medical Records & Health Information Technicians,United States,Idaho,1077,,972,,,,,,,,,,,,1048,,90.251,,,,,,,,,,,,97.307
+Medical Records & Health Information Technicians,United States,Illinois,7924,863,4800,1799,374,,,,1071,1784,1502,2133,1434,740,7184,10.891,60.575,22.703,4.72,,,,13.516,22.514,18.955,26.918,18.097,9.339,90.661
+Medical Records & Health Information Technicians,United States,Indiana,3803,,3010,357,,,,,348,733,1039,1029,654,,3567,,79.148,9.387,,,,,9.151,19.274,27.321,27.058,17.197,,93.794
+Medical Records & Health Information Technicians,United States,Iowa,1976,,1949,,,,,,,124,538,758,401,,1922,,98.634,,,,,,,6.275,27.227,38.36,20.294,,97.267
+Medical Records & Health Information Technicians,United States,Kansas,2448,,1834,,,,,,,,815,332,404,,2263,,74.918,,,,,,,,33.292,13.562,16.503,,92.443
+Medical Records & Health Information Technicians,United States,Kentucky,3409,,2838,,,,,,259,1138,824,792,,,3216,,83.25,,,,,,7.598,33.382,24.171,23.233,,,94.339
+Medical Records & Health Information Technicians,United States,Louisiana,2915,,2001,800,,,,,,1018,463,,489,,2739,,68.645,27.444,,,,,,34.923,15.883,,16.775,,93.962
+Medical Records & Health Information Technicians,United States,Maine,890,,856,,,,,,,,,271,,,849,,96.18,,,,,,,,,30.449,,,95.393
+Medical Records & Health Information Technicians,United States,Maryland,2877,,1417,1061,,,,,,,545,623,659,,2407,,49.253,36.879,,,,,,,18.943,21.655,22.906,,83.664
+Medical Records & Health Information Technicians,United States,Massachusetts,3594,,2469,,,,,,622,673,656,876,767,,3128,,68.698,,,,,,17.307,18.726,18.253,24.374,21.341,,87.034
+Medical Records & Health Information Technicians,United States,Michigan,5275,,4404,480,,,,,345,967,1094,1605,1264,218,5057,,83.488,9.1,,,,,6.54,18.332,20.739,30.427,23.962,4.133,95.867
+Medical Records & Health Information Technicians,United States,Minnesota,4457,,4047,,,,,,383,1069,1453,990,562,,4397,,90.801,,,,,,8.593,23.985,32.6,22.212,12.609,,98.654
+Medical Records & Health Information Technicians,United States,Mississippi,2545,,1669,797,,,,,,477,591,620,410,,2441,,65.58,31.316,,,,,,18.743,23.222,24.361,16.11,,95.914
+Medical Records & Health Information Technicians,United States,Missouri,4773,,3996,,,,,,500,920,1328,1397,628,,4488,,83.721,,,,,,10.476,19.275,27.823,29.269,13.157,,94.029
+Medical Records & Health Information Technicians,United States,Montana,1248,,930,,,,,,,,,533,,,1200,,74.519,,,,,,,,,42.708,,,96.154
+Medical Records & Health Information Technicians,United States,Nebraska,1387,,1234,,,,,,,235,505,246,326,,1306,,88.969,,,,,,,16.943,36.41,17.736,23.504,,94.16
+Medical Records & Health Information Technicians,United States,Nevada,1699,,938,,,,,,,,,,229,,1464,,55.209,,,,,,,,,,13.479,,86.168
+Medical Records & Health Information Technicians,United States,New Hampshire,826,,759,,,,,,,,,,,,782,,91.889,,,,,,,,,,,,94.673
+Medical Records & Health Information Technicians,United States,New Jersey,4449,725,1990,1018,532,,,,533,927,1341,925,723,,3918,16.296,44.729,22.882,11.958,,,,11.98,20.836,30.142,20.791,16.251,,88.065
+Medical Records & Health Information Technicians,United States,New Mexico,1194,,,,,,,,,,387,,,,1115,,,,,,,,,,32.412,,,,93.384
+Medical Records & Health Information Technicians,United States,New York,11442,2422,5879,2114,870,,,,1929,2782,1758,2923,2050,1814,9628,21.168,51.381,18.476,7.604,,,,16.859,24.314,15.364,25.546,17.916,15.854,84.146
+Medical Records & Health Information Technicians,United States,North Carolina,6871,,4395,2034,,,,,525,1327,1668,2058,1293,315,6556,,63.964,29.603,,,,,7.641,19.313,24.276,29.952,18.818,4.584,95.416
+Medical Records & Health Information Technicians,United States,North Dakota,631,,565,,,,,,,,,,,,631,,89.54,,,,,,,,,,,,100
+Medical Records & Health Information Technicians,United States,Ohio,8036,,6868,738,,,,,576,1470,2270,2378,1342,941,7095,,85.465,9.184,,,,,7.168,18.293,28.248,29.592,16.7,11.71,88.29
+Medical Records & Health Information Technicians,United States,Oklahoma,2914,,1941,,,,,,,616,359,860,,,2738,,66.609,,,,,,,21.139,12.32,29.513,,,93.96
+Medical Records & Health Information Technicians,United States,Oregon,3584,,2750,,,,,,395,626,951,1107,505,430,3154,,76.73,,,,,,11.021,17.467,26.535,30.887,14.09,11.998,88.002
+Medical Records & Health Information Technicians,United States,Pennsylvania,7786,,6047,1050,,,,,1127,1403,2009,1798,1449,,7305,,77.665,13.486,,,,,14.475,18.02,25.803,23.093,18.61,,93.822
+Medical Records & Health Information Technicians,United States,Rhode Island,593,,471,,,,,,,,,,,,573,,79.427,,,,,,,,,,,,96.627
+Medical Records & Health Information Technicians,United States,South Carolina,2765,,1720,871,,,,,,660,819,648,425,,2654,,62.206,31.501,,,,,,23.87,29.62,23.436,15.371,,95.986
+Medical Records & Health Information Technicians,United States,South Dakota,1353,,1119,,,,,,,,,,,,1235,,82.705,,,,,,,,,,,,91.279
+Medical Records & Health Information Technicians,United States,Tennessee,4297,,3388,738,,,,,241,799,1306,1480,471,314,3983,,78.846,17.175,,,,,5.609,18.594,30.393,34.443,10.961,7.307,92.693
+Medical Records & Health Information Technicians,United States,Texas,13279,4068,6378,1902,748,,,,2125,2378,3187,3029,2560,1652,11627,30.635,48.031,14.323,5.633,,,,16.003,17.908,24,22.81,19.279,12.441,87.559
+Medical Records & Health Information Technicians,United States,Utah,1522,,1054,,,,,,,572,,,,,1258,,69.251,,,,,,,37.582,,,,,82.654
+Medical Records & Health Information Technicians,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Records & Health Information Technicians,United States,Virginia,4524,,2982,1030,,,,,453,933,1031,1381,726,,4258,,65.915,22.767,,,,,10.013,20.623,22.79,30.526,16.048,,94.12
+Medical Records & Health Information Technicians,United States,Washington,3519,,2719,,384,,,,,719,707,1137,661,368,3151,,77.266,,10.912,,,,,20.432,20.091,32.31,18.784,10.458,89.542
+Medical Records & Health Information Technicians,United States,West Virginia,1245,,1005,,,,,,,,,,,,1108,,80.723,,,,,,,,,,,,88.996
+Medical Records & Health Information Technicians,United States,Wisconsin,4298,,3868,,,,,,,941,832,1382,648,,4092,,89.995,,,,,,,21.894,19.358,32.154,15.077,,95.207
+Medical Records & Health Information Technicians,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Records & Health Information Technicians,United States,All States,191300,24969,121599,27482,9957,581,1880,4832,24029,40434,46202,48271,32364,19497,171803,13.052,63.565,14.366,5.205,0.304,0.983,2.526,12.561,21.136,24.152,25.233,16.918,10.192,89.808
+Medical Transcriptionists,United States,Alabama,839,,722,,,,,,,,,,,,839,,86.055,,,,,,,,,,,,100
+Medical Transcriptionists,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Arizona,1847,,1268,,,,,,1152,,,,,359,1488,,68.652,,,,,,62.371,,,,,19.437,80.563
+Medical Transcriptionists,United States,Arkansas,326,,241,,,,,,,,,,,,204,,73.926,,,,,,,,,,,,62.577
+Medical Transcriptionists,United States,California,5816,1249,2324,,1611,,,372,3507,554,,630,672,1551,4265,21.475,39.959,,27.699,,,6.396,60.299,9.525,,10.832,11.554,26.668,73.332
+Medical Transcriptionists,United States,Colorado,950,,547,,,,,,583,,,,,,525,,57.579,,,,,,61.368,,,,,,55.263
+Medical Transcriptionists,United States,Connecticut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Delaware,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Florida,3702,922,2301,,,,,,1946,307,,527,752,486,3216,24.905,62.156,,,,,,52.566,8.293,,14.236,20.313,13.128,86.872
+Medical Transcriptionists,United States,Georgia,1015,,585,,,,,,,,,,175,,870,,57.635,,,,,,,,,,17.241,,85.714
+Medical Transcriptionists,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Idaho,500,,438,,,,,,,,,,,,461,,87.6,,,,,,,,,,,,92.2
+Medical Transcriptionists,United States,Illinois,1747,,1247,,,,,,1121,,,,220,,1447,,71.38,,,,,,64.167,,,,12.593,,82.828
+Medical Transcriptionists,United States,Indiana,1214,,1001,,,,,,458,,,245,,,987,,82.455,,,,,,37.727,,,20.181,,,81.301
+Medical Transcriptionists,United States,Iowa,423,,405,,,,,,,,,,,,410,,95.745,,,,,,,,,,,,96.927
+Medical Transcriptionists,United States,Kansas,347,,288,,,,,,,,,,,,339,,82.997,,,,,,,,,,,,97.695
+Medical Transcriptionists,United States,Kentucky,558,,476,,,,,,,,,,,,513,,85.305,,,,,,,,,,,,91.935
+Medical Transcriptionists,United States,Louisiana,588,,511,,,,,,,,,,,,526,,86.905,,,,,,,,,,,,89.456
+Medical Transcriptionists,United States,Maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Maryland,845,,404,,,,,,536,,,,,,740,,47.811,,,,,,63.432,,,,,,87.574
+Medical Transcriptionists,United States,Massachusetts,629,,527,,,,,,,,,,144,,,,83.784,,,,,,,,,,22.893,,
+Medical Transcriptionists,United States,Michigan,1783,,1376,,,,,,752,,,331,332,,1601,,77.173,,,,,,42.176,,,18.564,18.62,,89.792
+Medical Transcriptionists,United States,Minnesota,1193,,1006,,,,,,,,,,,,1007,,84.325,,,,,,,,,,,,84.409
+Medical Transcriptionists,United States,Mississippi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Missouri,1186,,1106,,,,,,489,,,,,,987,,93.255,,,,,,41.231,,,,,,83.221
+Medical Transcriptionists,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Nebraska,534,,497,,,,,,,,,,,,,,93.071,,,,,,,,,,,,
+Medical Transcriptionists,United States,Nevada,524,,,,,,,,,,,,,,437,,,,,,,,,,,,,,83.397
+Medical Transcriptionists,United States,New Hampshire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,New Jersey,1798,,1276,,,,,,1031,,,,,226,1572,,70.968,,,,,,57.341,,,,,12.57,87.43
+Medical Transcriptionists,United States,New Mexico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,New York,3417,,1608,498,617,,,,2427,,,,,1001,2416,,47.059,14.574,18.057,,,,71.027,,,,,29.295,70.705
+Medical Transcriptionists,United States,North Carolina,1692,,1287,,,,,,740,,,214,324,,1337,,76.064,,,,,,43.735,,,12.648,19.149,,79.019
+Medical Transcriptionists,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Ohio,1590,,1363,,,,,,756,,,,290,,1408,,85.723,,,,,,47.547,,,,18.239,,88.553
+Medical Transcriptionists,United States,Oklahoma,591,,563,,,,,,,,,,,,491,,95.262,,,,,,,,,,,,83.08
+Medical Transcriptionists,United States,Oregon,1103,,878,,,,,,606,,,,,,744,,79.601,,,,,,54.941,,,,,,67.452
+Medical Transcriptionists,United States,Pennsylvania,1958,,1643,,,,,,852,,,322,464,436,1522,,83.912,,,,,,43.514,,,16.445,23.698,22.268,77.732
+Medical Transcriptionists,United States,Rhode Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,South Carolina,632,,529,,,,,,,,,,,,595,,83.703,,,,,,,,,,,,94.146
+Medical Transcriptionists,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Tennessee,1108,,1025,,,,,,335,,,,243,,902,,92.509,,,,,,30.235,,,,21.931,,81.408
+Medical Transcriptionists,United States,Texas,4843,1067,2672,,727,,,,2678,778,,508,704,627,4216,22.032,55.172,,15.011,,,,55.296,16.064,,10.489,14.536,12.947,87.053
+Medical Transcriptionists,United States,Utah,543,,516,,,,,,,,,,,,452,,95.028,,,,,,,,,,,,83.241
+Medical Transcriptionists,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Virginia,1901,,1202,,,,,,1168,,,,,717,1184,,63.23,,,,,,61.441,,,,,37.717,62.283
+Medical Transcriptionists,United States,Washington,975,,673,,,,,,484,,,,,,714,,69.026,,,,,,49.641,,,,,,73.231
+Medical Transcriptionists,United States,West Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,Wisconsin,619,,557,,,,,,,,,,,,556,,89.984,,,,,,,,,,,,89.822
+Medical Transcriptionists,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Medical Transcriptionists,United States,All States,51856,5709,35433,2855,5980,,,1648,26120,5124,4288,7663,8661,9943,41913,11.009,68.33,5.506,11.532,,,3.178,50.37,9.881,8.269,14.777,16.702,19.174,80.826
+"Nursing, Psychiatric and Home Health Aides",United States,Alabama,28141,435,10717,16475,,,,,10408,7504,4517,3745,1967,2989,25152,1.546,38.083,58.544,,,,,36.985,26.666,16.051,13.308,6.99,10.622,89.378
+"Nursing, Psychiatric and Home Health Aides",United States,Alaska,3466,,1544,,,,,,903,1338,321,376,,,3091,,44.547,,,,,,26.053,38.604,9.261,10.848,,,89.181
+"Nursing, Psychiatric and Home Health Aides",United States,Arizona,23400,8039,8871,2805,704,,1820,995,8577,4963,3229,4326,2305,5181,18219,34.355,37.91,11.987,3.009,,7.778,4.252,36.654,21.209,13.799,18.487,9.85,22.141,77.859
+"Nursing, Psychiatric and Home Health Aides",United States,Arkansas,21807,860,12810,7013,,,,862,7635,5443,3810,3148,1771,2159,19648,3.944,58.743,32.159,,,,3.953,35.012,24.96,17.471,14.436,8.121,9.9,90.1
+"Nursing, Psychiatric and Home Health Aides",United States,California,148195,60930,27594,19595,33617,1146,530,4783,37163,29502,28452,31605,21473,31576,116619,41.115,18.62,13.222,22.684,0.773,0.358,3.228,25.077,19.908,19.199,21.327,14.49,21.307,78.693
+"Nursing, Psychiatric and Home Health Aides",United States,Colorado,26922,7812,13320,3561,1088,,297,724,9066,5257,5217,3953,3429,3962,22960,29.017,49.476,13.227,4.041,,1.103,2.689,33.675,19.527,19.378,14.683,12.737,14.717,85.283
+"Nursing, Psychiatric and Home Health Aides",United States,Connecticut,29972,7082,9570,11877,753,,,654,7404,6270,5750,6651,3897,3971,26001,23.629,31.93,39.627,2.512,,,2.182,24.703,20.92,19.185,22.191,13.002,13.249,86.751
+"Nursing, Psychiatric and Home Health Aides",United States,Delaware,6884,651,2096,3843,,,,,1765,1424,1832,1214,649,770,6114,9.457,30.447,55.825,,,,,25.639,20.686,26.612,17.635,9.428,11.185,88.815
+"Nursing, Psychiatric and Home Health Aides",United States,District of Columbia,7402,,,6787,,,,,1259,1735,1960,1845,603,1005,6397,,,91.691,,,,,17.009,23.44,26.479,24.926,8.146,13.577,86.423
+"Nursing, Psychiatric and Home Health Aides",United States,Florida,136582,30265,31179,68352,3024,,,3547,26743,25275,29492,33714,21358,14564,122018,22.159,22.828,50.045,2.214,,,2.597,19.58,18.505,21.593,24.684,15.637,10.663,89.337
+"Nursing, Psychiatric and Home Health Aides",United States,Georgia,50688,1809,11666,34895,874,,,1318,14655,11958,9790,8503,5782,5004,45684,3.569,23.015,68.843,1.724,,,2.6,28.912,23.591,19.314,16.775,11.407,9.872,90.128
+"Nursing, Psychiatric and Home Health Aides",United States,Hawaii,6071,538,557,,3661,529,,602,1664,1391,1199,1051,766,822,5249,8.862,9.175,,60.303,8.714,,9.916,27.409,22.912,19.75,17.312,12.617,13.54,86.46
+"Nursing, Psychiatric and Home Health Aides",United States,Idaho,9877,1319,7411,,,,,584,3873,2079,1369,1593,963,1025,8852,13.354,75.033,,,,,5.913,39.212,21.049,13.86,16.128,9.75,10.378,89.622
+"Nursing, Psychiatric and Home Health Aides",United States,Illinois,85917,12292,35297,30900,5627,,,1696,28189,18003,14892,14937,9896,8964,76953,14.307,41.083,35.965,6.549,,,1.974,32.81,20.954,17.333,17.385,11.518,10.433,89.567
+"Nursing, Psychiatric and Home Health Aides",United States,Indiana,42444,1696,28393,10519,681,,,1085,17425,8565,7346,5619,3489,3885,38559,3.996,66.895,24.783,1.604,,,2.556,41.054,20.18,17.308,13.239,8.22,9.153,90.847
+"Nursing, Psychiatric and Home Health Aides",United States,Iowa,22600,1358,18685,1652,,,,433,10161,4134,3355,2779,2171,1612,20988,6.009,82.677,7.31,,,,1.916,44.96,18.292,14.845,12.296,9.606,7.133,92.867
+"Nursing, Psychiatric and Home Health Aides",United States,Kansas,23736,2331,16652,3118,,,,1177,10531,4943,3415,2830,2017,2459,21277,9.821,70.155,13.136,,,,4.959,44.367,20.825,14.387,11.923,8.498,10.36,89.64
+"Nursing, Psychiatric and Home Health Aides",United States,Kentucky,22877,,18547,3272,,,,,11711,4350,2999,2240,1577,2075,20802,,81.073,14.303,,,,,51.191,19.015,13.109,9.791,6.893,9.07,90.93
+"Nursing, Psychiatric and Home Health Aides",United States,Louisiana,29724,,4662,24239,,,,,8004,7562,6288,5192,2678,2233,27491,,15.684,81.547,,,,,26.928,25.441,21.155,17.467,9.01,7.512,92.488
+"Nursing, Psychiatric and Home Health Aides",United States,Maine,12336,,11103,527,,,,,4179,2234,1679,2619,1625,1308,11028,,90.005,4.272,,,,,33.876,18.11,13.611,21.231,13.173,10.603,89.397
+"Nursing, Psychiatric and Home Health Aides",United States,Maryland,33590,1043,6582,24082,976,,,841,8395,8124,5901,7148,4022,3569,30021,3.105,19.595,71.694,2.906,,,2.504,24.993,24.186,17.568,21.28,11.974,10.625,89.375
+"Nursing, Psychiatric and Home Health Aides",United States,Massachusetts,61485,12022,25075,19375,1673,,,3254,17023,11028,11749,13494,8191,7574,53911,19.553,40.782,31.512,2.721,,,5.292,27.686,17.936,19.109,21.947,13.322,12.318,87.682
+"Nursing, Psychiatric and Home Health Aides",United States,Michigan,66861,2844,39287,20884,1413,,137,2296,25675,14034,11130,9990,6032,8886,57975,4.254,58.759,31.235,2.113,,0.205,3.434,38.401,20.99,16.646,14.941,9.022,13.29,86.71
+"Nursing, Psychiatric and Home Health Aides",United States,Minnesota,45124,3039,25674,11906,2503,,232,1770,17802,9498,7734,6192,3898,7163,37961,6.735,56.897,26.385,5.547,,0.514,3.923,39.451,21.049,17.139,13.722,8.638,15.874,84.126
+"Nursing, Psychiatric and Home Health Aides",United States,Mississippi,19693,,4534,14742,,,,,5682,5565,3630,2864,1952,1770,17923,,23.023,74.859,,,,,28.853,28.259,18.433,14.543,9.912,8.988,91.012
+"Nursing, Psychiatric and Home Health Aides",United States,Missouri,46278,993,27373,15677,491,,,1441,17597,9952,7327,6993,4409,5990,40288,2.146,59.149,33.876,1.061,,,3.114,38.025,21.505,15.833,15.111,9.527,12.944,87.056
+"Nursing, Psychiatric and Home Health Aides",United States,Montana,6863,486,5590,,,,444,,2733,1940,820,719,651,947,5916,7.081,81.451,,,,6.469,,39.822,28.268,11.948,10.476,9.486,13.799,86.201
+"Nursing, Psychiatric and Home Health Aides",United States,Nebraska,15078,2002,10585,1325,,,242,,7063,2895,2241,1852,1027,1912,13166,13.278,70.202,8.788,,,1.605,,46.843,19.2,14.863,12.283,6.811,12.681,87.319
+"Nursing, Psychiatric and Home Health Aides",United States,Nevada,10201,2771,2632,2410,1705,,,,2996,1897,2258,1991,1059,1736,8465,27.164,25.801,23.625,16.714,,,,29.37,18.596,22.135,19.518,10.381,17.018,82.982
+"Nursing, Psychiatric and Home Health Aides",United States,New Hampshire,9113,,7840,,,,,,3256,1702,1066,1582,1507,730,8383,,86.031,,,,,,35.729,18.677,11.698,17.36,16.537,8.011,91.989
+"Nursing, Psychiatric and Home Health Aides",United States,New Jersey,58600,13520,11132,28415,3595,,,1726,11003,9514,12756,14940,10387,8327,50273,23.072,18.997,48.49,6.135,,,2.945,18.776,16.235,21.768,25.495,17.725,14.21,85.79
+"Nursing, Psychiatric and Home Health Aides",United States,New Mexico,10536,5275,2807,,,,1852,,3499,2014,1935,1553,1535,1581,8955,50.066,26.642,,,,17.578,,33.21,19.115,18.366,14.74,14.569,15.006,84.994
+"Nursing, Psychiatric and Home Health Aides",United States,New York,283540,78619,56047,102925,33621,,402,11789,43645,49343,62363,77988,50201,33876,249664,27.728,19.767,36.3,11.858,,0.142,4.158,15.393,17.402,21.994,27.505,17.705,11.948,88.052
+"Nursing, Psychiatric and Home Health Aides",United States,North Carolina,71738,2590,30502,34550,868,,1399,1829,20027,14600,14269,12879,9963,7472,64266,3.61,42.519,48.161,1.21,,1.95,2.55,27.917,20.352,19.89,17.953,13.888,10.416,89.584
+"Nursing, Psychiatric and Home Health Aides",United States,North Dakota,8057,,5977,1093,,,,,4072,1434,685,878,988,748,7309,,74.184,13.566,,,,,50.54,17.798,8.502,10.897,12.263,9.284,90.716
+"Nursing, Psychiatric and Home Health Aides",United States,Ohio,95398,2855,55842,31255,1586,,,3573,34590,19975,16642,14436,9755,10173,85225,2.993,58.536,32.763,1.663,,,3.745,36.259,20.939,17.445,15.132,10.226,10.664,89.336
+"Nursing, Psychiatric and Home Health Aides",United States,Oklahoma,25192,2152,13343,4536,505,,2355,2285,9170,5733,4597,3616,2076,2725,22467,8.542,52.965,18.006,2.005,,9.348,9.07,36.4,22.757,18.248,14.354,8.241,10.817,89.183
+"Nursing, Psychiatric and Home Health Aides",United States,Oregon,17668,2350,11740,823,1239,277,,900,5949,4155,3075,2538,1951,3356,14312,13.301,66.448,4.658,7.013,1.568,,5.094,33.671,23.517,17.404,14.365,11.043,18.995,81.005
+"Nursing, Psychiatric and Home Health Aides",United States,Pennsylvania,107797,11088,54610,34735,3435,,,3854,33952,24320,17246,19857,12422,15624,92173,10.286,50.66,32.223,3.187,,,3.575,31.496,22.561,15.999,18.421,11.524,14.494,85.506
+"Nursing, Psychiatric and Home Health Aides",United States,Rhode Island,11069,2351,5453,2339,250,,,665,2319,2889,2109,2212,1540,934,10135,21.239,49.264,21.131,2.259,,,6.008,20.95,26.1,19.053,19.984,13.913,8.438,91.562
+"Nursing, Psychiatric and Home Health Aides",United States,South Carolina,27452,915,9987,16022,,,,350,7255,6011,5270,5603,3313,2077,25375,3.333,36.38,58.364,,,,1.275,26.428,21.896,19.197,20.41,12.068,7.566,92.434
+"Nursing, Psychiatric and Home Health Aides",United States,South Dakota,6203,,5149,,,,329,,2698,764,948,927,866,507,5696,,83.008,,,,5.304,,43.495,12.317,15.283,14.944,13.961,8.173,91.827
+"Nursing, Psychiatric and Home Health Aides",United States,Tennessee,33255,978,20815,10067,,,,1023,12091,7862,4881,5616,2805,3954,29301,2.941,62.592,30.272,,,,3.076,36.358,23.642,14.677,16.888,8.435,11.89,88.11
+"Nursing, Psychiatric and Home Health Aides",United States,Texas,161850,69196,34330,49888,5080,,427,2792,37789,34919,35545,31926,21671,21150,140700,42.753,21.211,30.824,3.139,,0.264,1.725,23.348,21.575,21.962,19.726,13.39,13.068,86.932
+"Nursing, Psychiatric and Home Health Aides",United States,Utah,14488,2709,10302,,387,,,,8170,2434,2035,1137,712,2194,12294,18.698,71.107,,2.671,,,,56.391,16.8,14.046,7.848,4.914,15.144,84.856
+"Nursing, Psychiatric and Home Health Aides",United States,Vermont,3533,,2898,,,,,,1243,,875,508,438,698,2835,,82.027,,,,,,35.183,,24.766,14.379,12.397,19.757,80.243
+"Nursing, Psychiatric and Home Health Aides",United States,Virginia,46639,2065,16693,25169,1544,,,1165,12569,10252,8454,9704,5660,5782,40857,4.428,35.792,53.966,3.311,,,2.498,26.95,21.982,18.126,20.807,12.136,12.397,87.603
+"Nursing, Psychiatric and Home Health Aides",United States,Washington,36050,4968,18881,5291,3736,543,334,2297,12289,8018,5926,5772,4045,5563,30487,13.781,52.374,14.677,10.363,1.506,0.926,6.372,34.089,22.241,16.438,16.011,11.221,15.431,84.569
+"Nursing, Psychiatric and Home Health Aides",United States,West Virginia,12251,,10895,632,,,,496,3949,2975,2323,1762,1242,1927,10324,,88.932,5.159,,,,4.049,32.234,24.284,18.962,14.382,10.138,15.729,84.271
+"Nursing, Psychiatric and Home Health Aides",United States,Wisconsin,42872,3223,30830,6313,1275,,,953,17655,8326,5749,6697,4445,4607,38265,7.518,71.912,14.725,2.974,,,2.223,41.181,19.421,13.41,15.621,10.368,10.746,89.254
+"Nursing, Psychiatric and Home Health Aides",United States,Wyoming,3881,,3296,,,,,,2093,601,536,,241,,3458,,84.927,,,,,,53.929,15.486,13.811,,6.21,,89.101
+"Nursing, Psychiatric and Home Health Aides",United States,All States,2131412,369973,837628,715827,120002,4153,14844,68985,615564,437173,398987,411724,267964,269914,1861498,17.358,39.299,33.585,5.63,0.195,0.696,3.237,28.881,20.511,18.719,19.317,12.572,12.664,87.336
+Occupational Therapists,United States,Alabama,1580,,1072,,,,,,,607,216,,,,1422,,67.848,,,,,,,38.418,13.671,,,,90
+Occupational Therapists,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapists,United States,Arizona,2097,,1447,,,,,,294,752,554,355,142,,1842,,69.003,,,,,,14.02,35.861,26.419,16.929,6.772,,87.84
+Occupational Therapists,United States,Arkansas,1481,,1343,,,,,,,,,,,,1258,,90.682,,,,,,,,,,,,84.943
+Occupational Therapists,United States,California,11172,926,5861,,3328,,,495,1903,4260,2378,1610,1021,1893,9279,8.289,52.462,,29.789,,,4.431,17.034,38.131,21.285,14.411,9.139,16.944,83.056
+Occupational Therapists,United States,Colorado,2816,,2651,,,,,,384,994,647,487,304,,2585,,94.141,,,,,,13.636,35.298,22.976,17.294,10.795,,91.797
+Occupational Therapists,United States,Connecticut,1535,,1388,,,,,,293,576,,192,,,1507,,90.423,,,,,,19.088,37.524,,12.508,,,98.176
+Occupational Therapists,United States,Delaware,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapists,United States,District of Columbia,291,,,,,,,,,,,,,,291,,,,,,,,,,,,,,100
+Occupational Therapists,United States,Florida,6973,1421,4630,,580,,,,1358,1628,2004,1128,855,973,6000,20.379,66.399,,8.318,,,,19.475,23.347,28.739,16.177,12.262,13.954,86.046
+Occupational Therapists,United States,Georgia,2770,,1768,725,,,,,,734,1154,490,,,2610,,63.827,26.173,,,,,,26.498,41.661,17.69,,,94.224
+Occupational Therapists,United States,Hawaii,453,,,,198,,,,,,,,,,397,,,,43.709,,,,,,,,,,87.638
+Occupational Therapists,United States,Idaho,624,,606,,,,,,,,,,,,527,,97.115,,,,,,,,,,,,84.455
+Occupational Therapists,United States,Illinois,5952,366,4324,526,,,,,1204,1720,1816,875,337,510,5442,6.149,72.648,8.837,,,,,20.228,28.898,30.511,14.701,5.662,8.569,91.431
+Occupational Therapists,United States,Indiana,2714,,2581,,,,,,424,705,590,744,,,2292,,95.099,,,,,,15.623,25.976,21.739,27.413,,,84.451
+Occupational Therapists,United States,Iowa,1071,,1053,,,,,,,,,,,,967,,98.319,,,,,,,,,,,,90.289
+Occupational Therapists,United States,Kansas,1238,,1087,,,,,,,,349,297,185,,1132,,87.803,,,,,,,,28.191,23.99,14.943,,91.438
+Occupational Therapists,United States,Kentucky,1700,,1549,,,,,,424,564,354,,,,1530,,91.118,,,,,,24.941,33.176,20.824,,,,90
+Occupational Therapists,United States,Louisiana,2081,,1908,,,,,,,561,705,360,,,1796,,91.687,,,,,,,26.958,33.878,17.299,,,86.305
+Occupational Therapists,United States,Maine,1059,,917,,,,,,,512,,,,,846,,86.591,,,,,,,48.347,,,,,79.887
+Occupational Therapists,United States,Maryland,2801,,1730,,,,,,671,1088,426,,,,2650,,61.764,,,,,,23.956,38.843,15.209,,,,94.609
+Occupational Therapists,United States,Massachusetts,4826,,4277,,,,,,704,1595,1203,852,472,,4576,,88.624,,,,,,14.588,33.05,24.927,17.654,9.78,,94.82
+Occupational Therapists,United States,Michigan,5432,,5008,,,,,,970,1886,1077,785,714,750,4682,,92.194,,,,,,17.857,34.72,19.827,14.451,13.144,13.807,86.193
+Occupational Therapists,United States,Minnesota,2394,,2198,,,,,,286,781,695,413,,,2272,,91.813,,,,,,11.947,32.623,29.031,17.251,,,94.904
+Occupational Therapists,United States,Mississippi,723,,662,,,,,,,,,,,,609,,91.563,,,,,,,,,,,,84.232
+Occupational Therapists,United States,Missouri,3127,,2755,,,,,,672,953,872,,,,2842,,88.104,,,,,,21.49,30.476,27.886,,,,90.886
+Occupational Therapists,United States,Montana,524,,481,,,,,,,,,,,,512,,91.794,,,,,,,,,,,,97.71
+Occupational Therapists,United States,Nebraska,803,,744,,,,,,,306,,,,,713,,92.653,,,,,,,38.107,,,,,88.792
+Occupational Therapists,United States,Nevada,923,,751,,,,,,,,,,,,753,,81.365,,,,,,,,,,,,81.582
+Occupational Therapists,United States,New Hampshire,1181,,1094,,,,,,,,,,,,1093,,92.633,,,,,,,,,,,,92.549
+Occupational Therapists,United States,New Jersey,4374,,3438,,406,,,,991,1599,1093,453,,458,3916,,78.601,,9.282,,,,22.657,36.557,24.989,10.357,,10.471,89.529
+Occupational Therapists,United States,New Mexico,631,,378,,,,,,,,,,,,577,,59.905,,,,,,,,,,,,91.442
+Occupational Therapists,United States,New York,11778,813,9282,630,889,,,,2296,3854,3089,1478,1061,1572,10206,6.903,78.808,5.349,7.548,,,,19.494,32.722,26.227,12.549,9.008,13.347,86.653
+Occupational Therapists,United States,North Carolina,3841,,3016,,,,,,880,1108,1014,665,,,3325,,78.521,,,,,,22.911,28.847,26.399,17.313,,,86.566
+Occupational Therapists,United States,North Dakota,285,,285,,,,,,,,,,,,246,,100,,,,,,,,,,,,86.316
+Occupational Therapists,United States,Ohio,5595,,5363,,,,,,991,1464,1572,1315,253,826,4769,,95.853,,,,,,17.712,26.166,28.097,23.503,4.522,14.763,85.237
+Occupational Therapists,United States,Oklahoma,841,,662,,,,,,,,,,,,830,,78.716,,,,,,,,,,,,98.692
+Occupational Therapists,United States,Oregon,1752,,1606,,,,,,,374,713,,,285,1467,,91.667,,,,,,,21.347,40.696,,,16.267,83.733
+Occupational Therapists,United States,Pennsylvania,8363,,7480,,,,,,1648,2884,2134,1200,497,764,7599,,89.442,,,,,,19.706,34.485,25.517,14.349,5.943,9.135,90.865
+Occupational Therapists,United States,Rhode Island,342,,323,,,,,,,,,,,,302,,94.444,,,,,,,,,,,,88.304
+Occupational Therapists,United States,South Carolina,1416,,1111,,,,,,,589,419,,,,1303,,78.46,,,,,,,41.596,29.59,,,,92.02
+Occupational Therapists,United States,South Dakota,,,,,,,,,,,,,,,400,,,,,,,,,,,,,,
+Occupational Therapists,United States,Tennessee,2066,,1575,,,,,,743,458,,293,,230,1836,,76.234,,,,,,35.963,22.168,,14.182,,11.133,88.867
+Occupational Therapists,United States,Texas,8257,1408,5349,596,729,,,,1475,2565,1965,1475,777,1376,6881,17.052,64.781,7.218,8.829,,,,17.864,31.065,23.798,17.864,9.41,16.665,83.335
+Occupational Therapists,United States,Utah,583,,503,,,,,,,,,,,,456,,86.278,,,,,,,,,,,,78.216
+Occupational Therapists,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapists,United States,Virginia,3255,,2956,,,,,,515,1187,942,319,292,,2975,,90.814,,,,,,15.822,36.467,28.94,9.8,8.971,,91.398
+Occupational Therapists,United States,Washington,2666,,1988,,286,,,,577,756,571,598,,304,2362,,74.569,,10.728,,,,21.643,28.357,21.418,22.431,,11.403,88.597
+Occupational Therapists,United States,West Virginia,613,,613,,,,,,,,,,,,519,,100,,,,,,,,,,,,84.666
+Occupational Therapists,United States,Wisconsin,2749,,2615,,,,,,691,489,844,537,188,,2686,,95.126,,,,,,25.136,17.788,30.702,19.534,6.839,,97.708
+Occupational Therapists,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapists,United States,All States,131351,7389,104276,6892,9022,,,3659,24613,41846,33306,21276,10310,15203,116148,5.625,79.387,5.247,6.869,,,2.786,18.738,31.858,25.356,16.198,7.849,11.574,88.426
+Occupational Therapy Assistants And Aides,United States,Alabama,784,,487,,,,,,,,,,,,668,,62.117,,,,,,,,,,,,85.204
+Occupational Therapy Assistants And Aides,United States,Alaska,118,,,,,,,,,,,,,,118,,,,,,,,,,,,,,100
+Occupational Therapy Assistants And Aides,United States,Arizona,1019,,623,,,,,,,,264,,,,859,,61.138,,,,,,,,25.908,,,,84.298
+Occupational Therapy Assistants And Aides,United States,Arkansas,449,,398,,,,,,,,,,,,370,,88.641,,,,,,,,,,,,82.405
+Occupational Therapy Assistants And Aides,United States,California,3817,1155,1223,,941,,,,1043,1118,730,753,,1224,2593,30.259,32.041,,24.653,,,,27.325,29.29,19.125,19.728,,32.067,67.933
+Occupational Therapy Assistants And Aides,United States,Colorado,508,,,,,,,,,,,,,,508,,,,,,,,,,,,,,100
+Occupational Therapy Assistants And Aides,United States,Connecticut,783,,621,,,,,,241,,,,,,637,,79.31,,,,,,30.779,,,,,,81.354
+Occupational Therapy Assistants And Aides,United States,Delaware,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Florida,2694,436,1858,,,,,,619,859,332,591,,525,2169,16.184,68.968,,,,,,22.977,31.886,12.324,21.938,,19.488,80.512
+Occupational Therapy Assistants And Aides,United States,Georgia,1410,,790,,,,,,,,,,,,1312,,56.028,,,,,,,,,,,,93.05
+Occupational Therapy Assistants And Aides,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Idaho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Illinois,2417,,1586,,,,,,424,713,731,,,,2063,,65.619,,,,,,17.542,29.499,30.244,,,,85.354
+Occupational Therapy Assistants And Aides,United States,Indiana,1162,,1132,,,,,,,417,,,,,1092,,97.418,,,,,,,35.886,,,,,93.976
+Occupational Therapy Assistants And Aides,United States,Iowa,453,,453,,,,,,242,,,,,,415,,100,,,,,,53.422,,,,,,91.611
+Occupational Therapy Assistants And Aides,United States,Kansas,823,,660,,,,,,,317,,,,,764,,80.194,,,,,,,38.518,,,,,92.831
+Occupational Therapy Assistants And Aides,United States,Kentucky,703,,624,,,,,,,,,,,,593,,88.762,,,,,,,,,,,,84.353
+Occupational Therapy Assistants And Aides,United States,Louisiana,456,,338,,,,,,,,,,,,400,,74.123,,,,,,,,,,,,87.719
+Occupational Therapy Assistants And Aides,United States,Maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Maryland,836,,593,,,,,,,,,,,,765,,70.933,,,,,,,,,,,,91.507
+Occupational Therapy Assistants And Aides,United States,Massachusetts,1601,,1139,,,,,,,328,,,143,,1456,,71.143,,,,,,,20.487,,,8.932,,90.943
+Occupational Therapy Assistants And Aides,United States,Michigan,1822,,1290,,,,,,453,336,,,,,1609,,70.801,,,,,,24.863,18.441,,,,,88.31
+Occupational Therapy Assistants And Aides,United States,Minnesota,1005,,1001,,,,,,,,,,,,941,,99.602,,,,,,,,,,,,93.632
+Occupational Therapy Assistants And Aides,United States,Mississippi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Missouri,1020,,820,,,,,,460,,,,,,1000,,80.392,,,,,,45.098,,,,,,98.039
+Occupational Therapy Assistants And Aides,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Nebraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Nevada,212,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,New Hampshire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,New Jersey,1168,,551,,,,,,,,,,,,975,,47.175,,,,,,,,,,,,83.476
+Occupational Therapy Assistants And Aides,United States,New Mexico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,New York,4855,864,2631,1033,,,,,909,1025,745,1491,685,,3862,17.796,54.192,21.277,,,,,18.723,21.112,15.345,30.711,14.109,,79.547
+Occupational Therapy Assistants And Aides,United States,North Carolina,1230,,912,,,,,,,,315,,,,1060,,74.146,,,,,,,,25.61,,,,86.179
+Occupational Therapy Assistants And Aides,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Ohio,3999,,3186,656,,,,,815,1104,595,932,553,416,3583,,79.67,16.404,,,,,20.38,27.607,14.879,23.306,13.828,10.403,89.597
+Occupational Therapy Assistants And Aides,United States,Oklahoma,816,,580,,,,,,,,,,,,726,,71.078,,,,,,,,,,,,88.971
+Occupational Therapy Assistants And Aides,United States,Oregon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Pennsylvania,2974,,2121,,,,,,898,633,,,,,2699,,71.318,,,,,,30.195,21.284,,,,,90.753
+Occupational Therapy Assistants And Aides,United States,Rhode Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,South Carolina,808,,345,,,,,,,,,,,,754,,42.698,,,,,,,,,,,,93.317
+Occupational Therapy Assistants And Aides,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Tennessee,489,,437,,,,,,,,,,,,386,,89.366,,,,,,,,,,,,78.937
+Occupational Therapy Assistants And Aides,United States,Texas,3615,902,1846,754,,,,,882,972,971,541,249,551,3064,24.952,51.065,20.858,,,,,24.398,26.888,26.86,14.965,6.888,15.242,84.758
+Occupational Therapy Assistants And Aides,United States,Utah,296,,237,,,,,,,,,,,,290,,80.068,,,,,,,,,,,,97.973
+Occupational Therapy Assistants And Aides,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,Virginia,836,,646,,,,,,323,,,,,,710,,77.273,,,,,,38.636,,,,,,84.928
+Occupational Therapy Assistants And Aides,United States,Washington,1152,,809,,,,,,,,367,,,,756,,70.226,,,,,,,,31.858,,,,65.625
+Occupational Therapy Assistants And Aides,United States,West Virginia,393,,393,,,,,,,,,,,,203,,100,,,,,,,,,,,,51.654
+Occupational Therapy Assistants And Aides,United States,Wisconsin,1092,,907,,,,,,,,,,,,975,,83.059,,,,,,,,,,,,89.286
+Occupational Therapy Assistants And Aides,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupational Therapy Assistants And Aides,United States,All States,51082,5834,34386,6992,1996,,362,1492,12264,13368,10685,10079,4686,7965,43117,11.421,67.315,13.688,3.907,,0.709,2.921,24.008,26.17,20.917,19.731,9.173,15.593,84.407
+Pharmacists,United States,Alabama,5228,,4663,,,,,,810,1644,861,918,995,2072,3156,,89.193,,,,,,15.493,31.446,16.469,17.559,19.032,39.633,60.367
+Pharmacists,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacists,United States,Arizona,7889,574,5353,,1422,,,,1181,2555,2050,1446,657,3632,4257,7.276,67.854,,18.025,,,,14.97,32.387,25.986,18.329,8.328,46.039,53.961
+Pharmacists,United States,Arkansas,2846,,2627,,,,,,,881,746,523,269,1112,1734,,92.305,,,,,,,30.956,26.212,18.377,9.452,39.072,60.928
+Pharmacists,United States,California,32702,2261,9120,496,19268,,,1417,5041,11570,8111,4289,3691,12648,20054,6.914,27.888,1.517,58.92,,,4.333,15.415,35.38,24.803,13.115,11.287,38.677,61.323
+Pharmacists,United States,Colorado,5553,,4294,,624,,,,871,1714,1352,1038,578,2280,3273,,77.328,,11.237,,,,15.685,30.866,24.347,18.693,10.409,41.059,58.941
+Pharmacists,United States,Connecticut,3544,,2460,,611,,,,850,1015,616,762,301,1691,1853,,69.413,,17.24,,,,23.984,28.64,17.381,21.501,8.493,47.714,52.286
+Pharmacists,United States,Delaware,802,,477,,,,,,,,,,,,359,,59.476,,,,,,,,,,,,44.763
+Pharmacists,United States,District of Columbia,1074,,,,,,,,162,,,,,,644,,,,,,,,15.084,,,,,,59.963
+Pharmacists,United States,Florida,21103,3505,11068,2359,3466,,,671,3054,7322,4825,3534,2368,9226,11877,16.609,52.448,11.179,16.424,,,3.18,14.472,34.696,22.864,16.746,11.221,43.719,56.281
+Pharmacists,United States,Georgia,9532,,6393,1136,1625,,,,1558,3190,2081,1839,864,3145,6387,,67.069,11.918,17.048,,,,16.345,33.466,21.832,19.293,9.064,32.994,67.006
+Pharmacists,United States,Hawaii,1412,,,,934,,,,,,,444,,,1016,,,,66.147,,,,,,,31.445,,,71.955
+Pharmacists,United States,Idaho,1459,,1217,,,,,,,422,358,,,826,633,,83.413,,,,,,,28.924,24.537,,,56.614,43.386
+Pharmacists,United States,Illinois,13938,629,8483,969,3528,,,,2366,3969,3534,2117,1952,5209,8729,4.513,60.862,6.952,25.312,,,,16.975,28.476,25.355,15.189,14.005,37.373,62.627
+Pharmacists,United States,Indiana,7024,,5564,,754,,,,1278,1946,1554,1417,829,2914,4110,,79.214,,10.735,,,,18.195,27.705,22.124,20.174,11.802,41.486,58.514
+Pharmacists,United States,Iowa,4246,,3506,,,,,,914,1176,854,533,769,1555,2691,,82.572,,,,,,21.526,27.697,20.113,12.553,18.111,36.623,63.377
+Pharmacists,United States,Kansas,2799,,2569,,,,,,737,1011,458,341,252,1235,1564,,91.783,,,,,,26.331,36.12,16.363,12.183,9.003,44.123,55.877
+Pharmacists,United States,Kentucky,6152,,5623,,,,,,1323,1757,1130,1099,843,2297,3855,,91.401,,,,,,21.505,28.56,18.368,17.864,13.703,37.337,62.663
+Pharmacists,United States,Louisiana,5253,,3608,887,383,,,,902,1735,1097,820,699,2461,2792,,68.685,16.886,7.291,,,,17.171,33.029,20.883,15.61,13.307,46.849,53.151
+Pharmacists,United States,Maine,1367,,1195,,,,,,,,,192,,554,813,,87.418,,,,,,,,,14.045,,40.527,59.473
+Pharmacists,United States,Maryland,7768,,3163,2023,2112,,,,1023,2270,1644,1564,1267,2923,4845,,40.718,26.043,27.188,,,,13.169,29.222,21.164,20.134,16.311,37.629,62.371
+Pharmacists,United States,Massachusetts,7761,,5030,,1982,,,,2130,2304,1539,876,912,2732,5029,,64.811,,25.538,,,,27.445,29.687,19.83,11.287,11.751,35.202,64.798
+Pharmacists,United States,Michigan,10800,,8954,,1153,,,,1857,3040,2332,1826,1745,4337,6463,,82.907,,10.676,,,,17.194,28.148,21.593,16.907,16.157,40.157,59.843
+Pharmacists,United States,Minnesota,5863,,5154,,,,,,1155,2169,957,647,935,2210,3653,,87.907,,,,,,19.7,36.995,16.323,11.035,15.947,37.694,62.306
+Pharmacists,United States,Mississippi,2564,,2052,332,,,,,,514,588,392,695,1208,1356,,80.031,12.949,,,,,,20.047,22.933,15.289,27.106,47.114,52.886
+Pharmacists,United States,Missouri,7440,,5995,534,546,,,,2092,1919,1507,971,951,3440,4000,,80.578,7.177,7.339,,,,28.118,25.793,20.255,13.051,12.782,46.237,53.763
+Pharmacists,United States,Montana,1407,,1182,,,,,,,,,,,572,835,,84.009,,,,,,,,,,,40.654,59.346
+Pharmacists,United States,Nebraska,2701,,2349,,,,,,445,811,654,558,,996,1705,,86.968,,,,,,16.475,30.026,24.213,20.659,,36.875,63.125
+Pharmacists,United States,Nevada,1936,,733,,781,,,,,514,,,,888,1048,,37.862,,40.341,,,,,26.55,,,,45.868,54.132
+Pharmacists,United States,New Hampshire,1520,,1236,,,,,,443,460,,252,,611,909,,81.316,,,,,,29.145,30.263,,16.579,,40.197,59.803
+Pharmacists,United States,New Jersey,9548,384,4641,,3808,,,,1691,2965,2425,1844,623,4241,5307,4.022,48.607,,39.883,,,,17.711,31.054,25.398,19.313,6.525,44.418,55.582
+Pharmacists,United States,New Mexico,1904,919,743,,,,,,,498,,239,,940,964,48.267,39.023,,,,,,,26.155,,12.553,,49.37,50.63
+Pharmacists,United States,New York,21447,760,13356,821,6026,,,472,5115,6165,3730,3604,2833,9372,12075,3.544,62.274,3.828,28.097,,,2.201,23.849,28.745,17.392,16.804,13.209,43.698,56.302
+Pharmacists,United States,North Carolina,10415,,8450,1014,606,,,,1615,2592,2902,1692,1614,4482,5933,,81.133,9.736,5.819,,,,15.506,24.887,27.864,16.246,15.497,43.034,56.966
+Pharmacists,United States,North Dakota,1220,,1019,,,,,,,,,,,,897,,83.525,,,,,,,,,,,,73.525
+Pharmacists,United States,Ohio,13950,,11943,,1183,,,,2744,3961,2585,3199,1461,5501,8449,,85.613,,8.48,,,,19.67,28.394,18.53,22.932,10.473,39.434,60.566
+Pharmacists,United States,Oklahoma,3648,,2719,,,,,,710,1155,749,420,614,1827,1821,,74.534,,,,,,19.463,31.661,20.532,11.513,16.831,50.082,49.918
+Pharmacists,United States,Oregon,4029,,2754,,890,,,,304,1524,1203,570,428,1792,2237,,68.354,,22.09,,,,7.545,37.826,29.859,14.147,10.623,44.478,55.522
+Pharmacists,United States,Pennsylvania,16811,,12919,751,2716,,,,3858,4979,3860,2381,1733,6489,10322,,76.848,4.467,16.156,,,,22.949,29.618,22.961,14.163,10.309,38.6,61.4
+Pharmacists,United States,Rhode Island,1015,,870,,,,,,,,,245,,306,709,,85.714,,,,,,,,,24.138,,30.148,69.852
+Pharmacists,United States,South Carolina,6261,,4355,982,617,,,,1284,1827,1398,896,856,2652,3609,,69.558,15.684,9.855,,,,20.508,29.181,22.329,14.311,13.672,42.357,57.643
+Pharmacists,United States,South Dakota,1683,,1530,,,,,,,269,,,,494,1189,,90.909,,,,,,,15.983,,,,29.352,70.648
+Pharmacists,United States,Tennessee,8293,,6852,714,453,,,,1182,2675,1794,1643,999,3636,4657,,82.624,8.61,5.462,,,,14.253,32.256,21.633,19.812,12.046,43.844,56.156
+Pharmacists,United States,Texas,23407,3355,9365,2905,7196,,,552,3869,7326,5362,3659,3191,9496,13911,14.333,40.009,12.411,30.743,,,2.358,16.529,31.298,22.908,15.632,13.633,40.569,59.431
+Pharmacists,United States,Utah,3877,,3463,,,,,,571,1639,987,320,,2209,1668,,89.322,,,,,,14.728,42.275,25.458,8.254,,56.977,43.023
+Pharmacists,United States,Vermont,575,,558,,,,,,,,,,,,402,,97.043,,,,,,,,,,,,69.913
+Pharmacists,United States,Virginia,7809,,4685,1052,1847,,,,1645,2516,1797,1002,849,2813,4996,,59.995,13.472,23.652,,,,21.065,32.219,23.012,12.831,10.872,36.023,63.977
+Pharmacists,United States,Washington,7489,,4417,,2243,,,305,1356,2058,2038,1366,671,3543,3946,,58.98,,29.951,,,4.073,18.107,27.48,27.213,18.24,8.96,47.309,52.691
+Pharmacists,United States,West Virginia,2371,,2229,,,,,,,776,544,509,286,1145,1226,,94.011,,,,,,,32.729,22.944,21.468,12.062,48.292,51.708
+Pharmacists,United States,Wisconsin,6467,,5766,,,,,,1155,2239,1354,835,,2744,3723,,89.16,,,,,,17.86,34.622,20.937,12.912,,42.431,57.569
+Pharmacists,United States,Wyoming,598,,547,,,,,,,,,,,,293,,91.472,,,,,,,,,,,,48.997
+Pharmacists,United States,All States,337058,16414,218414,21978,70781,,461,8810,61450,104161,75372,54479,41596,138819,198239,4.87,64.8,6.521,21,,0.137,2.614,18.231,30.903,22.362,16.163,12.341,41.185,58.815
+Pharmacy Aides,United States,Alabama,627,,520,,,,,,,,,,,,492,,82.935,,,,,,,,,,,,78.469
+Pharmacy Aides,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Arizona,921,,,,,,,,,,,,,,607,,,,,,,,,,,,,,65.907
+Pharmacy Aides,United States,Arkansas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,California,5679,2139,1213,,1879,,,,2010,1522,1266,597,284,1554,4125,37.665,21.359,,33.087,,,,35.394,26.8,22.293,10.512,5.001,27.364,72.636
+Pharmacy Aides,United States,Colorado,,,284,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Connecticut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Delaware,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Florida,2458,775,732,550,,,,,825,808,,,,,1762,31.53,29.78,22.376,,,,,33.564,32.872,,,,,71.684
+Pharmacy Aides,United States,Georgia,859,,492,,,,,,,,,,,,587,,57.276,,,,,,,,,,,,68.335
+Pharmacy Aides,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Idaho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Illinois,1257,,386,,,,,,,,,,,,1089,,30.708,,,,,,,,,,,,86.635
+Pharmacy Aides,United States,Indiana,428,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Iowa,311,,311,,,,,,,,,,,,299,,100,,,,,,,,,,,,96.141
+Pharmacy Aides,United States,Kansas,642,,490,,,,,,406,,,,,,490,,76.324,,,,,,63.24,,,,,,76.324
+Pharmacy Aides,United States,Kentucky,478,,374,,,,,,,,,,,,430,,78.243,,,,,,,,,,,,89.958
+Pharmacy Aides,United States,Louisiana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Maryland,639,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Massachusetts,1321,,,,,,,,,,,,,,1089,,,,,,,,,,,,,,82.438
+Pharmacy Aides,United States,Michigan,1203,,932,,,,,,761,,,,,,953,,77.473,,,,,,63.259,,,,,,79.219
+Pharmacy Aides,United States,Minnesota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Mississippi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Missouri,595,,,,,,,,,,,,,,539,,,,,,,,,,,,,,90.588
+Pharmacy Aides,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Nebraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Nevada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,New Hampshire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,New Jersey,926,,479,,,,,,403,,,,,,662,,51.728,,,,,,43.521,,,,,,71.49
+Pharmacy Aides,United States,New Mexico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,New York,3090,493,824,1068,574,,,,1254,898,243,,232,1231,1859,15.955,26.667,34.563,18.576,,,,40.583,29.061,7.864,,7.508,39.838,60.162
+Pharmacy Aides,United States,North Carolina,853,,644,,,,,,,,,,,,730,,75.498,,,,,,,,,,,,85.58
+Pharmacy Aides,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Ohio,1621,,1202,,,,,,671,351,,,,266,1355,,74.152,,,,,,41.394,21.653,,,,16.41,83.59
+Pharmacy Aides,United States,Oklahoma,809,,470,,,,,,,,,,,,462,,58.096,,,,,,,,,,,,57.108
+Pharmacy Aides,United States,Oregon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Pennsylvania,1456,,1171,,,,,,585,350,,,,,1229,,80.426,,,,,,40.179,24.038,,,,,84.409
+Pharmacy Aides,United States,Rhode Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,South Carolina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Tennessee,945,,699,,,,,,,,,,,,609,,73.968,,,,,,,,,,,,64.444
+Pharmacy Aides,United States,Texas,3788,1781,1138,684,,,,,1517,739,898,276,,630,3158,47.017,30.042,18.057,,,,,40.048,19.509,23.706,7.286,,16.631,83.369
+Pharmacy Aides,United States,Utah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Virginia,635,,305,,,,,,,,,,,,556,,48.031,,,,,,,,,,,,87.559
+Pharmacy Aides,United States,Washington,1462,,813,,,,,,476,475,,,,,1111,,55.609,,,,,,32.558,32.49,,,,,75.992
+Pharmacy Aides,United States,West Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,Wisconsin,435,,,,,,,,,,,,,,403,,,,,,,,,,,,,,92.644
+Pharmacy Aides,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pharmacy Aides,United States,All States,37818,7312,18572,5825,4438,,,1406,15251,9083,6038,4485,2961,9032,28786,19.335,49.109,15.403,11.735,,,3.718,40.327,24.018,15.966,11.859,7.83,23.883,76.117
+Phlebotomists,United States,Alabama,2242,,1148,,,,,,919,752,,,,,2167,,51.204,,,,,,40.99,33.541,,,,,96.655
+Phlebotomists,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Arizona,3001,1169,1295,,,,,,1517,633,452,302,,939,2062,38.954,43.152,,,,,,50.55,21.093,15.062,10.063,,31.29,68.71
+Phlebotomists,United States,Arkansas,808,,676,,,,,,,,,,,,643,,83.663,,,,,,,,,,,,79.579
+Phlebotomists,United States,California,11482,4650,3104,,2128,,,734,2867,2768,2780,2153,914,2698,8784,40.498,27.034,,18.533,,,6.393,24.97,24.107,24.212,18.751,7.96,23.498,76.502
+Phlebotomists,United States,Colorado,1894,678,1064,,,,,,829,341,,,,,1533,35.797,56.177,,,,,,43.77,18.004,,,,,80.94
+Phlebotomists,United States,Connecticut,1314,,637,,,,,,,,,,,,1227,,48.478,,,,,,,,,,,,93.379
+Phlebotomists,United States,Delaware,341,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Florida,8001,2897,2871,1933,,,,,2370,1627,1839,1509,656,1237,6764,36.208,35.883,24.159,,,,,29.621,20.335,22.985,18.86,8.199,15.461,84.539
+Phlebotomists,United States,Georgia,4165,,1446,2410,,,,,1105,1077,1316,448,,512,3653,,34.718,57.863,,,,,26.531,25.858,31.597,10.756,,12.293,87.707
+Phlebotomists,United States,Hawaii,546,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Idaho,518,,352,,,,,,,,,,,,405,,67.954,,,,,,,,,,,,78.185
+Phlebotomists,United States,Illinois,5888,1040,2595,1903,,,,,1857,1529,1363,753,386,,5226,17.663,44.073,32.32,,,,,31.539,25.968,23.149,12.789,6.556,,88.757
+Phlebotomists,United States,Indiana,2263,,1674,,,,,,438,591,481,562,,,1940,,73.973,,,,,,19.355,26.116,21.255,24.834,,,85.727
+Phlebotomists,United States,Iowa,1078,,921,,,,,,393,,,,,,798,,85.436,,,,,,36.456,,,,,,74.026
+Phlebotomists,United States,Kansas,1279,,848,,,,,,,,,,,,1107,,66.302,,,,,,,,,,,,86.552
+Phlebotomists,United States,Kentucky,1768,,1356,,,,,,609,284,,,,,1608,,76.697,,,,,,34.446,16.063,,,,,90.95
+Phlebotomists,United States,Louisiana,1992,,777,1180,,,,,646,605,519,,,,1950,,39.006,59.237,,,,,32.43,30.371,26.054,,,,97.892
+Phlebotomists,United States,Maine,813,,788,,,,,,,,,,,,671,,96.925,,,,,,,,,,,,82.534
+Phlebotomists,United States,Maryland,2141,,599,1361,,,,,,895,,,,,1651,,27.978,63.568,,,,,,41.803,,,,,77.113
+Phlebotomists,United States,Massachusetts,3774,821,1911,701,,,,,813,748,1009,918,,250,3524,21.754,50.636,18.574,,,,,21.542,19.82,26.736,24.324,,6.624,93.376
+Phlebotomists,United States,Michigan,4632,,3170,876,,,,,1915,996,716,588,,306,4326,,68.437,18.912,,,,,41.343,21.503,15.458,12.694,,6.606,93.394
+Phlebotomists,United States,Minnesota,1130,,895,,,,,,,,,,,,933,,79.204,,,,,,,,,,,,82.566
+Phlebotomists,United States,Mississippi,471,,,,,,,,,,,,,,471,,,,,,,,,,,,,,100
+Phlebotomists,United States,Missouri,2529,,1800,,,,,,942,450,,,,,2139,,71.174,,,,,,37.248,17.794,,,,,84.579
+Phlebotomists,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Nebraska,941,,663,,,,,,479,,,,,,744,,70.457,,,,,,50.903,,,,,,79.065
+Phlebotomists,United States,Nevada,1933,,619,,,,,,,435,540,,,,1432,,32.023,,,,,,,22.504,27.936,,,,74.082
+Phlebotomists,United States,New Hampshire,397,,339,,,,,,,,,,,,375,,85.39,,,,,,,,,,,,94.458
+Phlebotomists,United States,New Jersey,4199,1405,1223,946,,,,,1127,1131,1019,508,414,586,3613,33.46,29.126,22.529,,,,,26.84,26.935,24.268,12.098,9.859,13.956,86.044
+Phlebotomists,United States,New Mexico,849,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,New York,5849,1186,2093,1895,429,,,,1482,1347,1270,1319,431,1033,4816,20.277,35.784,32.399,7.335,,,,25.338,23.03,21.713,22.551,7.369,17.661,82.339
+Phlebotomists,United States,North Carolina,3807,,1691,1741,,,,,867,1040,874,909,,,3337,,44.418,45.732,,,,,22.774,27.318,22.958,23.877,,,87.654
+Phlebotomists,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Ohio,5522,,3908,1182,,,,,1408,1808,1116,925,265,678,4844,,70.771,21.405,,,,,25.498,32.742,20.21,16.751,4.799,12.278,87.722
+Phlebotomists,United States,Oklahoma,1571,,930,,,,,,727,,,,,,1300,,59.198,,,,,,46.276,,,,,,82.75
+Phlebotomists,United States,Oregon,1750,,1299,,,,,,464,,,322,,,1407,,74.229,,,,,,26.514,,,18.4,,,80.4
+Phlebotomists,United States,Pennsylvania,3853,,2711,534,,,,,809,1074,795,861,,741,3112,,70.361,13.859,,,,,20.997,27.874,20.633,22.346,,19.232,80.768
+Phlebotomists,United States,Rhode Island,675,,509,,,,,,,,,,,,629,,75.407,,,,,,,,,,,,93.185
+Phlebotomists,United States,South Carolina,1854,,725,1074,,,,,626,,541,,,,1713,,39.105,57.929,,,,,33.765,,29.18,,,,92.395
+Phlebotomists,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Tennessee,2916,,1967,675,,,,,866,483,703,583,,,2760,,67.455,23.148,,,,,29.698,16.564,24.108,19.993,,,94.65
+Phlebotomists,United States,Texas,10663,4968,2506,2568,,,,,3600,2845,1945,1610,663,1858,8805,46.591,23.502,24.083,,,,,33.762,26.681,18.241,15.099,6.218,17.425,82.575
+Phlebotomists,United States,Utah,1859,,1565,,,,,,1024,489,,,,403,1456,,84.185,,,,,,55.083,26.304,,,,21.678,78.322
+Phlebotomists,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,Virginia,2411,,1039,934,,,,,524,914,,307,,,2011,,43.094,38.739,,,,,21.734,37.91,,12.733,,,83.409
+Phlebotomists,United States,Washington,3213,,2035,,372,,,,918,735,780,450,,691,2522,,63.336,,11.578,,,,28.571,22.876,24.276,14.006,,21.506,78.494
+Phlebotomists,United States,West Virginia,1115,,1005,,,,,,453,,,,,,1004,,90.135,,,,,,40.628,,,,,,90.045
+Phlebotomists,United States,Wisconsin,2962,,2202,,,,,,1051,564,483,624,,,2619,,74.342,,,,,,35.483,19.041,16.307,21.067,,,88.42
+Phlebotomists,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Phlebotomists,United States,All States,123884,23440,60774,27712,6968,,787,4023,37764,30369,26295,20467,8989,19269,104615,18.921,49.057,22.369,5.625,,0.635,3.247,30.483,24.514,21.226,16.521,7.256,15.554,84.446
+Physical Therapist Assistants & Aides,United States,Alabama,2412,,1917,,,,,,604,850,522,324,,799,1613,,79.478,,,,,,25.041,35.24,21.642,13.433,,33.126,66.874
+Physical Therapist Assistants & Aides,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Arizona,2174,637,1325,,,,,,928,685,,247,,955,1219,29.301,60.948,,,,,,42.686,31.509,,11.362,,43.928,56.072
+Physical Therapist Assistants & Aides,United States,Arkansas,1008,,1008,,,,,,,,,,,379,629,,100,,,,,,,,,,,37.599,62.401
+Physical Therapist Assistants & Aides,United States,California,10076,3254,3744,,2353,,,,4238,2311,1703,1249,575,4332,5744,32.295,37.158,,23.353,,,,42.06,22.936,16.902,12.396,5.707,42.993,57.007
+Physical Therapist Assistants & Aides,United States,Colorado,1141,,805,,,,,,457,345,,162,,,830,,70.552,,,,,,40.053,30.237,,14.198,,,72.743
+Physical Therapist Assistants & Aides,United States,Connecticut,891,,672,,,,,,454,,,,,442,449,,75.421,,,,,,50.954,,,,,49.607,50.393
+Physical Therapist Assistants & Aides,United States,Delaware,693,,440,,,,,,,,,,,,394,,63.492,,,,,,,,,,,,56.854
+Physical Therapist Assistants & Aides,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Florida,7385,1753,4660,,244,,,,1922,1948,1527,1537,451,2543,4842,23.737,63.101,,3.304,,,,26.026,26.378,20.677,20.812,6.107,34.435,65.565
+Physical Therapist Assistants & Aides,United States,Georgia,2662,,2048,,,,,,924,626,557,496,,957,1705,,76.935,,,,,,34.711,23.516,20.924,18.633,,35.95,64.05
+Physical Therapist Assistants & Aides,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Idaho,747,,707,,,,,,,,,,,,487,,94.645,,,,,,,,,,,,65.194
+Physical Therapist Assistants & Aides,United States,Illinois,4825,,3855,,448,,,,1725,1051,745,816,488,1073,3752,,79.896,,9.285,,,,35.751,21.782,15.44,16.912,10.114,22.238,77.762
+Physical Therapist Assistants & Aides,United States,Indiana,2398,,2263,,,,,,656,688,435,448,,531,1867,,94.37,,,,,,27.356,28.691,18.14,18.682,,22.143,77.857
+Physical Therapist Assistants & Aides,United States,Iowa,1297,,858,,,,,,,,,,,,1029,,66.153,,,,,,,,,,,,79.337
+Physical Therapist Assistants & Aides,United States,Kansas,1454,,1360,,,,,,594,,,,,396,1058,,93.535,,,,,,40.853,,,,,27.235,72.765
+Physical Therapist Assistants & Aides,United States,Kentucky,1690,,1513,,,,,,596,,429,,,374,1316,,89.527,,,,,,35.266,,25.385,,,22.13,77.87
+Physical Therapist Assistants & Aides,United States,Louisiana,2390,,1601,,,,,,1338,,371,,,631,1759,,66.987,,,,,,55.983,,15.523,,,26.402,73.598
+Physical Therapist Assistants & Aides,United States,Maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Maryland,2329,,1492,,,,,,1001,501,443,221,163,698,1631,,64.062,,,,,,42.98,21.511,19.021,9.489,6.999,29.97,70.03
+Physical Therapist Assistants & Aides,United States,Massachusetts,2199,,1987,,,,,,593,373,,507,,,1594,,90.359,,,,,,26.967,16.962,,23.056,,,72.487
+Physical Therapist Assistants & Aides,United States,Michigan,4375,,3758,,,,,,1168,1263,1267,398,,1411,2964,,85.897,,,,,,26.697,28.869,28.96,9.097,,32.251,67.749
+Physical Therapist Assistants & Aides,United States,Minnesota,1777,,1547,,,,,,,714,356,240,,,1480,,87.057,,,,,,,40.18,20.034,13.506,,,83.286
+Physical Therapist Assistants & Aides,United States,Mississippi,1121,,915,,,,,,,469,,,,,751,,81.624,,,,,,,41.838,,,,,66.994
+Physical Therapist Assistants & Aides,United States,Missouri,1934,,1691,,,,,,689,299,,418,,751,1183,,87.435,,,,,,35.626,15.46,,21.613,,38.831,61.169
+Physical Therapist Assistants & Aides,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Nebraska,985,,915,,,,,,461,275,,,,356,629,,92.893,,,,,,46.802,27.919,,,,36.142,63.858
+Physical Therapist Assistants & Aides,United States,Nevada,669,,393,,,,,,,,,,,,557,,58.744,,,,,,,,,,,,83.259
+Physical Therapist Assistants & Aides,United States,New Hampshire,,,,,,,,,,,,,,,340,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,New Jersey,2987,,1957,,456,,,,1613,393,406,340,,1127,1860,,65.517,,15.266,,,,54.001,13.157,13.592,11.383,,37.73,62.27
+Physical Therapist Assistants & Aides,United States,New Mexico,362,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,New York,6449,1117,3470,486,1146,,,,2274,1156,1026,1331,,2491,3958,17.321,53.807,7.536,17.77,,,,35.261,17.925,15.909,20.639,,38.626,61.374
+Physical Therapist Assistants & Aides,United States,North Carolina,2355,,2154,,,,,,482,535,436,672,,644,1711,,91.465,,,,,,20.467,22.718,18.514,28.535,,27.346,72.654
+Physical Therapist Assistants & Aides,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Ohio,6057,,5662,,,,,,1382,1617,1758,969,,1982,4075,,93.479,,,,,,22.817,26.696,29.024,15.998,,32.722,67.278
+Physical Therapist Assistants & Aides,United States,Oklahoma,1736,,1466,,,,,,,487,,273,,,1345,,84.447,,,,,,,28.053,,15.726,,,77.477
+Physical Therapist Assistants & Aides,United States,Oregon,1104,,946,,,,,,446,,,309,,385,719,,85.688,,,,,,40.399,,,27.989,,34.873,65.127
+Physical Therapist Assistants & Aides,United States,Pennsylvania,6251,,5794,,,,,,2266,1375,1146,1305,,1604,4647,,92.689,,,,,,36.25,21.996,18.333,20.877,,25.66,74.34
+Physical Therapist Assistants & Aides,United States,Rhode Island,332,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,South Carolina,1660,,1190,,,,,,256,600,440,,,,1288,,71.687,,,,,,15.422,36.145,26.506,,,,77.59
+Physical Therapist Assistants & Aides,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Tennessee,4580,,4034,,,,,,1085,1534,946,832,,1420,3160,,88.079,,,,,,23.69,33.493,20.655,18.166,,31.004,68.996
+Physical Therapist Assistants & Aides,United States,Texas,8165,2646,4013,857,391,,,,3560,1965,1323,1007,310,2516,5649,32.407,49.149,10.496,4.789,,,,43.601,24.066,16.203,12.333,3.797,30.814,69.186
+Physical Therapist Assistants & Aides,United States,Utah,962,,807,,,,,,611,,,,,348,614,,83.888,,,,,,63.514,,,,,36.175,63.825
+Physical Therapist Assistants & Aides,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,Virginia,3236,,2545,,,,,,1017,1015,574,486,,1177,2059,,78.646,,,,,,31.428,31.366,17.738,15.019,,36.372,63.628
+Physical Therapist Assistants & Aides,United States,Washington,2369,,1806,,,,,,758,545,351,,,525,1844,,76.235,,,,,,31.997,23.005,14.816,,,22.161,77.839
+Physical Therapist Assistants & Aides,United States,West Virginia,874,,823,,,,,,,,,,,,591,,94.165,,,,,,,,,,,,67.62
+Physical Therapist Assistants & Aides,United States,Wisconsin,2416,,2031,,,,,,626,765,625,158,,,2106,,84.065,,,,,,25.911,31.664,25.869,6.54,,,87.169
+Physical Therapist Assistants & Aides,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapist Assistants & Aides,United States,All States,113688,13294,83243,6336,7108,,,3152,39044,27881,21665,18247,6851,35785,77903,11.693,73.221,5.573,6.252,,,2.773,34.343,24.524,19.057,16.05,6.026,31.476,68.524
+Physical Therapists,United States,Alabama,3130,,2785,,,,,,480,678,,504,,1264,1866,,88.978,,,,,,15.335,21.661,,16.102,,40.383,59.617
+Physical Therapists,United States,Alaska,975,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physical Therapists,United States,Arizona,5999,607,4540,,499,,,,1083,1963,1409,883,661,2275,3724,10.118,75.679,,8.318,,,,18.053,32.722,23.487,14.719,11.019,37.923,62.077
+Physical Therapists,United States,Arkansas,2001,,1725,,,,,,,868,463,279,,660,1341,,86.207,,,,,,,43.378,23.138,13.943,,32.984,67.016
+Physical Therapists,United States,California,26015,3522,14294,371,6879,,,884,3817,7679,6345,4783,3391,10317,15698,13.538,54.945,1.426,26.442,,,3.398,14.672,29.518,24.39,18.386,13.035,39.658,60.342
+Physical Therapists,United States,Colorado,6370,,5256,,342,,,,1495,2252,1492,725,406,1951,4419,,82.512,,5.369,,,,23.469,35.353,23.422,11.381,6.374,30.628,69.372
+Physical Therapists,United States,Connecticut,4022,,3328,,,,,,487,1239,986,805,505,996,3026,,82.745,,,,,,12.108,30.806,24.515,20.015,12.556,24.764,75.236
+Physical Therapists,United States,Delaware,1117,,927,,,,,,,,,,,,865,,82.99,,,,,,,,,,,,77.44
+Physical Therapists,United States,District of Columbia,866,,642,,,,,,,,,,,,593,,74.134,,,,,,,,,,,,68.476
+Physical Therapists,United States,Florida,17361,3144,9850,1433,2072,,,,2084,5026,4987,3725,1539,6201,11160,18.11,56.736,8.254,11.935,,,,12.004,28.95,28.725,21.456,8.865,35.718,64.282
+Physical Therapists,United States,Georgia,5834,,3715,1006,615,,,,786,2136,1246,1039,627,1787,4047,,63.678,17.244,10.542,,,,13.473,36.613,21.358,17.809,10.747,30.631,69.369
+Physical Therapists,United States,Hawaii,1147,,306,,534,,,,,572,,,,434,713,,26.678,,46.556,,,,,49.869,,,,37.838,62.162
+Physical Therapists,United States,Idaho,1385,,1346,,,,,,,,577,,,809,576,,97.184,,,,,,,,41.661,,,58.412,41.588
+Physical Therapists,United States,Illinois,12287,,8767,,2498,,,,2258,4007,2762,2183,1077,3877,8410,,71.352,,20.33,,,,18.377,32.612,22.479,17.767,8.765,31.554,68.446
+Physical Therapists,United States,Indiana,5415,,4440,,784,,,,760,1906,1438,924,,1773,3642,,81.994,,14.478,,,,14.035,35.199,26.556,17.064,,32.742,67.258
+Physical Therapists,United States,Iowa,2697,,2606,,,,,,,1247,676,332,,765,1932,,96.626,,,,,,,46.237,25.065,12.31,,28.365,71.635
+Physical Therapists,United States,Kansas,2087,,1858,,,,,,570,759,,277,,404,1683,,89.027,,,,,,27.312,36.368,,13.273,,19.358,80.642
+Physical Therapists,United States,Kentucky,4029,,3846,,,,,,788,1482,986,615,,1461,2568,,95.458,,,,,,19.558,36.783,24.473,15.264,,36.262,63.738
+Physical Therapists,United States,Louisiana,3112,,2930,,,,,,473,1015,,384,,1375,1737,,94.152,,,,,,15.199,32.616,,12.339,,44.184,55.816
+Physical Therapists,United States,Maine,1324,,1157,,,,,,,,,,,433,891,,87.387,,,,,,,,,,,32.704,67.296
+Physical Therapists,United States,Maryland,6878,,4125,1317,1158,,,,1588,2190,1413,1304,383,2088,4790,,59.974,19.148,16.836,,,,23.088,31.841,20.544,18.959,5.568,30.358,69.642
+Physical Therapists,United States,Massachusetts,8369,,7424,,577,,,,1556,1962,2153,1474,1224,1957,6412,,88.708,,6.894,,,,18.592,23.444,25.726,17.613,14.625,23.384,76.616
+Physical Therapists,United States,Michigan,8719,,6311,,1998,,,,1122,2580,2903,1488,626,3048,5671,,72.382,,22.915,,,,12.868,29.591,33.295,17.066,7.18,34.958,65.042
+Physical Therapists,United States,Minnesota,5390,,5011,,,,,,1128,1884,1276,719,,1425,3965,,92.968,,,,,,20.928,34.954,23.673,13.34,,26.438,73.562
+Physical Therapists,United States,Mississippi,2047,,1756,,,,,,272,770,686,,,738,1309,,85.784,,,,,,13.288,37.616,33.512,,,36.053,63.947
+Physical Therapists,United States,Missouri,5157,,4775,,,,,,917,2162,1039,848,,1235,3922,,92.593,,,,,,17.782,41.924,20.147,16.444,,23.948,76.052
+Physical Therapists,United States,Montana,1070,,1032,,,,,,,359,,,,542,528,,96.449,,,,,,,33.551,,,,50.654,49.346
+Physical Therapists,United States,Nebraska,2098,,1944,,,,,,382,847,,,,628,1470,,92.66,,,,,,18.208,40.372,,,,29.933,70.067
+Physical Therapists,United States,Nevada,1792,,1039,,353,,,,,623,422,198,,696,1096,,57.98,,19.699,,,,,34.766,23.549,11.049,,38.839,61.161
+Physical Therapists,United States,New Hampshire,1657,,1588,,,,,,,396,,367,,595,1062,,95.836,,,,,,,23.899,,22.148,,35.908,64.092
+Physical Therapists,United States,New Jersey,10293,,6315,,2350,,,,1393,3314,2857,1908,,4141,6152,,61.352,,22.831,,,,13.533,32.197,27.757,18.537,,40.231,59.769
+Physical Therapists,United States,New Mexico,1476,432,652,,,,,,,,382,417,,,1172,29.268,44.173,,,,,,,,25.881,28.252,,,79.404
+Physical Therapists,United States,New York,20873,1187,13750,836,4520,,,523,3409,5879,6236,3545,1804,7930,12943,5.687,65.875,4.005,21.655,,,2.506,16.332,28.166,29.876,16.984,8.643,37.992,62.008
+Physical Therapists,United States,North Carolina,7617,,5996,673,591,,,,1354,2338,1978,1583,364,2650,4967,,78.719,8.835,7.759,,,,17.776,30.694,25.968,20.782,4.779,34.791,65.209
+Physical Therapists,United States,North Dakota,899,,883,,,,,,,,,,,,,,98.22,,,,,,,,,,,,
+Physical Therapists,United States,Ohio,8212,,7853,,,,,,1541,2668,1884,1434,685,2895,5317,,95.628,,,,,,18.765,32.489,22.942,17.462,8.341,35.253,64.747
+Physical Therapists,United States,Oklahoma,2499,,2159,,,,,,502,1158,425,216,,591,1908,,86.395,,,,,,20.088,46.339,17.007,8.643,,23.649,76.351
+Physical Therapists,United States,Oregon,4162,377,3137,,,,,,705,1212,824,640,781,1350,2812,9.058,75.372,,,,,,16.939,29.121,19.798,15.377,18.765,32.436,67.564
+Physical Therapists,United States,Pennsylvania,13784,,12389,,827,,,,2772,3996,3453,2707,856,3832,9952,,89.88,,6,,,,20.11,28.99,25.051,19.639,6.21,27.8,72.2
+Physical Therapists,United States,Rhode Island,1248,,1145,,,,,,,247,345,,,360,888,,91.747,,,,,,,19.792,27.644,,,28.846,71.154
+Physical Therapists,United States,South Carolina,4477,,4180,,,,,,536,1399,1236,1106,,1324,3153,,93.366,,,,,,11.972,31.249,27.608,24.704,,29.573,70.427
+Physical Therapists,United States,South Dakota,992,,943,,,,,,,,,,,,485,,95.06,,,,,,,,,,,,48.891
+Physical Therapists,United States,Tennessee,5647,,4566,,250,,,,927,1856,1669,928,267,2053,3594,,80.857,,4.427,,,,16.416,32.867,29.556,16.434,4.728,36.356,63.644
+Physical Therapists,United States,Texas,19552,4078,11143,912,2761,,,,3252,6523,4749,3411,1617,7268,12284,20.857,56.992,4.664,14.121,,,,16.633,33.362,24.289,17.446,8.27,37.173,62.827
+Physical Therapists,United States,Utah,2162,,1971,,,,,,418,623,517,501,,1321,841,,91.166,,,,,,19.334,28.816,23.913,23.173,,61.101,38.899
+Physical Therapists,United States,Vermont,696,,622,,,,,,,,,,,,544,,89.368,,,,,,,,,,,,78.161
+Physical Therapists,United States,Virginia,6546,,5150,,624,,,,1385,2074,1532,1152,403,1927,4619,,78.674,,9.533,,,,21.158,31.683,23.404,17.599,6.156,29.438,70.562
+Physical Therapists,United States,Washington,7344,,5913,,706,,,302,976,2377,1872,1527,592,2569,4775,,80.515,,9.613,,,4.112,13.29,32.367,25.49,20.792,8.061,34.981,65.019
+Physical Therapists,United States,West Virginia,1387,,1206,,,,,,,601,,,,452,935,,86.95,,,,,,,43.331,,,,32.588,67.412
+Physical Therapists,United States,Wisconsin,5717,,5354,,,,,,1095,1899,1295,1073,355,1790,3927,,93.651,,,,,,19.153,33.217,22.652,18.769,6.21,31.31,68.69
+Physical Therapists,United States,Wyoming,545,,430,,,,,,,,,,,,,,78.899,,,,,,,,,,,,
+Physical Therapists,United States,All States,276505,17964,205951,11293,33858,,526,6614,46178,87502,70396,48787,23642,94651,181854,6.497,74.484,4.084,12.245,,0.19,2.392,16.701,31.646,25.459,17.644,8.55,34.231,65.769
+Physician Assistants,United States,Alabama,1115,,1018,,,,,,,,,,,,886,,91.3,,,,,,,,,,,,79.462
+Physician Assistants,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,Arizona,2987,,1966,,,,,,479,1181,772,451,,1328,1659,,65.819,,,,,,16.036,39.538,25.845,15.099,,44.459,55.541
+Physician Assistants,United States,Arkansas,575,,278,,,,,,,,,,,,495,,48.348,,,,,,,,,,,,86.087
+Physician Assistants,United States,California,12089,2542,6240,,2402,,,634,2005,4467,2808,1320,1489,4651,7438,21.027,51.617,,19.869,,,5.244,16.585,36.951,23.228,10.919,12.317,38.473,61.527
+Physician Assistants,United States,Colorado,4167,,3585,,,,,,597,1756,1083,536,,1438,2729,,86.033,,,,,,14.327,42.141,25.99,12.863,,34.509,65.491
+Physician Assistants,United States,Connecticut,2521,,1904,,,,,,,1058,480,449,,780,1741,,75.526,,,,,,,41.967,19.04,17.81,,30.94,69.06
+Physician Assistants,United States,Delaware,331,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,District of Columbia,698,,,,,,,,,334,,,,,453,,,,,,,,,47.851,,,,,64.9
+Physician Assistants,United States,Florida,8130,1447,5192,834,,,,,1163,3387,1909,1055,616,3088,5042,17.798,63.862,10.258,,,,,14.305,41.661,23.481,12.977,7.577,37.983,62.017
+Physician Assistants,United States,Georgia,3659,,2484,737,,,,,640,1521,811,391,,1033,2626,,67.887,20.142,,,,,17.491,41.569,22.165,10.686,,28.232,71.768
+Physician Assistants,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,Idaho,1065,,841,,,,,,,383,,,,,581,,78.967,,,,,,,35.962,,,,,54.554
+Physician Assistants,United States,Illinois,5022,,3552,,607,,,,1112,2239,767,555,349,1286,3736,,70.729,,12.087,,,,22.143,44.584,15.273,11.051,6.949,25.607,74.393
+Physician Assistants,United States,Indiana,2641,,2136,,,,,,425,1000,791,,,777,1864,,80.878,,,,,,16.092,37.864,29.951,,,29.421,70.579
+Physician Assistants,United States,Iowa,1055,,1055,,,,,,,,,,,,684,,100,,,,,,,,,,,,64.834
+Physician Assistants,United States,Kansas,865,,822,,,,,,,418,,,,298,567,,95.029,,,,,,,48.324,,,,34.451,65.549
+Physician Assistants,United States,Kentucky,1149,,1048,,,,,,,497,,,,417,732,,91.21,,,,,,,43.255,,,,36.292,63.708
+Physician Assistants,United States,Louisiana,1475,,1133,,,,,,391,538,,,,,1063,,76.814,,,,,,26.508,36.475,,,,,72.068
+Physician Assistants,United States,Maine,1042,,985,,,,,,,,,,,,465,,94.53,,,,,,,,,,,,44.626
+Physician Assistants,United States,Maryland,2847,,1664,,745,,,,452,883,887,,,1024,1823,,58.447,,26.168,,,,15.876,31.015,31.156,,,35.968,64.032
+Physician Assistants,United States,Massachusetts,3878,,3137,,,,,,927,1443,925,227,,1389,2489,,80.892,,,,,,23.904,37.21,23.853,5.854,,35.817,64.183
+Physician Assistants,United States,Michigan,4856,,4038,,,,,,1115,1841,923,633,344,1722,3134,,83.155,,,,,,22.961,37.912,19.007,13.035,7.084,35.461,64.539
+Physician Assistants,United States,Minnesota,3072,,2849,,,,,,585,1334,653,,,895,2177,,92.741,,,,,,19.043,43.424,21.257,,,29.134,70.866
+Physician Assistants,United States,Mississippi,400,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,Missouri,1301,,1178,,,,,,,498,416,,,,809,,90.546,,,,,,,38.278,31.975,,,,62.183
+Physician Assistants,United States,Montana,764,,744,,,,,,,,,,,,467,,97.382,,,,,,,,,,,,61.126
+Physician Assistants,United States,Nebraska,880,,776,,,,,,,196,,,,,734,,88.182,,,,,,,22.273,,,,,83.409
+Physician Assistants,United States,Nevada,937,,540,,,,,,178,404,,,,303,634,,57.631,,,,,,18.997,43.116,,,,32.337,67.663
+Physician Assistants,United States,New Hampshire,788,,702,,,,,,,217,,,,198,590,,89.086,,,,,,,27.538,,,,25.127,74.873
+Physician Assistants,United States,New Jersey,3272,373,2161,,419,,,,990,1131,,,,899,2373,11.4,66.045,,12.806,,,,30.257,34.566,,,,27.476,72.524
+Physician Assistants,United States,New Mexico,1271,,830,,,,,,,,,,,648,623,,65.303,,,,,,,,,,,50.983,49.017
+Physician Assistants,United States,New York,15204,1621,10149,790,1944,,,,3708,5734,2824,1666,1272,5013,10191,10.662,66.752,5.196,12.786,,,,24.388,37.714,18.574,10.958,8.366,32.972,67.028
+Physician Assistants,United States,North Carolina,5837,354,4778,,,,,,1086,2088,1120,1195,348,1872,3965,6.065,81.857,,,,,,18.605,35.772,19.188,20.473,5.962,32.071,67.929
+Physician Assistants,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,Ohio,4069,,3485,,,,,,1353,1249,945,,231,1107,2962,,85.648,,,,,,33.251,30.696,23.224,,5.677,27.206,72.794
+Physician Assistants,United States,Oklahoma,1827,,1391,,,,,,,847,444,,,624,1203,,76.136,,,,,,,46.36,24.302,,,34.154,65.846
+Physician Assistants,United States,Oregon,2085,,1594,,,,,,204,1143,448,,,577,1508,,76.451,,,,,,9.784,54.82,21.487,,,27.674,72.326
+Physician Assistants,United States,Pennsylvania,8883,,7784,,420,,,,2220,3770,1727,818,348,2714,6169,,87.628,,4.728,,,,24.992,42.441,19.442,9.209,3.918,30.553,69.447
+Physician Assistants,United States,Rhode Island,420,,382,,,,,,,,,,,,,,90.952,,,,,,,,,,,,
+Physician Assistants,United States,South Carolina,2122,,1526,,,,,,297,1003,,,,620,1502,,71.913,,,,,,13.996,47.267,,,,29.218,70.782
+Physician Assistants,United States,South Dakota,532,,488,,,,,,,,,,,,,,91.729,,,,,,,,,,,,
+Physician Assistants,United States,Tennessee,1974,,1766,,,,,,352,671,,268,,639,1335,,89.463,,,,,,17.832,33.992,,13.576,,32.371,67.629
+Physician Assistants,United States,Texas,9532,2243,5302,702,1079,,,,1586,3647,2109,1473,717,3167,6365,23.531,55.623,7.365,11.32,,,,16.639,38.261,22.125,15.453,7.522,33.225,66.775
+Physician Assistants,United States,Utah,1383,,1090,,,,,,,427,512,,,847,536,,78.814,,,,,,,30.875,37.021,,,61.244,38.756
+Physician Assistants,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,Virginia,3384,,2661,,352,,,,881,1473,704,213,,884,2500,,78.635,,10.402,,,,26.034,43.528,20.804,6.294,,26.123,73.877
+Physician Assistants,United States,Washington,3527,,2524,,419,,,,747,882,950,629,,1412,2115,,71.562,,11.88,,,,21.179,25.007,26.935,17.834,,40.034,59.966
+Physician Assistants,United States,West Virginia,1105,,1000,,,,,,,435,,,,,906,,90.498,,,,,,,39.367,,,,,81.991
+Physician Assistants,United States,Wisconsin,3027,,2729,,,,,,747,1022,601,373,,817,2210,,90.155,,,,,,24.678,33.763,19.855,12.322,,26.99,73.01
+Physician Assistants,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Physician Assistants,United States,All States,141417,13548,103693,7487,11667,,378,4540,29046,54059,30820,17049,10443,47414,94003,9.58,73.324,5.294,8.25,,0.267,3.21,20.539,38.227,21.794,12.056,7.385,33.528,66.472
+Physicians,United States,Alabama,11961,858,8974,579,1299,,,,1191,2413,2282,2998,3077,8473,3488,7.173,75.027,4.841,10.86,,,,9.957,20.174,19.079,25.065,25.725,70.839,29.161
+Physicians,United States,Alaska,2114,,1792,,,,,,,815,476,,,1216,898,,84.768,,,,,,,38.553,22.517,,,57.521,42.479
+Physicians,United States,Arizona,17347,1346,10794,821,3658,,,678,976,4023,4674,4005,3669,11407,5940,7.759,62.224,4.733,21.087,,,3.908,5.626,23.191,26.944,23.088,21.151,65.758,34.242
+Physicians,United States,Arkansas,6491,,4821,,878,,,,,1639,1594,1304,1531,4551,1940,,74.272,,13.526,,,,,25.25,24.557,20.089,23.587,70.112,29.888
+Physicians,United States,California,110826,8121,53734,3703,39531,,,5625,6004,29678,26783,22305,26056,66593,44233,7.328,48.485,3.341,35.669,,,5.076,5.418,26.779,24.167,20.126,23.511,60.088,39.912
+Physicians,United States,Colorado,18322,893,14589,,2223,,,486,757,5613,4828,3693,3431,10387,7935,4.874,79.626,,12.133,,,2.653,4.132,30.635,26.351,20.156,18.726,56.691,43.309
+Physicians,United States,Connecticut,14058,937,9047,867,2836,,,348,1778,4115,2614,2617,2934,8052,6006,6.665,64.355,6.167,20.174,,,2.475,12.648,29.272,18.594,18.616,20.871,57.277,42.723
+Physicians,United States,Delaware,3262,,2165,,558,,,,,449,921,796,888,2436,826,,66.37,,17.106,,,,,13.765,28.234,24.402,27.223,74.678,25.322
+Physicians,United States,District of Columbia,6976,496,3756,1250,1321,,,,1249,2741,1060,945,981,3739,3237,7.11,53.842,17.919,18.936,,,,17.904,39.292,15.195,13.546,14.063,53.598,46.402
+Physicians,United States,Florida,61273,13354,32329,3827,9584,,,2027,4178,14307,14050,14460,14278,40952,20321,21.794,52.762,6.246,15.641,,,3.308,6.819,23.35,22.93,23.599,23.302,66.835,33.165
+Physicians,United States,Georgia,27117,1238,16009,4436,4511,,,910,1944,6964,7117,5585,5507,16238,10879,4.565,59.037,16.359,16.635,,,3.356,7.169,25.681,26.246,20.596,20.308,59.881,40.119
+Physicians,United States,Hawaii,4999,,1919,,2026,,,620,,1112,1540,907,1338,3106,1893,,38.388,,40.528,,,12.402,,22.244,30.806,18.144,26.765,62.132,37.868
+Physicians,United States,Idaho,3251,,2970,,,,,,,,945,869,738,2378,873,,91.357,,,,,,,,29.068,26.73,22.701,73.147,26.853
+Physicians,United States,Illinois,40556,2081,22516,2403,12241,,,1267,3586,12595,8201,7652,8522,24320,16236,5.131,55.518,5.925,30.183,,,3.124,8.842,31.056,20.221,18.868,21.013,59.966,40.034
+Physicians,United States,Indiana,15649,527,11161,519,2994,,,439,842,4436,4268,3350,2753,10590,5059,3.368,71.321,3.317,19.132,,,2.805,5.381,28.347,27.273,21.407,17.592,67.672,32.328
+Physicians,United States,Iowa,7981,,6527,,1145,,,,479,2357,1784,2065,1296,5727,2254,,81.782,,14.347,,,,6.002,29.533,22.353,25.874,16.239,71.758,28.242
+Physicians,United States,Kansas,6220,,4920,,800,,,,481,1907,1316,1263,1253,3824,2396,,79.1,,12.862,,,,7.733,30.659,21.158,20.305,20.145,61.479,38.521
+Physicians,United States,Kentucky,10006,,7641,427,1127,,,,622,3012,2436,1782,2154,6959,3047,,76.364,4.267,11.263,,,,6.216,30.102,24.345,17.809,21.527,69.548,30.452
+Physicians,United States,Louisiana,11800,936,8022,844,1685,,,293,882,3561,2877,1739,2741,8463,3337,7.932,67.983,7.153,14.28,,,2.483,7.475,30.178,24.381,14.737,23.229,71.72,28.28
+Physicians,United States,Maine,4104,,3710,,,,,,,828,1475,662,1029,2126,1978,,90.4,,,,,,,20.175,35.941,16.131,25.073,51.803,48.197
+Physicians,United States,Maryland,22851,1511,12321,2780,5319,,,888,1529,5988,5964,4282,5088,12688,10163,6.612,53.919,12.166,23.277,,,3.886,6.691,26.205,26.1,18.739,22.266,55.525,44.475
+Physicians,United States,Massachusetts,33125,2052,21994,1175,6905,,,999,2244,10426,7213,6408,6834,18340,14785,6.195,66.397,3.547,20.845,,,3.016,6.774,31.475,21.775,19.345,20.631,55.366,44.634
+Physicians,United States,Michigan,33879,1437,23441,1198,6449,,,1353,3426,9294,6570,7223,7366,20726,13153,4.242,69.19,3.536,19.035,,,3.994,10.112,27.433,19.393,21.32,21.742,61.177,38.823
+Physicians,United States,Minnesota,16413,,12354,,3017,,,,1001,4777,3559,3594,3482,10420,5993,,75.27,,18.382,,,,6.099,29.105,21.684,21.897,21.215,63.486,36.514
+Physicians,United States,Mississippi,5900,,4247,,524,,,,415,1706,1053,1515,1211,4155,1745,,71.983,,8.881,,,,7.034,28.915,17.847,25.678,20.525,70.424,29.576
+Physicians,United States,Missouri,17871,701,12229,825,3457,,,619,973,5466,3820,4047,3565,12143,5728,3.923,68.429,4.616,19.344,,,3.464,5.445,30.586,21.375,22.646,19.949,67.948,32.052
+Physicians,United States,Montana,3043,,2623,,,,,,,484,735,956,727,2020,1023,,86.198,,,,,,,15.905,24.154,31.416,23.891,66.382,33.618
+Physicians,United States,Nebraska,4955,,4012,,373,,,,572,1323,1403,864,793,3050,1905,,80.969,,7.528,,,,11.544,26.7,28.315,17.437,16.004,61.554,38.446
+Physicians,United States,Nevada,6201,443,3410,490,1493,,,365,340,1461,1569,1460,1371,4096,2105,7.144,54.991,7.902,24.077,,,5.886,5.483,23.561,25.302,23.545,22.109,66.054,33.946
+Physicians,United States,New Hampshire,4841,,3910,,787,,,,,1501,1325,1079,787,3028,1813,,80.768,,16.257,,,,,31.006,27.37,22.289,16.257,62.549,37.451
+Physicians,United States,New Jersey,29402,1660,16987,1618,8320,,,817,1892,6004,6830,6758,7918,17882,11520,5.646,57.775,5.503,28.297,,,2.779,6.435,20.42,23.23,22.985,26.93,60.819,39.181
+Physicians,United States,New Mexico,5333,1089,3456,,283,,,,,1552,1392,814,1372,3100,2233,20.42,64.804,,5.307,,,,,29.102,26.102,15.263,25.727,58.129,41.871
+Physicians,United States,New York,87943,6895,52447,5003,20424,,,2678,8332,24585,17012,18386,19628,50677,37266,7.84,59.637,5.689,23.224,,,3.045,9.474,27.956,19.344,20.907,22.319,57.625,42.375
+Physicians,United States,North Carolina,28305,1122,20988,1601,3768,,,792,2016,7369,8019,5983,4918,17254,11051,3.964,74.149,5.656,13.312,,,2.798,7.122,26.034,28.331,21.138,17.375,60.957,39.043
+Physicians,United States,North Dakota,1700,,1075,,,,,,,,,,,1140,560,,63.235,,,,,,,,,,,67.059,32.941
+Physicians,United States,Ohio,37504,1119,24831,1653,8818,,,1023,4588,11395,8207,7102,6212,23830,13674,2.984,66.209,4.408,23.512,,,2.728,12.233,30.383,21.883,18.937,16.564,63.54,36.46
+Physicians,United States,Oklahoma,9477,,6536,,1620,,,432,647,2735,2135,1589,2371,6130,3347,,68.967,,17.094,,,4.558,6.827,28.859,22.528,16.767,25.018,64.683,35.317
+Physicians,United States,Oregon,14242,862,11047,,1376,,,583,356,3359,4657,3173,2697,8977,5265,6.053,77.566,,9.662,,,4.094,2.5,23.585,32.699,22.279,18.937,63.032,36.968
+Physicians,United States,Pennsylvania,46623,2273,31689,1728,9796,,,1128,4040,14968,10021,8499,9095,28864,17759,4.875,67.969,3.706,21.011,,,2.419,8.665,32.104,21.494,18.229,19.508,61.909,38.091
+Physicians,United States,Rhode Island,4443,,2942,,1031,,,,423,1516,993,948,563,2666,1777,,66.217,,23.205,,,,9.521,34.121,22.35,21.337,12.672,60.005,39.995
+Physicians,United States,South Carolina,14699,799,10575,1331,1642,,,,974,3976,3210,3652,2887,9872,4827,5.436,71.944,9.055,11.171,,,,6.626,27.049,21.838,24.845,19.641,67.161,32.839
+Physicians,United States,South Dakota,2650,,2204,,,,,,,,801,456,638,1538,1112,,83.17,,,,,,,,30.226,17.208,24.075,58.038,41.962
+Physicians,United States,Tennessee,19410,686,14403,1739,2076,,,448,1226,4717,4425,4185,4857,13024,6386,3.534,74.204,8.959,10.696,,,2.308,6.316,24.302,22.798,21.561,25.023,67.099,32.901
+Physicians,United States,Texas,71063,9068,37082,5484,17485,,,1758,5174,19878,18993,13383,13635,44296,26767,12.761,52.182,7.717,24.605,,,2.474,7.281,27.972,26.727,18.833,19.187,62.333,37.667
+Physicians,United States,Utah,8072,,6947,,769,,,,344,1970,2304,1779,1675,6170,1902,,86.063,,9.527,,,,4.262,24.405,28.543,22.039,20.751,76.437,23.563
+Physicians,United States,Vermont,2213,,1912,,,,,,,555,682,334,558,1185,1028,,86.399,,,,,,,25.079,30.818,15.093,25.215,53.547,46.453
+Physicians,United States,Virginia,23222,1113,14702,1711,5150,,,546,1707,6055,5761,4557,5142,14283,8939,4.793,63.311,7.368,22.177,,,2.351,7.351,26.074,24.808,19.624,22.143,61.506,38.494
+Physicians,United States,Washington,23538,828,15983,478,5190,,,1035,1076,7777,5679,4477,4529,13904,9634,3.518,67.903,2.031,22.049,,,4.397,4.571,33.04,24.127,19.02,19.241,59.07,40.93
+Physicians,United States,West Virginia,5001,,3844,,855,,,,594,1365,1010,875,1157,3410,1591,,76.865,,17.097,,,,11.878,27.295,20.196,17.497,23.135,68.186,31.814
+Physicians,United States,Wisconsin,16071,716,12549,,1804,,,,1141,5140,3546,3701,2543,10806,5265,4.455,78.085,,11.225,,,,7.1,31.983,22.065,23.029,15.824,67.239,32.761
+Physicians,United States,Wyoming,1248,,1008,,,,,,,,,280,394,924,324,,80.769,,,,,,,,,22.436,31.571,74.038,25.962
+Physicians,United States,All States,985575,69144,621144,52541,208479,689,1783,31795,71730,272152,230611,202205,208877,612159,373416,7.016,63.024,5.331,21.153,0.07,0.181,3.226,7.278,27.614,23.399,20.516,21.193,62.112,37.888
+Podiatrists,United States,Alabama,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Alaska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Arizona,255,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Arkansas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,California,1012,,764,,,,,,,,,,490,742,,,75.494,,,,,,,,,,48.419,73.32,
+Podiatrists,United States,Colorado,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Connecticut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Delaware,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,District of Columbia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Florida,724,,664,,,,,,,,,,316,590,,,91.713,,,,,,,,,,43.646,81.492,
+Podiatrists,United States,Georgia,304,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Hawaii,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Idaho,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Illinois,664,,551,,,,,,,308,,,,,255,,82.982,,,,,,,46.386,,,,,38.404
+Podiatrists,United States,Indiana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Iowa,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Kansas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Kentucky,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Louisiana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Maine,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Maryland,346,,285,,,,,,,,,,,245,,,82.37,,,,,,,,,,,70.809,
+Podiatrists,United States,Massachusetts,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Michigan,450,,307,,,,,,,,,,,375,,,68.222,,,,,,,,,,,83.333,
+Podiatrists,United States,Minnesota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Mississippi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Missouri,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Montana,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Nebraska,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Nevada,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,New Hampshire,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,New Jersey,715,,635,,,,,,,,,,,438,,,88.811,,,,,,,,,,,61.259,
+Podiatrists,United States,New Mexico,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,New York,1331,,1084,,,,,,,,226,,670,1096,235,,81.443,,,,,,,,16.98,,50.338,82.344,17.656
+Podiatrists,United States,North Carolina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Ohio,519,,461,,,,,,,,,,,327,,,88.825,,,,,,,,,,,63.006,
+Podiatrists,United States,Oklahoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Oregon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Pennsylvania,690,,584,,,,,,,,,364,,385,,,84.638,,,,,,,,,52.754,,55.797,
+Podiatrists,United States,Rhode Island,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,South Carolina,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,South Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Tennessee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Texas,846,,589,,,,,,,,,,,507,,,69.622,,,,,,,,,,,59.929,
+Podiatrists,United States,Utah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Vermont,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Washington,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,West Virginia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Wisconsin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Podiatrists,United States,All States,10955,539,8932,,950,,,,477,2008,2774,2701,2995,8029,2926,4.92,81.534,,8.672,,,,4.354,18.33,25.322,24.655,27.339,73.291,26.709
+Psychologists,United States,Alabama,1164,,936,,,,,,,,,,,,579,,80.412,,,,,,,,,,,,49.742
+Psychologists,United States,Alaska,633,,633,,,,,,,,,,,,446,,100,,,,,,,,,,,,70.458
+Psychologists,United States,Arizona,4619,482,3637,,,,,,,985,1073,821,1373,1402,3217,10.435,78.74,,,,,,,21.325,23.23,17.774,29.725,30.353,69.647
+Psychologists,United States,Arkansas,762,,585,,,,,,,,,,,,482,,76.772,,,,,,,,,,,,63.255
+Psychologists,United States,California,39927,6511,27471,1471,3068,,,1367,2685,9758,8233,6939,12312,10954,28973,16.307,68.803,3.684,7.684,,,3.424,6.725,24.44,20.62,17.379,30.836,27.435,72.565
+Psychologists,United States,Colorado,6013,494,5163,,,,,,,1408,1549,1083,1682,1605,4408,8.216,85.864,,,,,,,23.416,25.761,18.011,27.973,26.692,73.308
+Psychologists,United States,Connecticut,4719,,4063,,,,,,330,1305,1104,887,1093,1081,3638,,86.099,,,,,,6.993,27.654,23.395,18.796,23.162,22.907,77.093
+Psychologists,United States,Delaware,729,,562,,,,,,,,,,,,585,,77.092,,,,,,,,,,,,80.247
+Psychologists,United States,District of Columbia,1765,,1215,,,,,,,545,396,330,328,398,1367,,68.839,,,,,,,30.878,22.436,18.697,18.584,22.55,77.45
+Psychologists,United States,Florida,10108,2470,6578,745,,,,,568,2518,2138,1916,2968,2645,7463,24.436,65.077,7.37,,,,,5.619,24.911,21.152,18.955,29.363,26.167,73.833
+Psychologists,United States,Georgia,5779,457,3849,1276,,,,,,1941,1317,778,1388,1831,3948,7.908,66.603,22.08,,,,,,33.587,22.789,13.463,24.018,31.684,68.316
+Psychologists,United States,Hawaii,1056,,461,,,,,,,,,,210,,606,,43.655,,,,,,,,,,19.886,,57.386
+Psychologists,United States,Idaho,916,,630,,,,,,,,,,,,,,68.777,,,,,,,,,,,,
+Psychologists,United States,Illinois,9690,685,7675,626,444,,,,950,2504,1931,2017,2288,2353,7337,7.069,79.205,6.46,4.582,,,,9.804,25.841,19.928,20.815,23.612,24.283,75.717
+Psychologists,United States,Indiana,2262,,2088,,,,,,197,477,450,544,594,587,1675,,92.308,,,,,,8.709,21.088,19.894,24.05,26.26,25.95,74.05
+Psychologists,United States,Iowa,1189,,1090,,,,,,,,324,,,198,991,,91.674,,,,,,,,27.25,,,16.653,83.347
+Psychologists,United States,Kansas,1744,,1536,,,,,,,516,,362,336,653,1091,,88.073,,,,,,,29.587,,20.757,19.266,37.443,62.557
+Psychologists,United States,Kentucky,2137,,1917,,,,,,,682,731,423,245,487,1650,,89.705,,,,,,,31.914,34.207,19.794,11.465,22.789,77.211
+Psychologists,United States,Louisiana,1658,,1175,,,,,,,485,,457,,541,1117,,70.869,,,,,,,29.252,,27.563,,32.63,67.37
+Psychologists,United States,Maine,1202,,1176,,,,,,,,,,454,,944,,97.837,,,,,,,,,,37.77,,78.536
+Psychologists,United States,Maryland,5602,,4279,773,186,,,,,1250,982,708,2068,1500,4102,,76.383,13.799,3.32,,,,,22.313,17.529,12.638,36.915,26.776,73.224
+Psychologists,United States,Massachusetts,9450,583,8144,,,,,,755,2489,1886,1473,2847,2336,7114,6.169,86.18,,,,,,7.989,26.339,19.958,15.587,30.127,24.72,75.28
+Psychologists,United States,Michigan,5478,,4977,,,,,,626,1009,755,1236,1852,1756,3722,,90.854,,,,,,11.428,18.419,13.782,22.563,33.808,32.055,67.945
+Psychologists,United States,Minnesota,5829,,5003,,,,,,,1566,1168,1076,1557,1600,4229,,85.829,,,,,,,26.866,20.038,18.459,26.711,27.449,72.551
+Psychologists,United States,Mississippi,624,,425,,,,,,,,,,,,517,,68.109,,,,,,,,,,,,82.853
+Psychologists,United States,Missouri,2704,,2335,,,,,,,552,830,525,718,724,1980,,86.354,,,,,,,20.414,30.695,19.416,26.553,26.775,73.225
+Psychologists,United States,Montana,459,,362,,,,,,,,,,,,395,,78.867,,,,,,,,,,,,86.057
+Psychologists,United States,Nebraska,1091,,852,,,,,,,,,,,340,751,,78.093,,,,,,,,,,,31.164,68.836
+Psychologists,United States,Nevada,1262,,1085,,,,,,,,296,,,,1108,,85.975,,,,,,,,23.455,,,,87.797
+Psychologists,United States,New Hampshire,935,,890,,,,,,,,,,,,659,,95.187,,,,,,,,,,,,70.481
+Psychologists,United States,New Jersey,9104,838,7202,,,,,,1169,2242,1975,1684,2034,2138,6966,9.205,79.108,,,,,,12.841,24.627,21.694,18.497,22.342,23.484,76.516
+Psychologists,United States,New Mexico,1138,,928,,,,,,,,,,694,434,704,,81.547,,,,,,,,,,60.984,38.137,61.863
+Psychologists,United States,New York,26379,1790,22410,983,801,,,395,1828,6598,5670,4486,7797,6763,19616,6.786,84.954,3.726,3.037,,,1.497,6.93,25.012,21.494,17.006,29.558,25.638,74.362
+Psychologists,United States,North Carolina,6093,,4936,639,,,,,608,1223,1849,1277,1136,1684,4409,,81.011,10.487,,,,,9.979,20.072,30.346,20.958,18.644,27.638,72.362
+Psychologists,United States,North Dakota,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Psychologists,United States,Ohio,6291,,5080,538,,,,,752,1613,1339,677,1910,1587,4704,,80.75,8.552,,,,,11.954,25.64,21.284,10.761,30.361,25.227,74.773
+Psychologists,United States,Oklahoma,1954,,1556,,,,,,,,222,,,357,1597,,79.632,,,,,,,,11.361,,,18.27,81.73
+Psychologists,United States,Oregon,3776,,3186,,,,,,,757,1189,661,803,1090,2686,,84.375,,,,,,,20.048,31.488,17.505,21.266,28.867,71.133
+Psychologists,United States,Pennsylvania,10209,,8798,,,,,,1096,2676,2334,1639,2464,2935,7274,,86.179,,,,,,10.736,26.212,22.862,16.054,24.136,28.749,71.251
+Psychologists,United States,Rhode Island,1300,,1054,,,,,,,,,,244,252,1048,,81.077,,,,,,,,,,18.769,19.385,80.615
+Psychologists,United States,South Carolina,1652,,1385,,,,,,,523,179,353,471,355,1297,,83.838,,,,,,,31.659,10.835,21.368,28.511,21.489,78.511
+Psychologists,United States,South Dakota,422,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Psychologists,United States,Tennessee,3435,,2684,,,,,,,839,848,452,1051,746,2689,,78.137,,,,,,,24.425,24.687,13.159,30.597,21.718,78.282
+Psychologists,United States,Texas,12355,2196,7825,1887,,,,,1472,3298,2743,2085,2757,3404,8951,17.774,63.335,15.273,,,,,11.914,26.694,22.202,16.876,22.315,27.552,72.448
+Psychologists,United States,Utah,2108,,1868,,,,,,,502,,597,359,656,1452,,88.615,,,,,,,23.814,,28.321,17.03,31.12,68.88
+Psychologists,United States,Vermont,729,,723,,,,,,,,,,,,540,,99.177,,,,,,,,,,,,74.074
+Psychologists,United States,Virginia,5678,,4260,702,,,,,584,1418,1282,1093,1301,1568,4110,,75.026,12.364,,,,,10.285,24.974,22.578,19.25,22.913,27.615,72.385
+Psychologists,United States,Washington,5356,,4408,,209,,,,376,1145,1289,794,1752,1631,3725,,82.3,,3.902,,,,7.02,21.378,24.066,14.824,32.711,30.452,69.548
+Psychologists,United States,West Virginia,1060,,906,,,,,,,,,,,,835,,85.472,,,,,,,,,,,,78.774
+Psychologists,United States,Wisconsin,5273,,4970,,,,,,1263,1183,959,892,976,1197,4076,,94.254,,,,,,23.952,22.435,18.187,16.916,18.509,22.701,77.299
+Psychologists,United States,Wyoming,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Psychologists,United States,All States,236516,21348,185931,14265,7980,,,6578,20771,58047,52157,41719,63822,63237,173279,9.026,78.612,6.031,3.374,,,2.781,8.782,24.543,22.052,17.639,26.984,26.737,73.263
+Registered Nurses,United States,Alabama,54241,810,40844,10090,726,,,1558,11175,12983,13151,10880,6052,5927,48314,1.493,75.301,18.602,1.338,,,2.872,20.602,23.936,24.245,20.059,11.158,10.927,89.073
+Registered Nurses,United States,Alaska,7921,,5795,,,,,,,1629,2038,1705,1074,1089,6832,,73.16,,,,,,,20.566,25.729,21.525,13.559,13.748,86.252
+Registered Nurses,United States,Arizona,61556,10155,41184,3287,4132,,616,2129,10695,15853,14362,11833,8813,8099,53457,16.497,66.905,5.34,6.713,,1.001,3.459,17.374,25.754,23.332,19.223,14.317,13.157,86.843
+Registered Nurses,United States,Arkansas,34481,1205,27815,3723,628,,,1026,6085,9968,7982,6724,3722,4181,30300,3.495,80.668,10.797,1.821,,,2.976,17.647,28.909,23.149,19.501,10.794,12.126,87.874
+Registered Nurses,United States,California,331844,53529,130821,22253,111636,856,558,12191,42892,92652,83934,66027,46339,55377,276467,16.131,39.422,6.706,33.641,0.258,0.168,3.674,12.925,27.92,25.293,19.897,13.964,16.688,83.312
+Registered Nurses,United States,Colorado,55816,6213,43951,1451,2161,,,1981,9170,16502,12795,9764,7585,6052,49764,11.131,78.743,2.6,3.872,,,3.549,16.429,29.565,22.924,17.493,13.589,10.843,89.157
+Registered Nurses,United States,Connecticut,37634,2761,27875,3642,2256,,,1046,5249,7627,8947,9438,6373,3566,34068,7.336,74.069,9.677,5.995,,,2.779,13.947,20.266,23.774,25.078,16.934,9.475,90.525
+Registered Nurses,United States,Delaware,12006,487,8591,2072,403,,,,1811,2758,2881,2896,1660,993,11013,4.056,71.556,17.258,3.357,,,,15.084,22.972,23.996,24.121,13.826,8.271,91.729
+Registered Nurses,United States,District of Columbia,11146,496,3472,5743,1158,,,,2012,3068,2189,2152,1725,1364,9782,4.45,31.15,51.525,10.389,,,,18.051,27.526,19.639,19.307,15.476,12.238,87.762
+Registered Nurses,United States,Florida,224125,40633,121984,38807,14901,,,7421,33816,53580,53790,48894,34045,31244,192881,18.13,54.427,17.315,6.649,,,3.311,15.088,23.906,24,21.816,15.19,13.94,86.06
+Registered Nurses,United States,Georgia,97183,3678,59064,27522,4293,,,2352,16134,22105,25882,20709,12353,8753,88430,3.785,60.776,28.32,4.417,,,2.42,16.602,22.746,26.632,21.309,12.711,9.007,90.993
+Registered Nurses,United States,Hawaii,13958,1246,3357,,6584,449,,2127,2004,4391,3765,2356,1442,2522,11436,8.927,24.051,,47.17,3.217,,15.239,14.357,31.459,26.974,16.879,10.331,18.068,81.932
+Registered Nurses,United States,Idaho,15413,962,13819,,,,,,1935,4258,4172,3274,1774,2251,13162,6.241,89.658,,,,,,12.554,27.626,27.068,21.242,11.51,14.605,85.395
+Registered Nurses,United States,Illinois,136764,10614,91003,12901,18940,,,3245,24210,34270,31058,26816,20410,13756,123008,7.761,66.54,9.433,13.849,,,2.373,17.702,25.058,22.709,19.607,14.924,10.058,89.942
+Registered Nurses,United States,Indiana,78695,2234,67323,5748,1568,,,1672,14048,20731,17064,16830,10022,6429,72266,2.839,85.549,7.304,1.993,,,2.125,17.851,26.343,21.684,21.386,12.735,8.17,91.83
+Registered Nurses,United States,Iowa,36639,1072,33665,539,768,,,,6043,9240,7981,8629,4746,2293,34346,2.926,91.883,1.471,2.096,,,,16.493,25.219,21.783,23.551,12.953,6.258,93.742
+Registered Nurses,United States,Kansas,36218,1763,31249,1275,868,,,915,6966,10317,8069,6621,4245,3374,32844,4.868,86.28,3.52,2.397,,,2.526,19.234,28.486,22.279,18.281,11.721,9.316,90.684
+Registered Nurses,United States,Kentucky,47570,616,43131,2231,511,,,1033,9527,12671,10102,9740,5530,4545,43025,1.295,90.668,4.69,1.074,,,2.172,20.027,26.637,21.236,20.475,11.625,9.554,90.446
+Registered Nurses,United States,Louisiana,50904,1521,35466,11727,844,,,1210,9201,14046,11603,10508,5546,6236,44668,2.988,69.672,23.037,1.658,,,2.377,18.075,27.593,22.794,20.643,10.895,12.251,87.749
+Registered Nurses,United States,Maine,15478,,14414,,,,,,3126,2686,3635,3316,2715,1230,14248,,93.126,,,,,,20.196,17.354,23.485,21.424,17.541,7.947,92.053
+Registered Nurses,United States,Maryland,62976,2635,34163,19562,4990,,,1572,10293,15042,14451,12627,10563,6503,56473,4.184,54.248,31.063,7.924,,,2.496,16.344,23.885,22.947,20.05,16.773,10.326,89.674
+Registered Nurses,United States,Massachusetts,89841,3706,70832,8881,3682,,,2715,14845,19963,17874,20656,16503,8796,81045,4.125,78.842,9.885,4.098,,,3.022,16.524,22.22,19.895,22.992,18.369,9.791,90.209
+Registered Nurses,United States,Michigan,103524,2762,84901,8254,4799,,215,2560,16245,25121,23890,22933,15335,11469,92055,2.668,82.011,7.973,4.636,,0.208,2.473,15.692,24.266,23.077,22.152,14.813,11.079,88.921
+Registered Nurses,United States,Minnesota,72593,965,61807,4773,2844,,,2066,13577,21266,16981,12000,8769,7639,64954,1.329,85.142,6.575,3.918,,,2.846,18.703,29.295,23.392,16.531,12.08,10.523,89.477
+Registered Nurses,United States,Mississippi,33213,,23137,8573,369,,,445,7310,8485,7577,6167,3674,3233,29980,,69.662,25.812,1.111,,,1.34,22.009,25.547,22.813,18.568,11.062,9.734,90.266
+Registered Nurses,United States,Missouri,72030,1669,61510,5510,1505,,,1552,13827,19230,14835,14201,9937,6767,65263,2.317,85.395,7.65,2.089,,,2.155,19.196,26.697,20.596,19.715,13.796,9.395,90.605
+Registered Nurses,United States,Montana,10970,,9715,,,,310,,1422,3329,2419,2333,1467,1216,9754,,88.56,,,,2.826,,12.963,30.346,22.051,21.267,13.373,11.085,88.915
+Registered Nurses,United States,Nebraska,24357,1289,21943,,,,,,4714,7253,4889,4195,3306,1800,22557,5.292,90.089,,,,,,19.354,29.778,20.072,17.223,13.573,7.39,92.61
+Registered Nurses,United States,Nevada,25350,2468,12376,1516,7820,,,928,4615,7277,5336,4576,3546,4141,21209,9.736,48.821,5.98,30.848,,,3.661,18.205,28.706,21.049,18.051,13.988,16.335,83.665
+Registered Nurses,United States,New Hampshire,15342,,14163,,354,,,,2306,3349,3298,3904,2485,2359,12983,,92.315,,2.307,,,,15.031,21.829,21.497,25.446,16.197,15.376,84.624
+Registered Nurses,United States,New Jersey,84582,6770,49228,12602,13763,,,2157,13246,17325,17121,21041,15849,9013,75569,8.004,58.202,14.899,16.272,,,2.55,15.661,20.483,20.242,24.876,18.738,10.656,89.344
+Registered Nurses,United States,New Mexico,18452,5858,10008,515,926,,742,403,2711,4717,3512,4419,3093,2358,16094,31.747,54.238,2.791,5.018,,4.021,2.184,14.692,25.564,19.033,23.949,16.762,12.779,87.221
+Registered Nurses,United States,New York,212541,17061,118954,40085,30553,,250,5537,34568,48391,45613,48372,35597,27878,184663,8.027,55.968,18.86,14.375,,0.118,2.605,16.264,22.768,21.461,22.759,16.748,13.117,86.883
+Registered Nurses,United States,North Carolina,107198,3122,79239,17965,3426,,804,2601,18598,24932,26345,23841,13482,10423,96775,2.912,73.918,16.759,3.196,,0.75,2.426,17.349,23.258,24.576,22.24,12.577,9.723,90.277
+Registered Nurses,United States,North Dakota,13598,,12159,,574,,,,3759,2809,3175,2119,1736,1260,12338,,89.418,,4.221,,,,27.644,20.657,23.349,15.583,12.767,9.266,90.734
+Registered Nurses,United States,Ohio,147040,3281,126005,11185,2566,,,3847,27256,37302,33469,30801,18212,15220,131820,2.231,85.694,7.607,1.745,,,2.616,18.536,25.369,22.762,20.947,12.386,10.351,89.649
+Registered Nurses,United States,Oklahoma,37128,1040,27014,2101,1604,,2611,2758,6250,10094,9983,6137,4664,4193,32935,2.801,72.759,5.659,4.32,,7.032,7.428,16.834,27.187,26.888,16.529,12.562,11.293,88.707
+Registered Nurses,United States,Oregon,40161,2300,33136,516,1826,,,2104,5407,12098,9242,7255,6159,5467,34694,5.727,82.508,1.285,4.547,,,5.239,13.463,30.124,23.012,18.065,15.336,13.613,86.387
+Registered Nurses,United States,Pennsylvania,151906,4760,128021,10331,5253,,,3372,26666,37092,32033,32298,23817,15746,136160,3.134,84.276,6.801,3.458,,,2.22,17.554,24.418,21.087,21.262,15.679,10.366,89.634
+Registered Nurses,United States,Rhode Island,11637,,9825,698,,,,,1584,2913,2103,2429,2608,1174,10463,,84.429,5.998,,,,,13.612,25.032,18.072,20.873,22.411,10.089,89.911
+Registered Nurses,United States,South Carolina,50700,1412,38668,8730,984,,,774,8736,13279,11313,11395,5977,3908,46792,2.785,76.268,17.219,1.941,,,1.527,17.231,26.191,22.314,22.475,11.789,7.708,92.292
+Registered Nurses,United States,South Dakota,12177,,11172,,,,,,2779,2953,2155,2715,1575,1169,11008,,91.747,,,,,,22.822,24.251,17.697,22.296,12.934,9.6,90.4
+Registered Nurses,United States,Tennessee,77537,1305,64393,8885,1401,,,1528,16539,18491,18043,14852,9612,9050,68487,1.683,83.048,11.459,1.807,,,1.971,21.33,23.848,23.27,19.155,12.397,11.672,88.328
+Registered Nurses,United States,Texas,261112,56724,128420,39050,30290,,432,6006,47005,73774,63482,47338,29513,36763,224349,21.724,49.182,14.955,11.6,,0.165,2.3,18.002,28.254,24.312,18.129,11.303,14.079,85.921
+Registered Nurses,United States,Utah,24717,853,22061,,676,,,505,4547,7585,6469,3894,2222,3474,21243,3.451,89.254,,2.735,,,2.043,18.396,30.687,26.172,15.754,8.99,14.055,85.945
+Registered Nurses,United States,Vermont,7587,,7036,,,,,,1256,1883,1164,1428,1856,692,6895,,92.738,,,,,,16.555,24.819,15.342,18.822,24.463,9.121,90.879
+Registered Nurses,United States,Virginia,78966,4055,53041,13557,5600,,,2558,12911,21296,16602,16799,11358,7906,71060,5.135,67.169,17.168,7.092,,,3.239,16.35,26.969,21.024,21.274,14.383,10.012,89.988
+Registered Nurses,United States,Washington,68609,2935,50658,3527,8407,,203,2753,10875,18385,15844,13468,10037,8709,59900,4.278,73.836,5.141,12.253,,0.296,4.013,15.851,26.797,23.093,19.63,14.629,12.694,87.306
+Registered Nurses,United States,West Virginia,21385,,19918,,,,,,2966,5350,6401,3791,2877,2134,19251,,93.14,,,,,,13.87,25.018,29.932,17.727,13.453,9.979,90.021
+Registered Nurses,United States,Wisconsin,68599,2517,59554,3056,2025,,,1193,11685,18714,14632,14325,9243,4575,64024,3.669,86.815,4.455,2.952,,,1.739,17.034,27.28,21.33,20.882,13.474,6.669,93.331
+Registered Nurses,United States,Wyoming,5721,,4982,,,,,,849,1518,1065,1329,960,,5241,,87.083,,,,,,14.84,26.534,18.616,23.23,16.78,,91.61
+Registered Nurses,United States,All States,3371141,273582,2292862,386165,310714,2984,10536,94298,566921,862551,776716,692750,472203,394796,2976345,8.115,68.014,11.455,9.217,0.089,0.313,2.797,16.817,25.586,23.04,20.549,14.007,11.711,88.289
